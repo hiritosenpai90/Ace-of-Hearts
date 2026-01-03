@@ -1012,9 +1012,6 @@ https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8?low_latency=1&fast_start=1
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?low_latency=1&fast_start=1
 
 
-
-
-
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E", A&E
 https://fl1.moveonjoy.com/ANE/mpegts
 
@@ -1435,7 +1432,7 @@ https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone", NFL REDZONE
-https://fl1.moveonjoy.com/NFL_RedZone/mpegts
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL Network", NHL NETWORK
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
