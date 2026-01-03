@@ -10,46 +10,6 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@8AM San Antonio Spurs vs. Indiana Pacers
-https://gg.poocloud.in/indianapacers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@8AM Brooklyn Nets vs. Washington Wizards
-https://gg.poocloud.in/washingtonwizards/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@8:30AM Denver Nuggets vs. Cleveland Cavaliers
-https://gg.poocloud.in/clevelandcavaliers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@8:30AM Atlanta Hawks vs. New York Knicks
-https://gg.poocloud.in/newyorkknicks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@9AM Orlando Magic vs. Chicago Bulls
-https://gg.poocloud.in/chicagobulls/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@9AM Charlotte Hornets vs. Milwaukee Bucks
-https://gg.poocloud.in/milwaukeebucks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@9AM Portland Trail Blazers vs. New Orleans Pelicans
-https://gg.poocloud.in/neworleanspelicans/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@10AM Sacramento Kings vs. Phoenix Suns
-https://gg.poocloud.in/phoenixsuns/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@11AM Oklahoma City Thunder vs. Golden State Warriors
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 3-Sat)",@11:30AM Memphis Grizzlies vs. Los Angeles Lakers
-https://gg.poocloud.in/losangeleslakers/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@6AM Minnesota Timberwolves vs. Miami Heat
 https://gg.poocloud.in/miamiheat/index.m3u8
 
@@ -75,6 +35,90 @@ https://gg.poocloud.in/goldenstatewarriors/index.m3u8
 https://gg.poocloud.in/laclippers/index.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@3AM Detroit Pistons vs. Cleveland Cavaliers
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@4AM Indiana Pacers vs. Orlando Magic
+https://gg.poocloud.in/orlandomagic/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@4:30AM Denver Nuggets vs. Brooklyn Nets
+https://gg.poocloud.in/brooklynnets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@7AM New Orleans Pelicans vs. Miami Heat
+https://gg.poocloud.in/miamiheat/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@7AM Minnesota Timberwolves vs. Washington Wizards
+https://gg.poocloud.in/washingtonwizards/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@9AM Oklahoma City Thunder vs. Phoenix Suns
+https://gg.poocloud.in/phoenixsuns/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@10AM Milwaukee Bucks vs. Sacramento Kings
+https://gg.poocloud.in/sacramentokings/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@10:30AM Memphis Grizzlies vs. Los Angeles Lakers
+https://gg.poocloud.in/losangeleslakers/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@8AM New York Knicks vs. Detroit Pistons
+https://gg.poocloud.in/detroitpistons/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@8:30AM Chicago Bulls vs. Boston Celtics
+https://gg.poocloud.in/bostonceltics/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@8:30AM Atlanta Hawks vs. Toronto Raptors
+https://gg.poocloud.in/torontoraptors/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@9AM Phoenix Suns vs. Houston Rockets
+https://gg.poocloud.in/houstonrockets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@9AM Charlotte Hornets vs. Oklahoma City Thunder
+https://gg.poocloud.in/oklahomacitythunder/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@9:30AM Denver Nuggets vs. Philadelphia 76ers
+https://gg.poocloud.in/philadelphia76ers/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@11AM Golden State Warriors vs. Los Angeles Clippers
+https://gg.poocloud.in/laclippers/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 6-Tue)",@11AM Utah Jazz vs. Portland Trail Blazers
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@8AM Cleveland Cavaliers vs. Indiana Pacers
+https://gg.poocloud.in/indianapacers/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@8AM Orlando Magic vs. Washington Wizards
+https://gg.poocloud.in/washingtonwizards/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@9AM San Antonio Spurs vs. Memphis Grizzlies
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@9AM Miami Heat vs. Minnesota Timberwolves
+https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@9AM Los Angeles Lakers vs. New Orleans Pelicans
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 7-Wed)",@12PM Dallas Mavericks vs. Sacramento Kings
+https://gg.poocloud.in/sacramentokings/index.m3u8
 
 
 
@@ -1432,7 +1476,7 @@ https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone", NFL REDZONE
-https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
+https://fl41.moveonjoy.com/NFL_RedZone/mpegts
 
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL Network", NHL NETWORK
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
