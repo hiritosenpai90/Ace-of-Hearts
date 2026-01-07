@@ -162,10 +162,13 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel
+https://gsattv.akamaized.net/live/media0/kapamilya/Fairplay/kapamilya.m3u8
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
@@ -178,6 +181,12 @@ http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5(test)
 http://103.244.145.15/live/anita123/anita123/150972.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5
+https://gsattv.akamaized.net/live/media0/tv5/Fairplay/tv5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5
+https://gsattv.akamaized.net/live/media0/tv5/Widevine/tv5.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="PH HayabusaTV",RPTV
 http://103.244.145.15/live/anita123/anita123/151070.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -2897,6 +2906,10 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvstar.live:8880/channels_icon/75187279341.png" group-title="MOVIE CHANNELS",STAR MOVIES
 http://line.iptvwings.com:80/play/live.php?mac=a0:bb:3e:01:66:5a&stream=1116488&extension=ts&play_token=ULVB21H156
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvstar.live:8880/channels_icon/75187279341.png" group-title="MOVIE CHANNELS",STAR MOVIES HD
+http://103.175.242.10:8080/starmovies/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tvstar.live:8880/channels_icon/11697109311.png" group-title="MOVIE CHANNELS",STAR MOVIES SELECT HD
 http://line.iptvwings.com:80/play/live.php?mac=a0:bb:3e:01:66:5a&stream=155729&extension=ts&play_token=TRymQwd5vB
 #EXTINF:-1 group-title="MOVIE CHANNELS",US HBO SIGNATURE (East) 
