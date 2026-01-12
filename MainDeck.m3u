@@ -8,12 +8,18 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="The.Simpsons.Live" tvg-name="The Simpsons 24/7" group-title="Cartoon Streams",The Simpsons 24/7
+#EXTINF:-1 tvg-id="The.Simpsons.Live" tvg-name="The Simpsons 24/7" group-title="Cartoon Streams1",The Simpsons 24/7
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 type=stream tvg-id="simpsons" tvg-name="The Simpsons 24/7" group-title="Live Cartoons",The Simpsons 24/7
+#EXTINF:-1 type=stream tvg-id="simpsons" tvg-name="The Simpsons 24/7" group-title="Live Cartoons1",The Simpsons 24/7
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
 
 
