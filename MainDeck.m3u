@@ -7,6 +7,29 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="The.Simpsons.Live" tvg-name="The Simpsons 24/7" group-title="Cartoon Streams",The Simpsons 24/7
+https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 type=stream tvg-id="simpsons" tvg-name="The Simpsons 24/7" group-title="Live Cartoons",The Simpsons 24/7
+https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
+
+#EXTINF:-1 tvg-id="TheSimpsons.us" tvg-name="The Simpsons 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="Cartoon Streams",The Simpsons 24/7
+https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz" refresh="3600"
+
+#EXTINF:-1 type=stream tvg-id="TheSimpsons.us" tvg-name="The Simpsons 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="Kids | Cartoons",The Simpsons 24/7
+https://strm.poocloud.in/secure/WjbaWpzjLcDOjGnUOTlmoyVNRgZuwemi/thesimpsons/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live (Jan 12-Mon)",4AM New Orleans Pelicans vs. Orlando Magic
