@@ -9,29 +9,31 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",@8AM Utah Jazz vs. Cleveland Cavaliers
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/VhnEXxlArGWsKRbZPIxMLvkRrESnPVZQ/thesimpsons/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/PjglttEVXgEAqnbPhEzlEPiDpeIqcYHu/clevelandcavaliers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",@8:30AM Boston Celtics vs. Indiana Pacers
-https://strm.poocloud.in/secure/JKpAMpmNbuwlzoaiprFxHJofJDTqtmoB/familyguy/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/bVULDdfZywTTEQBxRvGxMtrcexoAMJAD/indianapacers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",@8:30AM Philadelphia 76ers vs. Toronto Raptors
-https://strm.poocloud.in/secure/KeCKtRGUnutntHoGBxMlgnYpPRTZULKh/southpark/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/hcSWBHFAVteSFUXmcuoTbQdOfgXOltLI/torontoraptors/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",@9:30AM Brooklyn Nets vs. Dallas Mavericks
-https://gg.poocloud.in/dallasmavericks/index.m3u8
+https://strm.poocloud.in/secure/TFCHETKXwbyqDKDBHadwnzAuXPwbbKyf/dallasmavericks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",11AM Los Angeles Lakers vs. Sacramento Kings
-https://gg.poocloud.in/sacramentokings/index.m3u8
+https://strm.poocloud.in/secure/bLxDlxldQPVhfAYpGNmjwPojRzduEmVt/sacramentokings/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 13-Tue)",@11:30AM Charlotte Hornets vs. Los Angeles Clippers
-https://gg.poocloud.in/laclippers/index.m3u8
+https://strm.poocloud.in/secure/YRyTVLPXeAGxxyUbWErSEQfMoQMTgvbT/laclippers/index.m3u8
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id=NBA.Basketball.Dummy.us tvg-logo=https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg group-title="🏀 NBA Live (Jan 13 Tue)",@8AM Utah Jazz vs Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://strm.poocloud.in/secure/VhnEXxlArGWsKRbZPIxMLvkRrESnPVZQ/thesimpsons/tracks-v1a1/mono.ts.m3u8
 
 
 
