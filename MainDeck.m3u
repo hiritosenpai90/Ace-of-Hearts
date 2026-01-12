@@ -28,6 +28,11 @@ https://strm.poocloud.in/secure/YRyTVLPXeAGxxyUbWErSEQfMoQMTgvbT/laclippers/inde
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Snooker.Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Snooker_icon.png" group-title="Sports", Snooker Live
+https://strm.poocloud.in/secure/MykMeYYRoXVJqlCbPuUBHuzGxOmfMtwO/snooker/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg" group-title="Billiard Event(Jan 12-Mon)",9PM The Masters
 https://strm.poocloud.in/secure/MykMeYYRoXVJqlCbPuUBHuzGxOmfMtwO/snooker/tracks-v1a1/mono.ts.m3u8
