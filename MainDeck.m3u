@@ -19,10 +19,10 @@ https://strm.poocloud.in/secure/kZEYvYkuSVRCnLgTuPDVyDVaUGFtBnub/1768518000/1768
 https://strm.poocloud.in/secure/JxOZbLtdlqdggoQGSdubWkMgDCfKPwTg/1768519800/1768544280/dallasmavericks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1ecce016d8498f2191d61d97a88238cb-thumbnail.jpg" group-title="🏀 NBA Live(Source 1)",@11AM New York Knicks vs. Golden State Warriors
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
+https://strm.poocloud.in/dallasmavericks/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/37a073a2b5dc5bf3e9363ad631ee5d01-thumbnail.jpg" group-title="🏀 NBA Live(Source 1)",@11AM Atlanta Hawks vs. Portland Trail Blazers
-https://strm.poocloud.in/chunks/dallasmavericks.m3u8
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cf3341815b5ca4e4287cd7c049721e16-thumbnail.jpg" group-title="🏀 NBA Live(Source 1)",@11:30AM Charlotte Hornets vs. Los Angeles Lakers
 https://gg.poocloud.in/losangeleslakers/index.m3u8
