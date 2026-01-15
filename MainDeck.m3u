@@ -1,710 +1,1187 @@
-#EXTM3U x-tvg-url="https://int.klcis.cc/api/epg.xml"
-
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="Live",A&E US Eastern Feed SD
-https://int.klcis.cc/api/m3u/AEEast?quality=sd
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="Live",A&E US Eastern Feed HD
-https://int.klcis.cc/api/m3u/AEEast?quality=hd
-#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles SD" group-title="Live",ABC (KABC) Los Angeles SD
-https://int.klcis.cc/api/m3u/abc-kabc-los-angeles-ca?quality=sd
-#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="Live",ABC (KABC) Los Angeles HD
-https://int.klcis.cc/api/m3u/abc-kabc-los-angeles-ca?quality=hd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY SD" group-title="Live",ABC (WABC) New York, NY SD
-https://int.klcis.cc/api/m3u/WABCDT1?quality=sd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY HD" group-title="Live",ABC (WABC) New York, NY HD
-https://int.klcis.cc/api/m3u/WABCDT1?quality=hd
-#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network SD" group-title="Live",ACC Network SD
-https://int.klcis.cc/api/m3u/ACCNetwork?quality=sd
-#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network HD" group-title="Live",ACC Network HD
-https://int.klcis.cc/api/m3u/ACCNetwork?quality=hd
-#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver SD" group-title="Live",Altitude Sports Denver SD
-https://int.klcis.cc/api/m3u/altitude-sports-denver?quality=sd
-#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver HD" group-title="Live",Altitude Sports Denver HD
-https://int.klcis.cc/api/m3u/altitude-sports-denver?quality=hd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed SD" group-title="Live",AMC Eastern Feed SD
-https://int.klcis.cc/api/m3u/AMCEast?quality=sd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed HD" group-title="Live",AMC Eastern Feed HD
-https://int.klcis.cc/api/m3u/AMCEast?quality=hd
-#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel SD" group-title="Live",American Heroes Channel SD
-https://int.klcis.cc/api/m3u/AmericanHeroesChannel?quality=sd
-#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel HD" group-title="Live",American Heroes Channel HD
-https://int.klcis.cc/api/m3u/AmericanHeroesChannel?quality=hd
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" group-title="Live",Animal Planet US East SD
-https://int.klcis.cc/api/m3u/AnimalPlanetEast?quality=sd
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East HD" group-title="Live",Animal Planet US East HD
-https://int.klcis.cc/api/m3u/AnimalPlanetEast?quality=hd
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="Live",BBC America East SD
-https://int.klcis.cc/api/m3u/BBCAmericaEast?quality=sd
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East HD" group-title="Live",BBC America East HD
-https://int.klcis.cc/api/m3u/BBCAmericaEast?quality=hd
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="Live",BBC News North America HD SD
-https://int.klcis.cc/api/m3u/BBCWorldNewsNorthAmerica?quality=sd
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD HD" group-title="Live",BBC News North America HD HD
-https://int.klcis.cc/api/m3u/BBCWorldNewsNorthAmerica?quality=hd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed SD" group-title="Live",BET Eastern Feed SD
-https://int.klcis.cc/api/m3u/BETEast?quality=sd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed HD" group-title="Live",BET Eastern Feed HD
-https://int.klcis.cc/api/m3u/BETEast?quality=hd
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her SD" group-title="Live",BET Her SD
-https://int.klcis.cc/api/m3u/BETHerEast?quality=sd
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her HD" group-title="Live",BET Her HD
-https://int.klcis.cc/api/m3u/BETHerEast?quality=hd
-#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network SD" group-title="Live",Big Ten Network SD
-https://int.klcis.cc/api/m3u/BTN?quality=sd
-#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network HD" group-title="Live",Big Ten Network HD
-https://int.klcis.cc/api/m3u/BTN?quality=hd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA SD" group-title="Live",Bloomberg TV USA SD
-https://int.klcis.cc/api/m3u/BloombergTV?quality=sd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA HD" group-title="Live",Bloomberg TV USA HD
-https://int.klcis.cc/api/m3u/BloombergTV?quality=hd
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang SD" group-title="Live",Boomerang SD
-https://int.klcis.cc/api/m3u/Boomerang?quality=sd
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang HD" group-title="Live",Boomerang HD
-https://int.klcis.cc/api/m3u/Boomerang?quality=hd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed SD" group-title="Live",Bravo USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/BravoEast?quality=sd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="Live",Bravo USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/BravoEast?quality=hd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN SD" group-title="Live",C-SPAN SD
-https://int.klcis.cc/api/m3u/CSPAN?quality=sd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
-https://int.klcis.cc/api/m3u/CSPAN?quality=hd
-#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 SD" group-title="Live",C-SPAN 2 SD
-https://int.klcis.cc/api/m3u/CSPAN2?quality=sd
-#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 HD" group-title="Live",C-SPAN 2 HD
-https://int.klcis.cc/api/m3u/CSPAN2?quality=hd
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="Live",Cartoon Network USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/CartoonNetworkEast?quality=sd
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/CartoonNetworkEast?quality=hd
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles SD" group-title="Live",CBS (KCBS) Los Angeles SD
-https://int.klcis.cc/api/m3u/cbs-kcbs-los-angeles-ca?quality=sd
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles HD" group-title="Live",CBS (KCBS) Los Angeles HD
-https://int.klcis.cc/api/m3u/cbs-kcbs-los-angeles-ca?quality=hd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY SD" group-title="Live",CBS (WCBS) New York, NY SD
-https://int.klcis.cc/api/m3u/WCBSDT1?quality=sd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY HD" group-title="Live",CBS (WCBS) New York, NY HD
-https://int.klcis.cc/api/m3u/WCBSDT1?quality=hd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="Live",CBS Sports Network USA SD
-https://int.klcis.cc/api/m3u/CBSSportsNetworkUSA?quality=sd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA HD" group-title="Live",CBS Sports Network USA HD
-https://int.klcis.cc/api/m3u/CBSSportsNetworkUSA?quality=hd
-#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network SD" group-title="Live",Chicago Sports Network SD
-https://int.klcis.cc/api/m3u/chicago-sports-network?quality=sd
-#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="Live",Chicago Sports Network HD
-https://int.klcis.cc/api/m3u/chicago-sports-network?quality=hd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="Live",Cinemax Eastern Feed SD
-https://int.klcis.cc/api/m3u/CinemaxEast?quality=sd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
-https://int.klcis.cc/api/m3u/CinemaxEast?quality=hd
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed SD" group-title="Live",CMT US Eastern Feed SD
-https://int.klcis.cc/api/m3u/CMTEast?quality=sd
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="Live",CMT US Eastern Feed HD
-https://int.klcis.cc/api/m3u/CMTEast?quality=hd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA SD" group-title="Live",CNBC USA SD
-https://int.klcis.cc/api/m3u/CNBC?quality=sd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="Live",CNBC USA HD
-https://int.klcis.cc/api/m3u/CNBC?quality=hd
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US SD" group-title="Live",CNN US SD
-https://int.klcis.cc/api/m3u/CNN?quality=sd
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US HD" group-title="Live",CNN US HD
-https://int.klcis.cc/api/m3u/CNN?quality=hd
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed SD" group-title="Live",Comedy Central (US) Eastern Feed SD
-https://int.klcis.cc/api/m3u/ComedyCentralEast?quality=sd
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed HD" group-title="Live",Comedy Central (US) Eastern Feed HD
-https://int.klcis.cc/api/m3u/ComedyCentralEast?quality=hd
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD SD" group-title="Live",Crime & Investigation Network USA HD SD
-https://int.klcis.cc/api/m3u/CrimePlusInvestigation?quality=sd
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD HD" group-title="Live",Crime & Investigation Network USA HD HD
-https://int.klcis.cc/api/m3u/CrimePlusInvestigation?quality=hd
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego SD" group-title="Live",CW (KFMB-TV2) San Diego SD
-https://int.klcis.cc/api/m3u/cw-kfmbtv2-san-diego-ca?quality=sd
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego HD" group-title="Live",CW (KFMB-TV2) San Diego HD
-https://int.klcis.cc/api/m3u/cw-kfmbtv2-san-diego-ca?quality=hd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia SD" group-title="Live",CW (WDCW) District of Columbia SD
-https://int.klcis.cc/api/m3u/cw-wdcw-district-of-columbia?quality=sd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia HD" group-title="Live",CW (WDCW) District of Columbia HD
-https://int.klcis.cc/api/m3u/cw-wdcw-district-of-columbia?quality=hd
-#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America SD" group-title="Live",Destination America SD
-https://int.klcis.cc/api/m3u/DestinationAmerica?quality=sd
-#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America HD" group-title="Live",Destination America HD
-https://int.klcis.cc/api/m3u/DestinationAmerica?quality=hd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed SD" group-title="Live",Discovery Channel (US) Eastern Feed SD
-https://int.klcis.cc/api/m3u/DiscoveryChannelEast?quality=sd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live",Discovery Channel (US) Eastern Feed HD
-https://int.klcis.cc/api/m3u/DiscoveryChannelEast?quality=hd
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel SD" group-title="Live",Discovery Family Channel SD
-https://int.klcis.cc/api/m3u/DiscoveryFamily?quality=sd
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel HD" group-title="Live",Discovery Family Channel HD
-https://int.klcis.cc/api/m3u/DiscoveryFamily?quality=hd
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel SD" group-title="Live",Discovery Life Channel SD
-https://int.klcis.cc/api/m3u/DiscoveryLife?quality=sd
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel HD" group-title="Live",Discovery Life Channel HD
-https://int.klcis.cc/api/m3u/DiscoveryLife?quality=hd
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="Live",Disney Eastern Feed SD
-https://int.klcis.cc/api/m3u/DisneyChannelEast?quality=sd
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed HD" group-title="Live",Disney Eastern Feed HD
-https://int.klcis.cc/api/m3u/DisneyChannelEast?quality=hd
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="Live",Disney Junior USA East SD
-https://int.klcis.cc/api/m3u/DisneyJuniorEast?quality=sd
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East HD" group-title="Live",Disney Junior USA East HD
-https://int.klcis.cc/api/m3u/DisneyJuniorEast?quality=hd
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed SD" group-title="Live",Disney XD USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/DisneyXDEast?quality=sd
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed HD" group-title="Live",Disney XD USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/DisneyXDEast?quality=hd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live",E! Entertainment USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/EEast?quality=sd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed HD" group-title="Live",E! Entertainment USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/EEast?quality=hd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Live",ESPN SD
-https://int.klcis.cc/api/m3u/ESPN?quality=sd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
-https://int.klcis.cc/api/m3u/ESPN?quality=hd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" group-title="Live",ESPN Deportes SD
-https://int.klcis.cc/api/m3u/espn-deportes?quality=sd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="Live",ESPN Deportes HD
-https://int.klcis.cc/api/m3u/espn-deportes?quality=hd
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="Live",ESPN News SD
-https://int.klcis.cc/api/m3u/ESPNews?quality=sd
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="Live",ESPN News HD
-https://int.klcis.cc/api/m3u/ESPNews?quality=hd
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" group-title="Live",ESPN U SD
-https://int.klcis.cc/api/m3u/ESPNU?quality=sd
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="Live",ESPN U HD
-https://int.klcis.cc/api/m3u/ESPNU?quality=hd
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Live",ESPN2 SD
-https://int.klcis.cc/api/m3u/ESPN2?quality=sd
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" group-title="Live",ESPN2 HD
-https://int.klcis.cc/api/m3u/ESPN2?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana SD" group-title="Live",Fanduel Sports Indiana SD
-https://int.klcis.cc/api/m3u/fanduel-sports-indiana?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana HD" group-title="Live",Fanduel Sports Indiana HD
-https://int.klcis.cc/api/m3u/fanduel-sports-indiana?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit SD" group-title="Live",Fanduel Sports Network Detroit SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-detroit-hd?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit HD" group-title="Live",Fanduel Sports Network Detroit HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-detroit-hd?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida SD" group-title="Live",Fanduel Sports Network Florida SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-florida?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida HD" group-title="Live",Fanduel Sports Network Florida HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-florida?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes SD" group-title="Live",Fanduel Sports Network Great Lakes SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-great-lakes?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes HD" group-title="Live",Fanduel Sports Network Great Lakes HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-great-lakes?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North SD" group-title="Live",Fanduel Sports Network North SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-north?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North HD" group-title="Live",Fanduel Sports Network North HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-north?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland SD" group-title="Live",Fanduel Sports Network Ohio Cleveland SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-ohio-cleveland?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland HD" group-title="Live",Fanduel Sports Network Ohio Cleveland HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-ohio-cleveland?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma SD" group-title="Live",Fanduel Sports Network Oklahoma SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-oklahoma?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma HD" group-title="Live",Fanduel Sports Network Oklahoma HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-oklahoma?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego SD" group-title="Live",Fanduel Sports Network San Diego SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-san-diego?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego HD" group-title="Live",Fanduel Sports Network San Diego HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-san-diego?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal SD" group-title="Live",Fanduel Sports Network Socal SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-socal?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal HD" group-title="Live",Fanduel Sports Network Socal HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-socal?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas SD" group-title="Live",Fanduel Sports Network South Carolinas SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-south-carolinas?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas HD" group-title="Live",Fanduel Sports Network South Carolinas HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-south-carolinas?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee SD" group-title="Live",Fanduel Sports Network South Tennessee SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-south-tennessee-usa?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="Live",Fanduel Sports Network South Tennessee HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-south-tennessee-usa?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West SD" group-title="Live",Fanduel Sports Network West SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-west?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="Live",Fanduel Sports Network West HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-west?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin SD" group-title="Live",Fanduel Sports Network Wisconsin SD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-wisconsin?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="Live",Fanduel Sports Network Wisconsin HD
-https://int.klcis.cc/api/m3u/fanduel-sports-network-wisconsin?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia SD" group-title="Live",Fanduel Sports Southeast Georgia SD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-georgia?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="Live",Fanduel Sports Southeast Georgia HD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-georgia?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina SD" group-title="Live",Fanduel Sports Southeast North Carolina SD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-north-carolina?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina HD" group-title="Live",Fanduel Sports Southeast North Carolina HD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-north-carolina?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina SD" group-title="Live",Fanduel Sports Southeast South Carolina SD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-south-carolina?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina HD" group-title="Live",Fanduel Sports Southeast South Carolina HD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-south-carolina?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville SD" group-title="Live",Fanduel Sports Southeast Tennessee Nashville SD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-tennessee-nashville?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville HD" group-title="Live",Fanduel Sports Southeast Tennessee Nashville HD
-https://int.klcis.cc/api/m3u/fanduel-sports-southeast-tennessee-nashville?quality=hd
-#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun SD" group-title="Live",Fanduel Sports Sun SD
-https://int.klcis.cc/api/m3u/fanduel-sports-sun?quality=sd
-#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun HD" group-title="Live",Fanduel Sports Sun HD
-https://int.klcis.cc/api/m3u/fanduel-sports-sun?quality=hd
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East SD" group-title="Live",Fanduel Sports Tennessee East SD
-https://int.klcis.cc/api/m3u/fanduel-sports-tennessee-east?quality=sd
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" group-title="Live",Fanduel Sports Tennessee East HD
-https://int.klcis.cc/api/m3u/fanduel-sports-tennessee-east?quality=hd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed SD" group-title="Live",Food Network USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/FoodNetworkEast?quality=sd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" group-title="Live",Food Network USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/FoodNetworkEast?quality=hd
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles SD" group-title="Live",FOX (KTTV) Los Angeles SD
-https://int.klcis.cc/api/m3u/fox-kttv-los-angeles-ca?quality=sd
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles HD" group-title="Live",FOX (KTTV) Los Angeles HD
-https://int.klcis.cc/api/m3u/fox-kttv-los-angeles-ca?quality=hd
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY SD" group-title="Live",FOX (WNYW) New York, NY SD
-https://int.klcis.cc/api/m3u/WNYWDT1?quality=sd
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY HD" group-title="Live",FOX (WNYW) New York, NY HD
-https://int.klcis.cc/api/m3u/WNYWDT1?quality=hd
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business SD" group-title="Live",Fox Business SD
-https://int.klcis.cc/api/m3u/FoxBusiness?quality=sd
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
-https://int.klcis.cc/api/m3u/FoxBusiness?quality=hd
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News SD" group-title="Live",Fox News SD
-https://int.klcis.cc/api/m3u/FoxNewsChannel?quality=sd
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",Fox News HD
-https://int.klcis.cc/api/m3u/FoxNewsChannel?quality=hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 SD" group-title="Live",Fox Sports 1 SD
-https://int.klcis.cc/api/m3u/FoxSports1?quality=sd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
-https://int.klcis.cc/api/m3u/FoxSports1?quality=hd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 SD" group-title="Live",Fox Sports 2 SD
-https://int.klcis.cc/api/m3u/FoxSports2?quality=sd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
-https://int.klcis.cc/api/m3u/FoxSports2?quality=hd
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed SD" group-title="Live",Freeform East Feed SD
-https://int.klcis.cc/api/m3u/FreeformEast?quality=sd
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
-https://int.klcis.cc/api/m3u/FreeformEast?quality=hd
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed SD" group-title="Live",FUSE TV Eastern feed SD
-https://int.klcis.cc/api/m3u/FuseEast?quality=sd
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed HD" group-title="Live",FUSE TV Eastern feed HD
-https://int.klcis.cc/api/m3u/FuseEast?quality=hd
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Live",FX Movie Channel SD
-https://int.klcis.cc/api/m3u/FXMovieChannel?quality=sd
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="Live",FX Movie Channel HD
-https://int.klcis.cc/api/m3u/FXMovieChannel?quality=hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast SD" group-title="Live",FX Networks East Coast SD
-https://int.klcis.cc/api/m3u/FXEast?quality=sd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX Networks East Coast HD
-https://int.klcis.cc/api/m3u/FXEast?quality=hd
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern SD" group-title="Live",FXX USA Eastern SD
-https://int.klcis.cc/api/m3u/FXXEast?quality=sd
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
-https://int.klcis.cc/api/m3u/FXXEast?quality=hd
-#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern SD" group-title="Live",FYI USA Eastern SD
-https://int.klcis.cc/api/m3u/FYIEast?quality=sd
-#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="Live",FYI USA Eastern HD
-https://int.klcis.cc/api/m3u/FYIEast?quality=hd
-#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East SD" group-title="Live",Game Show Network East SD
-https://int.klcis.cc/api/m3u/game-show-network-east?quality=sd
-#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East HD" group-title="Live",Game Show Network East HD
-https://int.klcis.cc/api/m3u/game-show-network-east?quality=hd
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="Live",Golf Channel USA SD
-https://int.klcis.cc/api/m3u/GolfChannel?quality=sd
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="Live",Golf Channel USA HD
-https://int.klcis.cc/api/m3u/GolfChannel?quality=hd
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" group-title="Live",Hallmark Eastern Feed SD
-https://int.klcis.cc/api/m3u/HallmarkChannelEast?quality=sd
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="Live",Hallmark Eastern Feed HD
-https://int.klcis.cc/api/m3u/HallmarkChannelEast?quality=hd
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD SD" group-title="Live",Hallmark Family HD SD
-https://int.klcis.cc/api/m3u/HallmarkDrama?quality=sd
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD HD" group-title="Live",Hallmark Family HD HD
-https://int.klcis.cc/api/m3u/HallmarkDrama?quality=hd
-#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD SD" group-title="Live",Hallmark Mystery Eastern HD SD
-https://int.klcis.cc/api/m3u/HallmarkMoviesMysteriesEast?quality=sd
-#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD HD" group-title="Live",Hallmark Mystery Eastern HD HD
-https://int.klcis.cc/api/m3u/HallmarkMoviesMysteriesEast?quality=hd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live",HBO Eastern Feed SD
-https://int.klcis.cc/api/m3u/HBOEast?quality=sd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO Eastern Feed HD
-https://int.klcis.cc/api/m3u/HBOEast?quality=hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live",HBO 2 Eastern Feed SD
-https://int.klcis.cc/api/m3u/HBO2East?quality=sd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2 Eastern Feed HD
-https://int.klcis.cc/api/m3u/HBO2East?quality=hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="Live",HBO Comedy HD East SD
-https://int.klcis.cc/api/m3u/HBOComedyEast?quality=sd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy HD East HD
-https://int.klcis.cc/api/m3u/HBOComedyEast?quality=hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="Live",HBO Family Eastern Feed SD
-https://int.klcis.cc/api/m3u/HBOFamilyEast?quality=sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family Eastern Feed HD
-https://int.klcis.cc/api/m3u/HBOFamilyEast?quality=hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="Live",HBO Signature (HBO 3) Eastern SD
-https://int.klcis.cc/api/m3u/HBOSignatureEast?quality=sd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
-https://int.klcis.cc/api/m3u/HBOSignatureEast?quality=hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live",HBO Zone HD East SD
-https://int.klcis.cc/api/m3u/HBOZoneEast?quality=sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
-https://int.klcis.cc/api/m3u/HBOZoneEast?quality=hd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed SD" group-title="Live",HGTV USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/HGTVEast?quality=sd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed HD" group-title="Live",HGTV USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/HGTVEast?quality=hd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed SD" group-title="Live",History Channel US Eastern Feed SD
-https://int.klcis.cc/api/m3u/HistoryEast?quality=sd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed HD" group-title="Live",History Channel US Eastern Feed HD
-https://int.klcis.cc/api/m3u/HistoryEast?quality=hd
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN SD" group-title="Live",HLN SD
-https://int.klcis.cc/api/m3u/HLN?quality=sd
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN HD" group-title="Live",HLN HD
-https://int.klcis.cc/api/m3u/HLN?quality=hd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US SD" group-title="Live",Independent Film Channel US SD
-https://int.klcis.cc/api/m3u/IFCEast?quality=sd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US HD" group-title="Live",Independent Film Channel US HD
-https://int.klcis.cc/api/m3u/IFCEast?quality=hd
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern SD" group-title="Live",Investigation Discovery USA Eastern SD
-https://int.klcis.cc/api/m3u/InvestigationDiscoveryEast?quality=sd
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern HD" group-title="Live",Investigation Discovery USA Eastern HD
-https://int.klcis.cc/api/m3u/InvestigationDiscoveryEast?quality=hd
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed SD" group-title="Live",ION Eastern Feed SD
-https://int.klcis.cc/api/m3u/IONTVEast?quality=sd
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed HD" group-title="Live",ION Eastern Feed HD
-https://int.klcis.cc/api/m3u/IONTVEast?quality=hd
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East SD" group-title="Live",Lifetime Movies East SD
-https://int.klcis.cc/api/m3u/LifetimeMoviesEast?quality=sd
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East HD" group-title="Live",Lifetime Movies East HD
-https://int.klcis.cc/api/m3u/LifetimeMoviesEast?quality=hd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed SD" group-title="Live",Lifetime Network US Eastern Feed SD
-https://int.klcis.cc/api/m3u/LifetimeEast?quality=sd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed HD" group-title="Live",Lifetime Network US Eastern Feed HD
-https://int.klcis.cc/api/m3u/LifetimeEast?quality=hd
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East SD" group-title="Live",LOGO East SD
-https://int.klcis.cc/api/m3u/LogoEast?quality=sd
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD" group-title="Live",LOGO East HD
-https://int.klcis.cc/api/m3u/LogoEast?quality=hd
-#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network SD" group-title="Live",Marquee Sports Network SD
-https://int.klcis.cc/api/m3u/marquee-sports-network?quality=sd
-#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD
-https://int.klcis.cc/api/m3u/marquee-sports-network?quality=hd
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Live",MeTV Toons (WJLP2) New Jersey SD
-https://int.klcis.cc/api/m3u/metv-toons?quality=sd
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
-https://int.klcis.cc/api/m3u/metv-toons?quality=hd
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York SD" group-title="Live",MeTV Wjlp New Jerseynew York SD
-https://int.klcis.cc/api/m3u/metv-wjlp-new-jerseynew-york?quality=sd
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York HD" group-title="Live",MeTV Wjlp New Jerseynew York HD
-https://int.klcis.cc/api/m3u/metv-wjlp-new-jerseynew-york?quality=hd
-#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network SD" group-title="Live",Midatlantic Sports Network SD
-https://int.klcis.cc/api/m3u/midatlantic-sports-network?quality=sd
-#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network HD" group-title="Live",Midatlantic Sports Network HD
-https://int.klcis.cc/api/m3u/midatlantic-sports-network?quality=hd
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network SD" group-title="Live",MLB Network SD
-https://int.klcis.cc/api/m3u/MLBNetwork?quality=sd
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" group-title="Live",MLB Network HD
-https://int.klcis.cc/api/m3u/MLBNetwork?quality=hd
-#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network SD" group-title="Live",Monumental Sports Network SD
-https://int.klcis.cc/api/m3u/monumental-sports-network?quality=sd
-#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network HD" group-title="Live",Monumental Sports Network HD
-https://int.klcis.cc/api/m3u/monumental-sports-network?quality=hd
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern SD" group-title="Live",MoreMax Eastern SD
-https://int.klcis.cc/api/m3u/MoreMaxEast?quality=sd
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern HD" group-title="Live",MoreMax Eastern HD
-https://int.klcis.cc/api/m3u/MoreMaxEast?quality=hd
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD SD" group-title="Live",Motor Trend HD SD
-https://int.klcis.cc/api/m3u/Motortrend?quality=sd
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD HD" group-title="Live",Motor Trend HD HD
-https://int.klcis.cc/api/m3u/Motortrend?quality=hd
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East SD" group-title="Live",MovieMax (Max 6) East SD
-https://int.klcis.cc/api/m3u/MovieMaxEast?quality=sd
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD" group-title="Live",MovieMax (Max 6) East HD
-https://int.klcis.cc/api/m3u/MovieMaxEast?quality=hd
-#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens SD" group-title="Live",MSG Madison Square Gardens SD
-https://int.klcis.cc/api/m3u/msg-madison-square-gardens?quality=sd
-#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD" group-title="Live",MSG Madison Square Gardens HD
-https://int.klcis.cc/api/m3u/msg-madison-square-gardens?quality=hd
-#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus SD" group-title="Live",MSG Plus SD
-https://int.klcis.cc/api/m3u/msg-plus?quality=sd
-#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD" group-title="Live",MSG Plus HD
-https://int.klcis.cc/api/m3u/msg-plus?quality=hd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA SD" group-title="Live",MSNBC USA SD
-https://int.klcis.cc/api/m3u/MSNBC?quality=sd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA HD" group-title="Live",MSNBC USA HD
-https://int.klcis.cc/api/m3u/MSNBC?quality=hd
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East SD" group-title="Live",MTV 2 East SD
-https://int.klcis.cc/api/m3u/mtv-2-east?quality=sd
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East HD" group-title="Live",MTV 2 East HD
-https://int.klcis.cc/api/m3u/mtv-2-east?quality=hd
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed SD" group-title="Live",MTV USA Eastern Feed SD
-https://int.klcis.cc/api/m3u/MTVEast?quality=sd
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed HD" group-title="Live",MTV USA Eastern Feed HD
-https://int.klcis.cc/api/m3u/MTVEast?quality=hd
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Live",National Geographic US Eastern SD
-https://int.klcis.cc/api/m3u/NationalGeographicEast?quality=sd
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
-https://int.klcis.cc/api/m3u/NationalGeographicEast?quality=hd
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
-https://int.klcis.cc/api/m3u/NationalGeographicWildEast?quality=sd
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Live",National Geographic Wild HD
-https://int.klcis.cc/api/m3u/NationalGeographicWildEast?quality=hd
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
-https://int.klcis.cc/api/m3u/NBATV?quality=sd
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
-https://int.klcis.cc/api/m3u/NBATV?quality=hd
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles SD" group-title="Live",NBC (KNBC) Los Angeles SD
-https://int.klcis.cc/api/m3u/nbc-knbc-los-angeles-ca?quality=sd
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD" group-title="Live",NBC (KNBC) Los Angeles HD
-https://int.klcis.cc/api/m3u/nbc-knbc-los-angeles-ca?quality=hd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" group-title="Live",NBC (WNBC) New York, NY SD
-https://int.klcis.cc/api/m3u/WNBCDT1?quality=sd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" group-title="Live",NBC (WNBC) New York, NY HD
-https://int.klcis.cc/api/m3u/WNBCDT1?quality=hd
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" group-title="Live",NBC Sports Bay Area SD
-https://int.klcis.cc/api/m3u/nbc-sports-bay-area?quality=sd
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" group-title="Live",NBC Sports Bay Area HD
-https://int.klcis.cc/api/m3u/nbc-sports-bay-area?quality=hd
-#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD" group-title="Live",NBC Sports Boston SD
-https://int.klcis.cc/api/m3u/nbc-sports-boston?quality=sd
-#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" group-title="Live",NBC Sports Boston HD
-https://int.klcis.cc/api/m3u/nbc-sports-boston?quality=hd
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="Live",NBC Sports California SD
-https://int.klcis.cc/api/m3u/nbc-sports-california?quality=sd
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California HD
-https://int.klcis.cc/api/m3u/nbc-sports-california?quality=hd
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" group-title="Live",NBC Sports Philadelphia SD
-https://int.klcis.cc/api/m3u/nbc-sports-philadelphia?quality=sd
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" group-title="Live",NBC Sports Philadelphia HD
-https://int.klcis.cc/api/m3u/nbc-sports-philadelphia?quality=hd
-#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network SD" group-title="Live",New England Sports Network SD
-https://int.klcis.cc/api/m3u/new-england-sports-network?quality=sd
-#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network HD" group-title="Live",New England Sports Network HD
-https://int.klcis.cc/api/m3u/new-england-sports-network?quality=hd
-#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV SD" group-title="Live",NewsMax TV SD
-https://int.klcis.cc/api/m3u/NewsmaxTV?quality=sd
-#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV HD" group-title="Live",NewsMax TV HD
-https://int.klcis.cc/api/m3u/NewsmaxTV?quality=hd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network SD" group-title="Live",NFL Network SD
-https://int.klcis.cc/api/m3u/NFLNetwork?quality=sd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" group-title="Live",NFL Network HD
-https://int.klcis.cc/api/m3u/NFLNetwork?quality=hd
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone SD" group-title="Live",NFL RedZone SD
-https://int.klcis.cc/api/m3u/NFLRedZone?quality=sd
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" group-title="Live",NFL RedZone HD
-https://int.klcis.cc/api/m3u/NFLRedZone?quality=hd
-#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA SD" group-title="Live",NHL Network USA SD
-https://int.klcis.cc/api/m3u/NHLNetwork?quality=sd
-#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA HD" group-title="Live",NHL Network USA HD
-https://int.klcis.cc/api/m3u/NHLNetwork?quality=hd
-#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East SD" group-title="Live",Nick Jr. East SD
-https://int.klcis.cc/api/m3u/NickJrEast?quality=sd
-#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East HD" group-title="Live",Nick Jr. East HD
-https://int.klcis.cc/api/m3u/NickJrEast?quality=hd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed SD" group-title="Live",Nickelodeon USA East Feed SD
-https://int.klcis.cc/api/m3u/NickelodeonEast?quality=sd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed HD" group-title="Live",Nickelodeon USA East Feed HD
-https://int.klcis.cc/api/m3u/NickelodeonEast?quality=hd
-#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East SD" group-title="Live",Nicktoons East SD
-https://int.klcis.cc/api/m3u/NicktoonsEast?quality=sd
-#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East HD" group-title="Live",Nicktoons East HD
-https://int.klcis.cc/api/m3u/NicktoonsEast?quality=hd
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern SD" group-title="Live",Oprah Winfrey Network USA Eastern SD
-https://int.klcis.cc/api/m3u/OWNEast?quality=sd
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern HD" group-title="Live",Oprah Winfrey Network USA Eastern HD
-https://int.klcis.cc/api/m3u/OWNEast?quality=hd
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US SD" group-title="Live",Outdoor Channel US SD
-https://int.klcis.cc/api/m3u/OutdoorChannel?quality=sd
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US HD" group-title="Live",Outdoor Channel US HD
-https://int.klcis.cc/api/m3u/OutdoorChannel?quality=hd
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed SD" group-title="Live",Oxygen Eastern Feed SD
-https://int.klcis.cc/api/m3u/OxygenEast?quality=sd
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed HD" group-title="Live",Oxygen Eastern Feed HD
-https://int.klcis.cc/api/m3u/OxygenEast?quality=hd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY SD" group-title="Live",PBS (WNET) New York, NY SD
-https://int.klcis.cc/api/m3u/WNET?quality=sd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY HD" group-title="Live",PBS (WNET) New York, NY HD
-https://int.klcis.cc/api/m3u/WNET?quality=hd
-#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="Live",ReelzChannel SD
-https://int.klcis.cc/api/m3u/Reelz?quality=sd
-#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel HD" group-title="Live",ReelzChannel HD
-https://int.klcis.cc/api/m3u/Reelz?quality=hd
-#EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="Live",Science SD
-https://int.klcis.cc/api/m3u/Science?quality=sd
-#EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="Live",Science HD
-https://int.klcis.cc/api/m3u/Science?quality=hd
-#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network SD" group-title="Live",SEC Network SD
-https://int.klcis.cc/api/m3u/SECN?quality=sd
-#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network HD" group-title="Live",SEC Network HD
-https://int.klcis.cc/api/m3u/SECN?quality=hd
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed SD" group-title="Live",Showtime Eastern Feed SD
-https://int.klcis.cc/api/m3u/ShowtimeEast?quality=sd
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed HD" group-title="Live",Showtime Eastern Feed HD
-https://int.klcis.cc/api/m3u/ShowtimeEast?quality=hd
-#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern SD" group-title="Live",Showtime 2 Eastern SD
-https://int.klcis.cc/api/m3u/Showtime2East?quality=sd
-#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern HD" group-title="Live",Showtime 2 Eastern HD
-https://int.klcis.cc/api/m3u/Showtime2East?quality=hd
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast SD" group-title="Live",SNY Sportsnet New York Comcast SD
-https://int.klcis.cc/api/m3u/sny-sportsnet-new-york-comcast?quality=sd
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast HD" group-title="Live",SNY Sportsnet New York Comcast HD
-https://int.klcis.cc/api/m3u/sny-sportsnet-new-york-comcast?quality=hd
-#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network SD" group-title="Live",Space City Home Network SD
-https://int.klcis.cc/api/m3u/space-city-home-network?quality=sd
-#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network HD" group-title="Live",Space City Home Network HD
-https://int.klcis.cc/api/m3u/space-city-home-network?quality=hd
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA SD" group-title="Live",Spectrum SportsNet LA SD
-https://int.klcis.cc/api/m3u/spectrum-sportsnet-la?quality=sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA HD" group-title="Live",Spectrum SportsNet LA HD
-https://int.klcis.cc/api/m3u/spectrum-sportsnet-la?quality=hd
-#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers SD" group-title="Live",Spectrum Sportsnet Lakers SD
-https://int.klcis.cc/api/m3u/spectrum-sportsnet?quality=sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers HD" group-title="Live",Spectrum Sportsnet Lakers HD
-https://int.klcis.cc/api/m3u/spectrum-sportsnet?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) SD" group-title="Live",Sportsnet (East) SD
-https://int.klcis.cc/api/m3u/sportsnet-east?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) HD" group-title="Live",Sportsnet (East) HD
-https://int.klcis.cc/api/m3u/sportsnet-east?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 SD" group-title="Live",Sportsnet 360 SD
-https://int.klcis.cc/api/m3u/sportsnet-360?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 HD" group-title="Live",Sportsnet 360 HD
-https://int.klcis.cc/api/m3u/sportsnet-360?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One SD" group-title="Live",Sportsnet One SD
-https://int.klcis.cc/api/m3u/sportsnet-one?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One HD" group-title="Live",Sportsnet One HD
-https://int.klcis.cc/api/m3u/sportsnet-one?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario SD" group-title="Live",Sportsnet Ontario SD
-https://int.klcis.cc/api/m3u/sportsnet-ontario?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario HD" group-title="Live",Sportsnet Ontario HD
-https://int.klcis.cc/api/m3u/sportsnet-ontario?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific SD" group-title="Live",Sportsnet Pacific SD
-https://int.klcis.cc/api/m3u/sportsnet-pacific?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific HD" group-title="Live",Sportsnet Pacific HD
-https://int.klcis.cc/api/m3u/sportsnet-pacific?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh SD" group-title="Live",Sportsnet Pittsburgh SD
-https://int.klcis.cc/api/m3u/sportsnet-pittsburgh?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh HD" group-title="Live",Sportsnet Pittsburgh HD
-https://int.klcis.cc/api/m3u/sportsnet-pittsburgh?quality=hd
-#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West SD" group-title="Live",Sportsnet West SD
-https://int.klcis.cc/api/m3u/sportsnet-west?quality=sd
-#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West HD" group-title="Live",Sportsnet West HD
-https://int.klcis.cc/api/m3u/sportsnet-west?quality=hd
-#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern SD" group-title="Live",Starz Eastern SD
-https://int.klcis.cc/api/m3u/StarzEast?quality=sd
-#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern HD" group-title="Live",Starz Eastern HD
-https://int.klcis.cc/api/m3u/StarzEast?quality=hd
-#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East SD" group-title="Live",SundanceTV USA East SD
-https://int.klcis.cc/api/m3u/SundanceTVEast?quality=sd
-#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East HD" group-title="Live",SundanceTV USA East HD
-https://int.klcis.cc/api/m3u/SundanceTVEast?quality=hd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed SD" group-title="Live",Syfy Eastern Feed SD
-https://int.klcis.cc/api/m3u/SyfyEast?quality=sd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed HD" group-title="Live",Syfy Eastern Feed HD
-https://int.klcis.cc/api/m3u/SyfyEast?quality=hd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East SD" group-title="Live",TBS East SD
-https://int.klcis.cc/api/m3u/TBSEast?quality=sd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East HD" group-title="Live",TBS East HD
-https://int.klcis.cc/api/m3u/TBSEast?quality=hd
-#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern SD" group-title="Live",TeenNick Eastern SD
-https://int.klcis.cc/api/m3u/TeenNickEast?quality=sd
-#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern HD" group-title="Live",TeenNick Eastern HD
-https://int.klcis.cc/api/m3u/TeenNickEast?quality=hd
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" group-title="Live",Telemundo Eastern Feed SD
-https://int.klcis.cc/api/m3u/TelemundoEast?quality=sd
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" group-title="Live",Telemundo Eastern Feed HD
-https://int.klcis.cc/api/m3u/TelemundoEast?quality=hd
-#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="Live",The Cooking Channel SD
-https://int.klcis.cc/api/m3u/CookingChannel?quality=sd
-#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel HD" group-title="Live",The Cooking Channel HD
-https://int.klcis.cc/api/m3u/CookingChannel?quality=hd
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="Live",The Tennis Channel SD
-https://int.klcis.cc/api/m3u/TennisChannel?quality=sd
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel HD" group-title="Live",The Tennis Channel HD
-https://int.klcis.cc/api/m3u/TennisChannel?quality=hd
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel SD" group-title="Live",The Weather Channel SD
-https://int.klcis.cc/api/m3u/TheWeatherChannel?quality=sd
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel HD" group-title="Live",The Weather Channel HD
-https://int.klcis.cc/api/m3u/TheWeatherChannel?quality=hd
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern SD" group-title="Live",TLC USA Eastern SD
-https://int.klcis.cc/api/m3u/TLCEast?quality=sd
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern HD" group-title="Live",TLC USA Eastern HD
-https://int.klcis.cc/api/m3u/TLCEast?quality=hd
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed SD" group-title="Live",TMC (US) Eastern Feed SD
-https://int.klcis.cc/api/m3u/TheMovieChannelEast?quality=sd
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed HD" group-title="Live",TMC (US) Eastern Feed HD
-https://int.klcis.cc/api/m3u/TheMovieChannelEast?quality=hd
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed SD" group-title="Live",TNT Eastern Feed SD
-https://int.klcis.cc/api/m3u/TNTEast?quality=sd
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="Live",TNT Eastern Feed HD
-https://int.klcis.cc/api/m3u/TNTEast?quality=hd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East SD" group-title="Live",Travel US East SD
-https://int.klcis.cc/api/m3u/TravelChannelEast?quality=sd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East HD" group-title="Live",Travel US East HD
-https://int.klcis.cc/api/m3u/TravelChannelEast?quality=hd
-#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="Live",truTV USA Eastern SD
-https://int.klcis.cc/api/m3u/truTVEast?quality=sd
-#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" group-title="Live",truTV USA Eastern HD
-https://int.klcis.cc/api/m3u/truTVEast?quality=hd
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Live",TSN1 SD
-https://int.klcis.cc/api/m3u/tsn1?quality=sd
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="Live",TSN1 HD
-https://int.klcis.cc/api/m3u/tsn1?quality=hd
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="Live",TSN2 SD
-https://int.klcis.cc/api/m3u/tsn2?quality=sd
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" group-title="Live",TSN2 HD
-https://int.klcis.cc/api/m3u/tsn2?quality=hd
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="Live",TSN3 SD
-https://int.klcis.cc/api/m3u/tsn3?quality=sd
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" group-title="Live",TSN3 HD
-https://int.klcis.cc/api/m3u/tsn3?quality=hd
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="Live",TSN4 SD
-https://int.klcis.cc/api/m3u/tsn4?quality=sd
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" group-title="Live",TSN4 HD
-https://int.klcis.cc/api/m3u/tsn4?quality=hd
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="Live",TSN5 SD
-https://int.klcis.cc/api/m3u/tsn5?quality=sd
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" group-title="Live",TSN5 HD
-https://int.klcis.cc/api/m3u/tsn5?quality=hd
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA SD" group-title="Live",Turner Classic Movies USA SD
-https://int.klcis.cc/api/m3u/TCMEast?quality=sd
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" group-title="Live",Turner Classic Movies USA HD
-https://int.klcis.cc/api/m3u/TCMEast?quality=hd
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern SD" group-title="Live",TV Land Eastern SD
-https://int.klcis.cc/api/m3u/tv-land-eastern?quality=sd
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" group-title="Live",TV Land Eastern HD
-https://int.klcis.cc/api/m3u/tv-land-eastern?quality=hd
-#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" group-title="Live",TV One SD
-https://int.klcis.cc/api/m3u/TVOne?quality=sd
-#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" group-title="Live",TV One HD
-https://int.klcis.cc/api/m3u/TVOne?quality=hd
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
-https://int.klcis.cc/api/m3u/UniversalKidsEast?quality=sd
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
-https://int.klcis.cc/api/m3u/UniversalKidsEast?quality=hd
-#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed SD" group-title="Live",Univision Eastern Feed SD
-https://int.klcis.cc/api/m3u/UnivisionEast?quality=sd
-#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" group-title="Live",Univision Eastern Feed HD
-https://int.klcis.cc/api/m3u/UnivisionEast?quality=hd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed SD" group-title="Live",USA Network East Feed SD
-https://int.klcis.cc/api/m3u/USANetworkEast?quality=sd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="Live",USA Network East Feed HD
-https://int.klcis.cc/api/m3u/USANetworkEast?quality=hd
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed SD" group-title="Live",VH1 Eastern Feed SD
-https://int.klcis.cc/api/m3u/VH1East?quality=sd
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed HD" group-title="Live",VH1 Eastern Feed HD
-https://int.klcis.cc/api/m3u/VH1East?quality=hd
-#EXTINF:-1 tvg-id="vice" tvg-name="VICE SD" group-title="Live",VICE SD
-https://int.klcis.cc/api/m3u/VICETV?quality=sd
-#EXTINF:-1 tvg-id="vice" tvg-name="VICE HD" group-title="Live",VICE HD
-https://int.klcis.cc/api/m3u/VICETV?quality=hd
-#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern SD" group-title="Live",WE (Women's Entertainment) Eastern SD
-https://int.klcis.cc/api/m3u/WeTVEast?quality=sd
-#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern HD" group-title="Live",WE (Women's Entertainment) Eastern HD
-https://int.klcis.cc/api/m3u/WeTVEast?quality=hd
-#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="Live",WPIX New York (SUPERSTATION) SD
-https://int.klcis.cc/api/m3u/WPIX?quality=sd
-#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) HD" group-title="Live",WPIX New York (SUPERSTATION) HD
-https://int.klcis.cc/api/m3u/WPIX?quality=hd
-#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network SD" group-title="Live",Yes Network SD
-https://int.klcis.cc/api/m3u/yes-network?quality=sd
-#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network HD" group-title="Live",Yes Network HD
-https://int.klcis.cc/api/m3u/yes-network?quality=hd
+#EXTM3U
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",OAN Plus -TCL
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",One America News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Scripps News -TCL
+https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Scripps News alt -TCL
+https://scripps-newsy-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Africa News English .DE -TCL
+https://euronews-africanews-english-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Africa News English .FR -TCL
+https://euronews-africanews-english-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Africa News English .AU -TCL
+https://euronews-africanews-english-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Africa News French .FR -TCL
+https://euronews-africanews-french-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews World -TCL 
+https://euronews-euronews-world-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews World .AU -TCL
+https://euronews-euronews-world-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews World .DE -TCL
+https://euronews-euronews-world-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews World .MX -TCL
+https://euronews-euronews-world-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews World .FR -TCL
+https://euronews-euronews-world-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews Portugese .BR -TCL
+https://euronews-euronews-portugues-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews Spanish .MX -TCL
+https://euronews-euronews-spanish-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews Spanish -TCL
+https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews French .FR -TCL
+https://euronews-euronews-french-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Euronews German .DE -TCL
+https://euronews-euronews-german-4-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moconomy .MX -TCL
+https://amogonetworx-moconomy-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moconomy .AU -TCL
+https://amogonetworx-moconomy-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moconomy .CA -TCL
+https://amogonetworx-moconomy-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moconomy .US -TCL
+https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moconomy .DE -TCL
+https://amogonetworx-moconomy-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV -TCL
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV alt .US -TCL
+https://bloomberg-bloombergtv-12-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV .CA -TCL
+https://bloomberg-bloombergtv-13-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV .MX -TCL
+https://bloomberg-bloombergtv-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV .BR -TCL
+https://bloomberg-bloombergtv-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV .DE -TCL
+https://bloomberg-bloombergtv-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg TV .FR -TCL
+https://bloomberg-bloombergtv-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals -TCL
+https://bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals alt .US -TCL
+https://bloomberg-bloombergoriginals-6-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals .CA -TCL
+https://bloomberg-bloombergoriginals-5-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals .MX -TCL
+https://bloomberg-quicktake-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals .BR -TCL
+https://bloomberg-quicktake-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals .DE -TCL
+https://bloomberg-quicktake-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bloomberg Originals .FR -TCL
+https://bloomberg-quicktake-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Americas Voice -TCL
+https://p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",GB News -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Newsworld -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Newsnet -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-newsnet-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",JP News -TCL (Geo)
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Actualidad 360 -TCL (Geo)
+https://amg01821-amg01821c27-tcl-spain-5969.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .US -TCL
+https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .AU -TCL
+https://rise-financial-roi-tv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .BR -TCL
+https://rise-financial-roi-tv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .CA -TCL
+https://rise-financial-roi-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .DE -TCL
+https://rise-financial-roi-tv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .FR -TCL
+https://rise-financial-roi-tv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .MX -TCL
+https://rise-financial-roi-tv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ROI .SA -TCL
+https://rise-financial-roi-tv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Royalworld Nobility Destinys .AU -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Royalworld Nobility Destinys .CA -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Royalworld Nobility Destinys .US -TCL
+https://amogo-networx-royalworldnobilitydynasties-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Royal World .DE -TCL
+https://amogonetworx-royalworld-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Royal World .MX -TCL
+https://amogonetworx-royalworld-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pursuit UP -TCL
+https://linear-205.frequency.stream/dist/tcltv/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Craftsy TV -TCL
+https://linear-492.frequency.stream/dist/tcltv/492/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Hello Inspo -TCL
+https://linear-542.frequency.stream/dist/tcltv/542/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Flo Racing -TCL
+https://linear-554.frequency.stream/dist/tcltv/554/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Butaca TV -TCL
+https://linear-645.frequency.stream/dist/tcltv/645/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Saborear TV -TCL
+https://linear-649.frequency.stream/dist/tcltv/649/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Judge Faith TV -TCL
+https://linear-650.frequency.stream/dist/tcltv/650/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",H2O TV -TCL
+https://linear-738.frequency.stream/dist/tcltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",National Lampoon -TCL
+https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Startalk TV -TCL
+https://linear-770.frequency.stream/dist/tcltv/770/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Miramax Movies -TCL
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",CW Forever -TCL
+https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",CW Gold -TCL
+https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Always Funny -TCL
+https://linear-12.frequency.stream/dist/tcltv/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Always Funny: Pranks & Fails -TCL
+https://linear-863.frequency.stream/dist/tcltv/863/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Greatest Sports Legends Laughs .AU -TCL
+https://srp-digital-greatestsportslegendslaughs-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Greatest Sports Legends Laughs .BR -TCL
+https://srp-digital-greatestsportslegendslaughs-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Greatest Sports Legends Laughs .MX -TCL
+https://srp-digital-greatestsportslegendslaughs-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Greatest Sports Legends Laughs .FR -TCL
+https://srp-digital-greatestsportslegendslaughs-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Greatest Sports Legends Laughs .US -TCL
+https://srp-digital-greatestsportslegendslaughs-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",BET x Tyler Perry Drama -TCL
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",BET x Tyler Perry Comedy -TCL
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Highway Thru Hell -TCL
+https://amg00627-banijay-amg00627c15-tcl-us-3378.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean Animated .UK -TCL 
+https://amg00627-banijay-amg00627c28-tcl-us-4134.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean Animated .IT -TCL (Geo)
+https://amg00627-banijay-amg00627c29-tcl-us-4138.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean Animated .ES -TCL (Geo)
+https://amg00627-banijay-amg00627c30-tcl-us-4135.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean Animated .FR -TCL (Geo)
+https://amg00627-banijay-amg00627c31-tcl-us-4136.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean Animated .PT -TCL (Geo)
+https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Beyblade (Geo) -TCL
+https://amg01796-fastmedia-amg01796c6-tcl-us-4399.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sports Grid (Geo) -TCL
+https://amg00315-amg00315c1-tcl-us-3349.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ION -TCL
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ION alt -TCL
+https://scripps-ion-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ION Plus -TCL
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ION Mystery -TCL
+https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",ION Mystery alt -TCL
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bounce XL -TCL
+https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bounce XL alt -TCL
+https://scripps-bouncexl-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grit Xtra -TCL
+https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grit Xtra alt -TCL
+https://scripps-gritxtra-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Craction TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-cractionstv-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Conflict .US -TCL
+https://rightsboosterltd-conflict-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Conflict .US alt -TCL
+https://rightsboosterltd-conflict-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Conflict .CA -TCL
+https://rightsboosterltd-conflict-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .AU -TCL
+https://pitch5-thehomestylechannel-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .US -TCL
+https://pitch5-thehomestylechannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .CA -TCL
+https://pitch5-thehomestylechannel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .BR -TCL
+https://pitch5-thehomestylechannel-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .FR -TCL
+https://pitch5-thehomestylechannel-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .DE -TCL
+https://pitch5-thehomestylechannel-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Homestyle Channel .MX -TCL
+https://pitch5-thehomestylechannel-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Strongman Champions League .US -TCL
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Strongman Champions League .US alt -TCL
+https://rightsboosterltd-scl-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Strongman Champions League .CA -TCL
+https://rightsboosterltd-scl-1-ca.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Strongman Champions League .AU -TCL
+https://rightsboosterltd-scl-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Screamin -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-screamin-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nature moments by Love Nature -TCL (Geo)
+https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovenature Spanish -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c1-tclideo-northamerica-496.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nature Time Spanish -TCL (Geo)
+https://amg01515-amg01515c31-tcl-us-5836.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Davinci -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Davinci alt -TCL (Geo) 
+https://amg00406-tinizine-amg00406c1-tclideo-northamerica-828.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Family Time -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3345
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Family Time -TCL (Geo)
+https://amg09501-amg09501c3-tclideo-na-2402.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Crime -TCL (Geo) 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-crimetimeengg-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Family -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-familytreeeng-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Drama Vault -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flameandfireeng-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Horror -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrifyeng-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Action -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcineeng-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Drama -TCL (Geo) 
+https://amg01024-amg01024c16-tcl-us-4432.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Live -TCL (Geo) 
+https://amg01024-amg01024c17-tcl-us-4518.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Estelar -TCL (Geo) 
+https://amg01024-amg01024c20-tcl-us-4525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Terror -TCL (Geo) 
+https://amg01024-amg01024c22-tcl-us-4437.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Saber Mas -TCL (Geo) 
+https://amg01024-amg01024c23-tcl-us-4517.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Banda -TCL (Geo) 
+https://amg01024-amg01024c24-tcl-us-4431.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Hits -TCL (Geo) 
+https://amg01024-amg01024c25-tcl-us-4435.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Estelar -TCL (Geo) 
+https://amg01024-amg01024c28-tcl-us-4520.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Clasico -TCL (Geo) 
+https://amg01024-amg01024c29-tcl-us-4526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey Escandalos .CA -TCL 
+https://nosey-3-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .AU -TCL
+https://nosey-3-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .SA -TCL
+https://nosey-3-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .BR -TCL
+https://nosey-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .DE -TCL
+https://nosey-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .FR -TCL
+https://nosey-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey 3 .MX -TCL
+https://nosey-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Filmzie -TCL
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network c2 -TCL (Geo)
+https://amg00500-amg00500c2-tcl-us-3572.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network Spanish c3 -TCL (Geo)
+https://amg00500-amg00500c3-tcl-us-3584.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network Spanish c4 -TCL (Geo)
+https://amg00500-amg00500c4-tcl-us-3586.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MyTime Movie Network Spanish c7 -TCL (Geo)
+https://amg00500-amg00500c7-tcl-us-3617.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network German -TCL (Geo)
+https://amg00500-amg00500c5-tcl-us-3590.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mytime Movie Network c6 English text and cc -TCL (Geo)
+https://amg00500-amg00500c6-tcl-us-3597.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Soul Cinema -TCL (Geo)
+https://amg01785-soulofthesouthfast-amg01785c1-tclideo-northamerica-692.playouts.now.amagi.tv/playlist/amg01785-soulofthesouth-soulcinema-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Freemovies Plus -TCL (Geo)
+https://amg02042-ottstudio-amg02042c15-tcl-us-949.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moviesphere -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moviesphere -TCL c27 (Geo)
+https://amg00353-amg00353c27-tcl-us-6386.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Moviesphere Spanish onscreen subs -TCL (Geo)
+https://amg00353-amg00353c29-tcl-us-6383.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Are We There Yet -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c5-tclideo-na-2173.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-arewethereyet-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Maverick Black Cinema -TCL
+https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Maverick Black Cinema .CA -TCL
+https://maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Star Cinema -TCL
+https://edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .AU -TCL
+https://amogonetworx-charlie-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .BR -TCL
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .CA -TCL
+https://amogonetworx-charlie-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .DE -TCL
+https://amogonetworx-charlie-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .FR -TCL
+https://amogonetworx-charlie-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .MX -TCL
+https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .SA -TCL
+https://amogonetworx-charlie-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Charlie .US -TCL
+https://amogonetworx-charlie-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo Films de Western .FR -TCL
+https://amogo-networx-grjngofilmsdewestern-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .BR -TCL
+https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .MX -TCL
+https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .AU -TCL
+https://amogonetworx-grjngo-3-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .CA -TCL
+https://amogonetworx-grjngo-3-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .US -TCL
+https://amogonetworx-grjngo-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Grjngo .DE -TCL
+https://amogonetworx-grjngo-4-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .AU -TCL
+https://amogonetworx-artflix-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .CA -TCL
+https://amogonetworx-artflix-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .SA -TCL
+https://amogonetworx-artflix-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .US -TCL
+https://amogonetworx-artflix-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .DE -TCL
+https://amogonetworx-artflix-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Artflix .MX -TCL
+https://amogonetworx-artflix-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bigtjme .AU -TCL
+https://amogonetworx-bigtjme-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bigtjme .CA -TCL
+https://amogonetworx-bigtjme-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bigtjme .US -TCL
+https://amogonetworx-bigtjme-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bigtjme .MX -TCL
+https://amogonetworx-bigtjme-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Beyond Paranormal .AU -TCL
+https://videoelephantlimited-beyondparanormal-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Beyond Paranormal .CA -TCL
+https://videoelephantlimited-beyondparanormal-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel XP .BR -TCL
+https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel XP .CA -TCL
+https://travelxp-travelxp-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel XP .US -TCL
+https://travelxp-travelxp-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel XP .DE -TCL
+https://travelxp-travelxp-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel Escapes -TCL
+https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel Escapes .AU -TCL
+https://videoelephantlimited-travelescapes-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Travel Escapes .CA -TCL
+https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Air and Space .US -TCL
+https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Air and Space .US alt -TCL
+https://wingspan-airandspace-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Air and Space .AU -TCL
+https://wingspan-airandspace-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Air and Space .CA -TCL
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trailers from Hell -TCL
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .US -TCL
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .US alt -TCL
+https://watchmojo-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .CA -TCL
+https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .AU -TCL
+https://watchmojo-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .MX -TCL
+https://watchmojo-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .BR -TCL
+https://watchmojo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .FR -TCL
+https://watchmojo-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Watch Mojo .DE -TCL
+https://watchmojo-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MovieDome Family -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood -TCL
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood .AU -TCL
+https://connection3-ent-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood .BR -TCL
+https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood .CA -TCL
+https://connection3-ent-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood .DE -TCL
+https://connection3-ent-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Made in Hollywood .MX -TCL
+https://connection3-ent-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cinelife -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey -TCL
+https://nosey-realnosey-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey alt -TCL
+https://nosey-realnosey-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .AU -TCL
+https://nosey-realnosey-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .CA -TCL
+https://nosey-realnosey-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .DE -TCL
+https://nosey-realnosey-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .FR -TCL
+https://nosey-realnosey-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .BR -TCL
+https://nosey-realnosey-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Nosey .SA -TCL
+https://nosey-realnosey-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dont tell the Bride -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nolly Africa HD -TCL (Geo)
+https://amg02784-amg02784c1-tcl-us-2728.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Shades of Black -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeat-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Shades of Black -TCL (Geo)
+https://amg00375-fusemedia-amg00375c2-tclideo-northamerica-720.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-shadesofblack-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mansa Mix -TCL
+https://mansa-mansamix-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Backstage -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebackstage-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Backstage -TCL (Geo)
+https://amg00375-fusemedia-amg00375c1-tclideo-northamerica-719.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstage-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Sports Stars -TCL
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Racing America -TCL (Geo)
+https://racingamerica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",T2 -TCL (Geo)
+https://amg01444-amg01444c2-tcl-us-5673.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBTV -TCL (Geo)
+https://amg01444-amg01444c3-tcl-us-5674.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",United Fight Alliance .CA -TCL
+https://brawlcall-unitedfightalliance-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",United Fight Alliance .US -TCL
+https://brawlcall-unitedfightalliance-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",United Fight Alliance -AU -TCL
+https://brawlcall-unitedfightalliance-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",United Fight Alliance -SA -TCL
+https://brawlcall-unitedfightalliance-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lucha Plus -TCL (Geo)
+https://amg17334-amg17334c1-tclideo-na-6734.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Crime -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Top True Crime -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-toptruecrime-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Crime and Punishment -TCL
+https://rightsboosterltd-crime-and-punishment-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Crime Files .AU -TCL
+https://videoelephant-limited-crimefiles-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Crime Files .CA -TCL
+https://videoelephant-limited-crimefiles-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Crime Files .US -TCL
+https://videoelephant-limited-crimefiles-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",True Crime Now C8 not fully identified -TCL (Geo)
+https://amg00376-magellan-amg00376c8-tcl-us-3385.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",True Crime Now C9 not fully identified -TCL (Geo)
+https://amg00376-magellan-amg00376c9-tcl-us-3386.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Homicide -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Witz .US -TCL
+https://bec-witz-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Witz .US alt -TCL
+https://bec-witz-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Stories -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV -TCL
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .CA -TCL
+https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .AU -TCL
+https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .MX -TCL
+https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .BR -TCL
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .DE -TCL
+https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drone TV .FR -TCL
+https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",History and Warfare Now -TCL (Geo)
+https://amg00376-magellan-amg00376c16-tclideo-northamerica-1370.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Space Science Now -TCL (Geo)
+https://amg00376-magellan-amg00376c13-tclideo-northamerica-1369.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Docsville -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Docu Plus Spain -TCL
+https://amg02040-amg02040c7-tcl-spain-5114.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Docu Plus -TCL
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pulse -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station -TCL
+https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station .CA -TCL
+https://srpdigital-xplorationstation-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station .BR -TCL
+https://srpdigital-xplorationstation-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station .FR -TCL
+https://srpdigital-xplorationstation-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station .MX -TCL
+https://srpdigital-xplorationstation-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Xploration Station .AU -TCL
+https://srpdigital-xplorationstation-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes -TCL
+https://escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .BR -TCL
+https://escapes-escapes-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .MX -TCL
+https://escapes-escapes-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .FR -TCL
+https://escapes-escapes-2-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .AU -TCL
+https://escapes-escapes-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .CA -TCL
+https://escapes-escapes-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Escapes .DE -TCL
+https://escapes-escapes-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dread TV -TCL
+https://epicpictures-dreadtv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Traveler -TCL (Geo)
+https://amg09501-amg09501c1-tclideo-na-2400.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Celebrates -TCL (Geo)
+https://amg01243-xite-amg01243c1-tcl-us-6480.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE 60's and 70's Groove -TCL (Geo)
+https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE 80s Flashback -TCL (Geo)
+https://amg01243-xite-amg01243c2-tcl-us-6487.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE 90s Throwback -TCL (Geo)
+https://amg01243-xite-amg01243c3-tcl-us-6486.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Rock X Metal -TCL (Geo)
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Country Today -TCL (Geo)
+https://amg01243-xite-amg01243c4-tcl-us-6489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Classic Country -TCL (Geo)
+https://amg01243-xite-amg01243c5-tcl-us-6488.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE R&B Classic Jams -TCL (Geo)
+https://amg01243-xite-amg01243c6-tcl-us-6484.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE R&B Feels -TCL (Geo)
+https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Hip-Hop Evolution -TCL (Geo)
+https://amg01243-xite-amg01243c7-tcl-us-6479.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Rap Game -TCL (Geo)
+https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Just Chill -TCL (Geo)
+https://amg01243-xite-amg01243c9-tcl-us-6482.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Hits c10 -TCL (Geo)
+https://amg01243-xite-amg01243c10-tcl-us-6490.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Hits c22 -TCL (Geo)
+https://amg01243-xite-amg01243c22-tcl-us-6474.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Hits c23 -TCL (Geo)
+https://amg01243-xite-amg01243c23-tcl-us-6475.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Nuevo Latino -TCL (Geo)
+https://amg01243-xite-amg01243c12-tcl-us-6481.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Siempre Latino -TCL (Geo)
+https://amg01243-xite-amg01243c14-tcl-us-6485.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Christian Hits -TCL (Geo)
+https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",XITE Reggae Vibes -TCL (Geo)
+https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 70s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 80s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 90s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Qwest Jazz -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace UK -TCL (Geo)
+https://amg01131-tracetv-amg01131c5-tcl-us-4190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Urban -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Urban -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Latina -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Latina -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Trace Brazuca -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Hipstr -TCL (Geo)
+https://amg09501-amg09501c2-tclideo-na-2401.playouts.now.amagi.tv/playlist/amg09501-quester-hipstr-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Balle Balle -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3406
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Outdoor Action TV -TCL
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pac 12 -TCL (Geo)
+https://amg00384-pac12fast-amg00384c1-tclideo-northamerica-409.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fox Sports -TCL (Geo)
+https://amg02855-foxsports-amg02855c1-tclideo-na-2100.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Motorvision -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3467
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MTRSPRT 1 -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MTRSPRT 1 -TCL alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mav TV Select -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tcl-us-1327.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mav TV Select N.A -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tclideo-na-2696.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Women's Sport Network
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",North Woods League -TCL
+https://amg16842-amg16842c1-tcl-us-3434.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedotv Sports -TCL
+https://amg00735-amg00735c7-tcl-us-3621.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvus-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV .AU -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvaus-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV .BR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV .DE -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeade-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV .FR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafrance-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fuel TV .MX -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvusmexico-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Beyblade -TCL German French Spanish (Geo)
+https://amg01796-fastmedia-amg01796c8-tcl-us-4400.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cops .CA -TCL
+https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cops .CA alt -TCL
+https://langley-productions-cops-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cops .Au -TCL
+https://langleyproductions-cops-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Tastemade Home -TCL (Geo)
+https://amg00047-tastemade-amg00047c2-tcl-us-5026.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Tastemade Freetv16 -TCL alt
+https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Tastemade 16 INTL -TCL alt
+https://tastemade-tastemadees16intl-tcl-p49s8.amagi.tv/playlist/tastemade-tastemadees16intl-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Tastemade Germany -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Gusto -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustous-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Gusto TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-gustotv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Life -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Usa .AU -TCL
+https://brandusa-gousa-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Usa .BR -TCL
+https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Usa .MX -TCL
+https://brandusa-gousa-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Usa .DE -TCL
+https://brandusa-gousa-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Go Usa .FR -TCL
+https://brandusa-gousa-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Commune -TCL
+https://bec-commune-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Baywatch -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c2-tclideo-northamerica-617.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-baywatch-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",McLeods Daughter's -TCL (Geo)
+https://amg00627-banijay-amg00627c7-tclideo-northamerica-644.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Quip -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c3-tclideo-northamerica-620.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-quip-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Deal or no Deal -TCL (Geo)
+https://amg00627-banijay-amg00627c2-tclideo-northamerica-643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Biggest Loser -TCL (Geo)
+https://amg00627-banijay-amg00627c3-tclideo-northamerica-641.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wipeout Xtra -TCL (Geo)
+https://amg00627-banijay-amg00627c4-tclideo-northamerica-640.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fear Factor -TCL (Geo)
+https://amg00627-banijay-amg00627c5-tclideo-northamerica-639.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Masterchef Mexico -TCL
+https://amg00627-banijay-amg00627c10-tcl-us-4286.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mr Bean -TCL
+https://amg00627-banijay-amg00627c40-tcl-us-5568.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",OZ TV -TCL (Geo)
+https://amg13231-actve-amg13231c3-tclideo-na-5735.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Drool -TCL (Geo)
+https://amg17448-amg17448c1-tcl-us-5052.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Red Green Show -TCL
+https://answermedia-theredgreenshow-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Red Green Show .CA -TCL
+https://answermedia-theredgreenshow-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Myzen Free -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentven-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channnel -TCL
+https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channnel .AU -TCL
+https://gfcomnimedia-globalfashionchannel-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channel .CA -TCL
+https://gfcomnimedia-globalfashionchannel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channnel .DE -TCL
+https://gfcomnimedia-globalfashionchannel-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channel .FR -TCL
+https://gfcomnimedia-globalfashionchannel-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Global Fashion Channel .MX -TCL
+https://gfcomnimedia-globalfashionchannel-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Petclub -TCL
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV -TCL 
+https://fashiontv-fashiontv-5-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .CA -TCL
+https://fashiontv-fashiontv-5-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .AU -TCL
+https://fashiontv-fashiontv-5-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .BR -TCL
+https://fashiontv-fashiontv-5-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .DE -TCL
+https://fashiontv-fashiontv-5-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .FR -TCL
+https://fashiontv-fashiontv-5-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fashion TV .MX -TCL
+https://fashiontv-fashiontv-5-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV -TCL
+https://lovestoriestv-lovestoriestv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .CA -TCL
+https://lovestoriestv-lovestoriestv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .AU -TCL
+https://lovestoriestv-lovestoriestv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .BR -TCL
+https://lovestoriestv-lovestoriestv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .FR -TCL
+https://lovestoriestv-lovestoriestv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .DE -TCL
+https://lovestoriestv-lovestoriestv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .MX -TCL
+https://lovestoriestv-lovestoriestv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovestories TV .SA -TCL
+https://lovestoriestv-lovestoriestv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Today's Home Owner -TCL
+https://janson-todayshomeowner-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",HSN -TCL
+https://qvchsn-hsn-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",QVC -TCL
+https://qvchsn-qvc-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MoreU -TCL
+https://bec-moreu-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Emotional -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-emotional-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Tru Blu -TCL
+https://trublufactual-trublu-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Design Network alt -TCL
+https://amg00441-amg00441c1-tcl-us-6397.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",TV Manjaro (Oterra Check)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3347
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Awe Plus -TCL
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Real Wild -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wonder -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Timeline -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Demand Africa -TCL
+https://demandafrica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bein Sports Xtra -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dazn Womens Football -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenfootball-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Unbeaten -TCL
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sports Grid -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sports Grid Network -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsgridnetwork-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sports News Highlights -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsnewshighlights-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Boat Show .BR -TCL
+https://vitor-theboatshow-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Boat Show .US -TCL
+https://vitor-theboatshow-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Kids -TCL (Geo)
+https://amg02333-pbs-amg02333c6-tcl-us-5687.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Food -TCL (Geo)
+https://amg02333-pbs-amg02333c7-tcl-us-5688.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Nature -TCL (Geo)
+https://amg02333-pbs-amg02333c11-tcl-us-5689.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Antiques Roadshow -TCL (Geo)
+https://amg02333-pbs-amg02333c8-tcl-us-5691.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Antiques Roadshow -TCL (Geo)
+https://amg02333-pbs-amg02333c4-tcl-us-5692.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Antiques Roadshow (AU) -TCL 
+https://amg02333-pbs-amg02333c12-tcl-us-5682.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS History -TCL
+https://amg02333-pbs-amg02333c3-tcl-us-5686.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PBS Science (AU) -TCL
+https://amg02333-pbs-amg02333c10-tcl-us-5683.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bollywood HD Classic -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4154
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Comedy Dynamics -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags .AU -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags .DE -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags .FR -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags .MX -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Just for Laughs Gags .SA -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die -TCL
+https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die alt -TCL
+https://funny-or-die-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .CA -TCL
+https://funny-or-die-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .AU -TCL
+https://funny-or-die-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .BR -TCL
+https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .DE -TCL
+https://funny-or-die-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .FR -TCL
+https://funny-or-die-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .MX -TCL
+https://funny-or-die-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Funny or Die .SA -TCL
+https://funny-or-die-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fear Factor -TCL
+https://amg00627-banijay-amg00627c2-tcl-us-3376.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Deal or No Deal -TCL
+https://amg00627-banijay-amg00627c3-tcl-us-3399.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",The Biggest Loser -TCL
+https://amg00627-banijay-amg00627c4-tcl-us-4128.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Love Quest -TCL
+https://amg00627-banijay-amg00627c6-tcl-us-4287.playouts.now.amagi.tv/playlist/amg00627-banijayfast-lovequest-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wipe Out Xtra -TCL
+https://amg00627-banijay-amg00627c7-tcl-us-4127.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Hardcore Pawn -TCL
+https://amg00627-banijay-amg00627c8-tcl-us-4129.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cinenanar -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-cinenanar-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Yaquelaverite -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dove Now -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-dovenow-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cinesureno -TCL (Geo)
+https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Law and Crime -TCL
+https://tclAAAAAA-lawandcrime-tcl-tk7zp.amagi.tv/playlist/tclAAAAAA-lawandcrime-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Naruto -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-naruto-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Kartoon -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-kartoon-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Brat TV -TCL
+https://tclAAAAAA-brat-tcl-2mpk7.amagi.tv/playlist/tclAAAAAA-brat-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Brat TV alt -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-brattv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Brat TV other alt -TCL
+https://brat-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",So Real -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-soreal-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony One Cinema .BR -TCL
+https://spt-sonyoneclassicas-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony One Emoções .BR -TCL
+https://spt-sonyoneemocoes-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony One Shark Tank Brasil -TCL
+https://spt-sonyonesharktankbrasil-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Degrassi -TCL
+https://dhx-degrassi-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Darkmatter -TCL
+https://tricoast-tv-dark-matter-01-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Law and Crime -TCL (Geo)
+https://lawandcrime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Spark Light Love -TCL
+https://candlelightmedia-sparklightlove-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Spark Light Love .BR -TCL
+https://candlelightmedia-sparklightlove-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Spark Light Love .MX -TCL
+https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sparkle Movies .AU -TCL
+https://candlelightmedia-sparklemovies-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Natureleza Salvaje -TCL (Geo)
+https://amg00376-magellan-amg00376c21-tcl-us-3387.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Finepoint -TCL
+https://amg00450-amg00450c2-tcl-us-3993.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Awe -TCL
+https://amg00450-amg00450c4-tcl-us-3992.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Reuters -TCL
+https://amg00453-reuters-amg00453c1-tcl-us-3947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",AnaCarolina .BR -TCL
+https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Masterchef Brazil -TCL (Geo)
+https://amg00627-banijay-amg00627c9-tcl-us-3379.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mythbusters -TCL
+https://amg00627-banijay-amg00627c14-tcl-us-4130.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Movies -TCL
+https://amg00735-amg00735c21-tcl-us-3624.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Movies German -TCL
+https://amg00735-amg00735c10-tcl-us-3625.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Movies French subtitles -TCL
+https://amg00735-amg00735c8-tcl-us-3626.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo TV Movies Norwegien subtitles -TCL
+https://amg00735-amg00735c28-tcl-us-3649.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo TV Movies Swedish subtitles -TCL
+https://amg00735-amg00735c29-tcl-us-3650.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Arirang Korea Kpop+ Spain -TCL
+https://amg02040-amg02040c6-tcl-spain-5098.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 70s -TCL
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 80s -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Now 90s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Action Hollywood Movies -TCL
+https://amg01076-lightning-amg01076c4-tcl-us-2469.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",NewsWorld -TCL
+https://amg01076-lightning-amg01076c5-tcl-us-2468.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",GB News -TCL
+https://amg01076-lightning-amg01076c7-tcl-us-2467.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pulse -TCL
+https://amg01076-lightning-amg01076c8-tcl-us-2447.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Docsville -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cine Friki -TCL (Geo)
+https://amg00711-zylo-amg00711c1-tcl-us-4218.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Todo Novelas -TCL (Geo)
+https://amg00711-zylo-amg00711c3-tcl-us-4226.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Frequence Novelas -TCL (Geo)
+https://amg00711-zylo-amg00711c4-tcl-us-4217.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Cine Western -TCL
+https://amg00711-zylo-amg00711c8-tcl-us-2606.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Stash Black Stories -TCL (Geo)
+https://amg01720-filmhub-amg01720c1-tcl-us-3937.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Stash The Classics -TCL (Geo)
+https://amg01720-filmhub-amg01720c2-tcl-us-3959.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Stash Screams and Scares -TCL (Geo)
+https://amg01720-filmhub-amg01720c6-tcl-us-3958.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MovieDome UK -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MovieDome -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Movie Fone TV .FR -TCL
+https://connection3-ent-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Movie Fone TV .SA -TCL
+https://connection3-ent-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Action Hollywood Movies -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Filmhub C7 not identified -TCL
+https://amg01720-filmhub-amg01720c7-tcl-us-3960.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Filmhub C9 not identified -TCL
+https://amg01720-filmhub-amg01720c9-tcl-us-3936.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Filmhub C10 not identified -TCL
+https://amg01720-filmhub-amg01720c10-tcl-us-3911.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Love the Planet C10 not identified -TCL (Geo)
+https://amg01821-lovetv-amg01821c10-tcl-us-4052.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Love the Planet C11 not identified -TCL (Geo)
+https://amg01821-lovetv-amg01821c11-tcl-us-4050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Love the Planet Spanish -TCL (Geo)
+https://amg01821-lovetv-amg01821c26-tcl-us-4125.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Court TV -TCL
+https://scripps-courttv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Court TV alt -TCL
+https://scripps-courttv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ondemand China -TCL
+https://newidco-ondemandchina-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",OnDemand China .US alt -TCL
+https://newidco-ondemandchina-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ondemand China .CA -TCL
+https://newidco-ondemandchina-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ondemand China .CA alt -TCL
+https://newidco-ondemandchina-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Danger TV -TCL
+https://dangertv-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PowerNation -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tcl-us-908.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",PowerNation Spanish -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tclideo-na-2029.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-tclideona/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",TBN -TCL
+https://amg01700-tbn-amg01700c1-tcl-us-3154.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",QVC -TCL (Geo)
+https://amg01717-qvc-amg01717c1-tclideo-na-2936.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Super Simple Songs -TCL
+https://janson-supersimplesongs-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sensical 2 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical2up-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sensical 5 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical5up-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sensical 8 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical8up-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",NewKid .US -TCL
+https://newidco-newkid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",NewKid .US alt -TCL
+https://newidco-newkid-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",NewKid .CA -TCL
+https://newidco-newkid-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",NewKid .CA alt -TCL
+https://newidco-newkid-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Kids TV -TCL
+https://jansonmedia-kidstv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher -TCL
+https://beanostudios-dennis-and-gnasher-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .CA -TCL
+https://beanostudios-dennis-and-gnasher-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .AU -TCL
+https://beanostudios-dennis-and-gnasher-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .BR -TCL
+https://beanostudios-dennis-and-gnasher-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .DE -TCL
+https://beanostudios-dennis-and-gnasher-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .SA -TCL
+https://beanostudios-dennis-and-gnasher-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .FR -TCL
+https://beanostudios-dennis-and-gnasher-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dennis and Gnasher .MX -TCL
+https://beanostudios-dennis-and-gnasher-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Jelly Jammy World -TCL
+https://amg01553-blueant-amg01553c1-tcl-us-3941.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",WeDO Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4freemovies-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Big Stories c41 not identified -TCL
+https://amg00735-amg00735c41-tcl-us-4255.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Big Stories Italian subtitles -TCL
+https://amg00735-amg00735c1-tcl-us-3654.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Big Stories German subtitles -TCL
+https://amg00735-amg00735c11-tcl-us-3653.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo Big Stories Spanish subtitles -TCL
+https://amg00735-amg00735c33-tcl-us-3668.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Wedo TV Amor Spanish -TCL
+https://amg00735-amg00735c15-tcl-us-3623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Storie Criminali Italian -TCL (Geo)
+https://amg01821-lovetv-amg01821c21-tcl-us-4060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lovewine -TCL (Geo)
+https://amg01821-lovetv-amg01821c17-tcl-us-4042.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Historia Y Vida -TCL (Geo)
+https://amg01821-lovetv-amg01821c22-tcl-us-4102.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Myzen TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentv-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Bein Xtra Espanol -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Magellan TV Now -TCL (Geo)
+https://amg00376-magellan-amg00376c1-tclideo-northamerica-1371.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV -TCL
+https://memphisstudios-dittytv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .CA -TCL
+https://memphisstudios-dittytv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .AU -TCL
+https://memphisstudios-dittytv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .BR -TCL
+https://memphisstudios-dittytv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .MX -TCL
+https://memphisstudios-dittytv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .Fr -TCL
+https://memphisstudios-dittytv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .DE -TCL
+https://memphisstudios-dittytv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ditty TV .SA -TCL
+https://memphisstudios-dittytv-1-sa.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Circle TV -TCL (Geo)
+https://amg00432-circletvfast-amg00432c1-tclideo-northamerica-412.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MHZ -TCL
+https://mhz-samsung-linear-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",MHZ .CA -TCL
+https://mhz-samsung-linear-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Ted -TCL
+https://tedconferences-ted-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey Escandalos -TCL
+https://nosey-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nosey Escandolas alt -TCL
+https://nosey-3-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",RCN Mas+ -TCL
+https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",RCN Mas+ .CA -TCL
+https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",RCN Mas+ .MX -TCL
+https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pelimex -TCL
+https://telecine-pelimex-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Pelimex .MX -TCL
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Food -TCL 
+https://food-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Intouchplus -TCL (Geo)
+https://amg01540-apexmedia-amg01540c2-tclideo-northamerica-983.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony Kal Hindi -TCL
+https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony Canal Novelas -TCL
+https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony Canal Compentencias -TCL
+https://spt-competencias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony Canal Competencias .MX -TCL
+https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony One Sharktank .MX -TCL
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sony One Novelas .MX -TCL
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Crime .BR -TCL
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Drama .BR -TCL
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Sureno -TCL (Geo)
+https://amg01024-amg01024c21-tcl-us-4434.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",FreeTV Familia -TCL (Geo)
+https://amg01024-amg01024c26-tcl-us-4438.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",TV Zyn -TCL check
+https://amg01391-sbtinfast-amg01391c2-tcl-us-3712.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",New Brasil -TCL (Geo)
+https://amg01391-sbtinfast-amg01391c5-tcl-us-5080.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Sabor Arte 2 -TCL (Geo)
+https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mav TV Brasil -TCL (Geo)
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Fitdance -TCL
+https://amg17288-offgrid-amg17288c1-tcl-us-5004.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Manual Do Mundo -TCL
+https://amg17288-offgrid-amg17288c2-tcl-us-5005.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",WhePlay Plus -TCL (Geo)
+https://amg17288-offgrid-amg17288c5-tcl-us-5917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Acelerados -TCL (Geo)
+https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Dia TV -TCL
+https://amg19706-diatv-amg19706c1-tcl-us-3718.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Buena Onda
+https://amg17288-offgrid-amg17288c3-tcl-us-5037.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Estrella Games -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellagames-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Estrella News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Estrella TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Canel Cinema -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Canela Clasicos -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Canela Tele Novelas -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Canela TV -TCL (Geo) 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Nuestravision -TCL (Geo)  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01914-nuestravision-nuestravision-tcl-ideo/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Kanal D Drama -TCL
+https://amg01602-amg01602c2-tcl-us-4910.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Univers Cine -TCL (Geo)
+https://amg01259-amg01259c1-tcl-us-3600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",quiveutgagnerdesmillions -TCL (Geo)
+https://amg02393-awpg-amg02393c1-tcl-us-2150.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Le meilleur D'arthur -TCL (Geo)
+https://amg02393-awpg-amg02393c2-tcl-us-2151.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Les Amours -TCL (Geo)
+https://amg02393-awpg-amg02393c3-tcl-us-2152.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Le meilleur de la tv Realite -TCL (Geo)
+https://amg02393-awpg-amg02393c4-tcl-us-2153.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Lesanges -TCL (Geo)
+https://amg02393-awpg-amg02393c5-tcl-us-2154.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Les secrets denos regions -TCL (Geo)
+https://amg02393-awpg-amg02393c6-tcl-us-2188.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-tclus/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Out TV Proud -TCL (Geo)
+https://amg00375-fusemedia-amg00375c3-tclideo-northamerica-721.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-outtvproud-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Beond TV -TCL (Geo)
+https://amg01681-beondtv-amg01681c1-tclideo-northamerica-386.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",Mob TV -TCL (Geo)
+https://amg01324-infamous-amg01324c1-tclideo-northamerica-400.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-mobtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1 group-title="TCL TV PLUS CHANNELS",123 Go English -TCL (Geo)
+https://amg02051-soulpublishing-amg02051c17-tclideo-northamerica-527.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-tclideonorthamerica/playlist.m3u8
