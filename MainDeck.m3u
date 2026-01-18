@@ -8,117 +8,51 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d4db501f5c2b9a3debd7c6c8bb7687ad-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",6AM Utah Jazz vs. Dallas Mavericks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b39f75015720bee071b6f54aeb68abfb-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Brooklyn Nets vs. Chicago Bulls
 https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eea125abfc6eff09c1506e96a9a8d8f1-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Boston Celtics vs. Atlanta Hawks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bc4fd9c3166fb455fa54f1c079381276-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM New Orleans Pelicans vs. Houston Rockets
 https://cdn4.hkfile.cfd/live/cdn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/09fd99ec708e9603ef94fd8c1a93e93c-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Indiana Pacers vs. Detroit Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cc7c8e8dc5f3a25f0faf464071a9ac32-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Charlotte Hornets vs. Denver Nuggets
 https://cdn5.hkfile.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fde94a318b7f5886295cb9825c91d4a6-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Phoenix Suns vs. New York Knicks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f17129de47fc89f6ec9c9b299a96b7f8-thumbnail.jpg" group-title="NBA Live (Source 1)",10AM Portland Trail Blazers vs. Sacramento Kings
 https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d3fc7dff9c9e6244433fe2a5a78bbd7d-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9AM Oklahoma City Thunder vs. Miami Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/731fe91d62e23e80950913e2bdbc4d01-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Toronto Raptors vs. Los Angeles Lakers
 https://cdn7.hkfile.cfd/live/cdn7/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ffb997d9743617247058c971180485d9-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9AM Minnesota Timberwolves vs. San Antonio Spurs
-https://cdn8.hkfile.cfd/live/cdn8/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b0fcf61f1eadb1609d96ca4b99ab01d3-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9:30AM Charlotte Hornets vs. Golden State Warriors
-https://cdn9.hkfile.cfd/live/cdn9/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9572d81ff56c0fb1afb9290ad4e36e08-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",10AM Washington Wizards vs. Denver Nuggets
-https://cdn10.hkfile.cfd/live/cdn10/chunks.m3u8
-https://cdn10.hkfile.cfd/live/cdn10/playlist.m3u8?expires=1768686126&token=ac5e6c00ad224d4792e6d8d9d4614ece7d6f45cfcb502302be7426a2ce22a4cb
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a192d60ff2b04601b3fbb8cdb77fe0c9-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",11AM Los Angeles Lakers vs. Portland Trail Blazers
-https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",6AM Utah Jazz vs. Dallas Mavericks
-https://strm.poocloud.in/secure/hGgwHCZbEkJnFFwxpjUAOhGreegoPVtI/1768680000/1768704480/dallasmavericks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Boston Celtics vs. Atlanta Hawks
-https://strm.poocloud.in/secure/IynSwCQhmEfWYzltglmHfOSQaOZVaqEA/1768689000/1768713480/atlantahawks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Indiana Pacers vs. Detroit Pistons
-https://strm.poocloud.in/secure/pCITthSbijFqoVrikbQLKhCQAshdeVcj/1768689000/1768713480/detroitpistons.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Phoenix Suns vs. New York Knicks
-https://strm.poocloud.in/secure/OudEUdZcLtmGANURQKCfjZlJxazCEBrh/1768689000/1768713480/newyorkknicks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9AM  Oklahoma City Thunder vs. Miami Heat
-https://strm.poocloud.in/secure/eGVcLVGCPkibraeUhZlByvGBFIqgEKHs/1768690800/1768715280/miamiheat.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9AM Minnesota Timberwolves vs. San Antonio Spurs
-https://strm.poocloud.in/secure/PPGdTJGrbYtReCKSykcoiotHaYfGrWfL/1768690800/1768715280/sanantoniospurs.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9:30AM Charlotte Hornets vs. Golden State Warriors
-https://strm.poocloud.in/secure/bYlKvAlDShyEfZfJDjkgAQBXGeqVqOfj/1768692600/1768717080/goldenstatewarriors.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",10AM  Washington Wizards vs. Denver Nuggets
-https://strm.poocloud.in/secure/cEcNjhuIlEzaIhIGIwJLezTkMlXlNTiG/1768694400/1768718880/denvernuggets.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",11AM Los Angeles Lakers vs. Portland Trail Blazers
-https://strm.poocloud.in/secure/cPfCofCsiczmkCBmNmqFrASUcCiMhhlf/1768698000/1768722480/portlandtrailblazers.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Dallas Mavericks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Dallas-Mavericks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Jazz vs Mavericks 6AM
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Brooklyn-Nets-Logo.svg" group-title="NBA Live (Source 2)",Brooklyn Nets vs Chicago Bulls 8AM
 #EXTVLCOPT:http-origin=https://streamingonembed.pro
 #EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/utah-jazz-vs-dallas-mavericks720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Atlanta Hawks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Celtics vs Hawks 8:30AM
+https://indiasmellsverybad.xyz/live/brooklyn-nets-vs-chicago-bulls720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-Orleans-Pelicans-Logo.svg" group-title="NBA Live (Source 2)",New Orleans Pelicans vs Houston Rockets 8AM
 #EXTVLCOPT:http-origin=https://streamingonembed.pro
 #EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/boston-celtics-vs-atlanta-hawks720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Detroit Pistons - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Pacers vs Pistons 8:30AM
+https://indiasmellsverybad.xyz/live/new-orleans-pelicans-vs-houston-rockets720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Charlotte-Hornets-Logo.svg" group-title="NBA Live (Source 2)",Charlotte Hornets vs Denver Nuggets 9AM
 #EXTVLCOPT:http-origin=https://streamingonembed.pro
 #EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/indiana-pacers-vs-detroit-pistons720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ New York Knicks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Suns vs Knicks 8:30AM
+https://indiasmellsverybad.xyz/live/charlotte-hornets-vs-denver-nuggets720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live (Source 2)",Portland Trail Blazers vs Sacramento Kings 10AM
 #EXTVLCOPT:http-origin=https://streamingonembed.pro
 #EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/phoenix-suns-vs-new-york-knicks720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Miami Heat - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Miami-Heat-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Thunder vs Heat 9AM
+https://indiasmellsverybad.xyz/live/portland-trail-blazers-vs-sacramento-kings720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Toronto-Raptors-Logo.svg" group-title="NBA Live (Source 2)",Toronto Raptors vs Los Angeles Lakers 10:30AM
 #EXTVLCOPT:http-origin=https://streamingonembed.pro
 #EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/oklahoma-city-thunder-vs-miami-heat720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ San Antonio Spurs - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/San-Antonio-Spurs-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Timberwolves vs Spurs 9AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/minnesota-timberwolves-vs-san-antonio-spurs720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Golden State Warriors - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Golden-State-Warriors-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Hornets vs Warriors 9:30AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/charlotte-hornets-vs-golden-state-warriors720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Denver Nuggets - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Denver-Nuggets-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Wizards vs Nuggets - 10AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/washington-wizards-vs-denver-nuggets720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Portland Trail Blazers - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Lakers vs Trail Blazers 11AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://indiasmellsverybad.xyz/live/los-angeles-lakers-vs-portland-trail-blazers720p/index.m3u8
+https://indiasmellsverybad.xyz/live/toronto-raptors-vs-los-angeles-lakers720p/index.m3u8
 
 
 
@@ -4166,11 +4100,6 @@ https://drive.usercontent.google.com/download?id=1L6Vi6nbc97YQbd_WCfqb1jOzlh4wMF
 #EXTINF:-1 tvg-id="TennisChannel.us@SD" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="SPORTS CHANNELS",Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNELS" ,Fast Sports HD (SHOQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba9b637b639af897f228114363e882fa:27508374902bd52361f08a2ad4dba3a3
-https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
-
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Poland" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="SPORTS CHANNELS",FIFA plus
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
@@ -4315,17 +4244,15 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="SPORTS CHANNELS",TSN1
-http://nocable.cc:8080/live/5AGbfz/324331/57292.m3u8
+https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="SPORTS CHANNELS",TSN2
-http://nocable.cc:8080/live/5AGbfz/324331/47442.m3u8
+https://a1xs.vip/6000002
 #EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="SPORTS CHANNELS",TSN3
-http://nocable.cc:8080/live/5AGbfz/324331/10389.m3u8
+https://a1xs.vip/6000003
 #EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="SPORTS CHANNELS",TSN4
-http://nocable.cc:8080/live/5AGbfz/324331/16130.m3u8
+https://a1xs.vip/6000004
 #EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="SPORTS CHANNELS",TSN5
-http://nocable.cc:8080/live/5AGbfz/324331/16131.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-id="TSN5.ca@SD",TSN5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
+https://a1xs.vip/6000005
 
 
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="SPORTS CHANNELS",TSN The Ocho
@@ -4360,58 +4287,14 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 --- 📺 SPORTS CHANNELS
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="SPORTS CHANNELS",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="SPORTS CHANNELS",Astro Sports UHD
-https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="SPORTS CHANNELS",beIN 4K
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="SPORTS CHANNELS",Now Sports 1 4k
-https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="SPORTS CHANNELS",Hub Premier 2 UHD
-https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="SPORTS CHANNELS",V Sport UltraHD
-https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="SPORTS CHANNELS",TNT Sport Ultimate
 https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="SPORTS CHANNELS",ElevenSport1 4K
-https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="SPORTS CHANNELS",Prima4K
-https://7pal.short.gy/prima4k
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="SPORTS CHANNELS",Sky Sports F1 UHD
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="SPORTS CHANNELS",Ziggo Sport UHD
-https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="SPORTS CHANNELS",Sport5_4k
-https://7pal.short.gy/5sport
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="SPORTS CHANNELS",EuroSport 4K 
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="SPORTS CHANNELS",M+LaLiga UHD 
-https://7pal.short.gy/mplusuhd
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="SPORTS CHANNELS",NESN UHD
-https://7pal.short.gy/nesnuhd
 
 --- 📺 SPORTS CHANNELS
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS CHANNELS", Hub Premier1 FHD
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS CHANNELS", Hub Premier2 FHD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="SPORTS CHANNELS", Hub Premier3 FHD
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="SPORTS CHANNELS", Now Sports Premier League1 FHD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="SPORTS CHANNELS", Now Sports PremierLeague 2 FHD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="SPORTS CHANNELS", Now Sports Premier League 3 FHD
-https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="SPORTS CHANNELS", Astro Premier League FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="SPORTS CHANNELS", Astro Premier League 2 FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="SPORTS CHANNELS", Astro Grandstand FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="SPORTS CHANNELS", Astro Football FHD
-https://7pal.short.gy/astross4
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="SPORTS CHANNELS", USA NetWork FHD
-https://7pal.short.gy/usanetwork
 
 --- 📺 SPORTS CHANNELS
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="SPORTS CHANNELS", TNT Sports 1 FHD
@@ -4442,8 +4325,6 @@ https://7pal.short.gy/ssportsgf
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="SPORTS CHANNELS", Sky Sports Action FHD
 https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="SPORTS CHANNELS", Sky Sports Box Office
-https://7pal.short.gy/ssportsbo
 
 
 --- 📺 SPORTS CHANNELS
@@ -4505,12 +4386,8 @@ https://7pal.short.gy/tsn5ca
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="SPORTS CHANNELS", MSG
 https://7pal.short.gy/msgusa
-#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="SPORTS CHANNELS", MSG+
-https://7pal.short.gy/msgsn
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="SPORTS CHANNELS", NFL Network
 https://7pal.short.gy/nflnw
-#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="SPORTS CHANNELS", USA: NFL Redzone
-https://7pal.short.gy/nflredz
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="SPORTS CHANNELS", ESPN 
 https://7pal.short.gy/espnus
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="SPORTS CHANNELS" ESPN2 
@@ -4633,26 +4510,6 @@ https://a1xs.vip/40000033
 https://a1xs.vip/40000034
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="SEC Network HD" tvg-logo="https://live.fanmingming.cn/tv/SEC Network HD.png",SEC Network HD
 https://a1xs.vip/40000015
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Spectrum Sportsnet FHD" tvg-logo="https://live.fanmingming.cn/tv/Spectrum Sportsnet FHD.png",Spectrum Sportsnet FHD
-https://a1xs.vip/4000006
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Spectrum Sportsnet LA Dodgers" tvg-logo="https://live.fanmingming.cn/tv/Spectrum Sportsnet LA Dodgers.png",Spectrum Sportsnet LA Dodgers
-https://a1xs.vip/400052
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Spectrum Sportsnet Lakers" tvg-logo="https://live.fanmingming.cn/tv/Spectrum Sportsnet Lakers.png",Spectrum Sportsnet Lakers
-https://a1xs.vip/400053
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="SportsNet NY FHD" tvg-logo="https://live.fanmingming.cn/tv/SportsNet NY FHD.png",SportsNet NY FHD
-https://a1xs.vip/40000045
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Tennis Channel FHD" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel FHD.png",Tennis Channel FHD
-https://a1xs.vip/40000040
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Tennis Channel Plus FHD" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel Plus FHD.png",Tennis Channel Plus FHD
-https://a1xs.vip/40000041
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TNT (EAST)" tvg-logo="https://live.fanmingming.cn/tv/TNT (EAST).png",TNT (EAST)
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="USA Network FHD" tvg-logo="https://live.fanmingming.cn/tv/USA Network FHD.png",USA Network FHD
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Willow Cricket FHD" tvg-logo="https://live.fanmingming.cn/tv/Willow Cricket FHD.png",Willow Cricket FHD
-https://a1xs.vip/40000042
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Willow Cricket Xtra" tvg-logo="https://live.fanmingming.cn/tv/Willow Cricket Xtra.png",Willow Cricket Xtra
 https://a1xs.vip/40000043
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Fox Sports 501 FHD" tvg-logo="https://live.fanmingming.cn/tv/Fox Sports 501 FHD.png",Fox Sports 501 FHD
@@ -4683,20 +4540,6 @@ https://a1xs.vip/6000011
 https://a1xs.vip/6000015
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Sportsnet World FHD" tvg-logo="https://live.fanmingming.cn/tv/Sportsnet World FHD.png",Sportsnet World FHD
 https://a1xs.vip/6000013
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TSN1" tvg-logo="https://live.fanmingming.cn/tv/TSN1.png",TSN1
-https://a1xs.vip/6000001
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TSN2" tvg-logo="https://live.fanmingming.cn/tv/TSN2.png",TSN2
-https://a1xs.vip/6000002
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TSN3" tvg-logo="https://live.fanmingming.cn/tv/TSN3.png",TSN3
-https://a1xs.vip/6000003
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TSN4" tvg-logo="https://live.fanmingming.cn/tv/TSN4.png",TSN4
-https://a1xs.vip/6000004
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TSN5" tvg-logo="https://live.fanmingming.cn/tv/TSN5.png",TSN5
-https://a1xs.vip/6000005
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Astro Premier League" tvg-logo="https://live.fanmingming.cn/tv/Astro Premier League.png",Astro Premier League
-https://a1xs.vip/1100030
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Astro Premier League 2" tvg-logo="https://live.fanmingming.cn/tv/Astro Premier League 2.png",Astro Premier League 2
-https://a1xs.vip/1100031
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Hub Premier 1 FHD" tvg-logo="https://live.fanmingming.cn/tv/Hub Premier 1 FHD.png",Hub Premier 1 FHD
 https://a1xs.vip/1100041
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Hub Premier 2 FHD" tvg-logo="https://live.fanmingming.cn/tv/Hub Premier 2 FHD.png",Hub Premier 2 FHD
@@ -4789,12 +4632,6 @@ https://a1xs.vip/2000008
 https://a1xs.vip/2000004
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://live.fanmingming.cn/tv/Sky Sports Premier League FHD.png",Sky Sports Premier League FHD
 https://a1xs.vip/2000002
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Sky Sports Racing FHD" tvg-logo="https://live.fanmingming.cn/tv/Sky Sports Racing FHD.png",Sky Sports Racing FHD
-https://a1xs.vip/2000010
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://live.fanmingming.cn/tv/Sky Sports Tennis FHD.png",Sky Sports Tennis FHD
-https://a1xs.vip/2000013
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Sky Sports+ FHD" tvg-logo="https://live.fanmingming.cn/tv/Sky Sports+ FHD.png",Sky Sports+ FHD
-https://a1xs.vip/2000012
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TNT Sports 1 FHD" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 1 FHD.png",TNT Sports 1 FHD
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TNT Sports 2 FHD" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 2 FHD.png",TNT Sports 2 FHD
@@ -4805,10 +4642,6 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="TNT Sports Ultimate UHD" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports Ultimate UHD.png",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://live.fanmingming.cn/tv/Star Sports Select 1 FHD.png",Star Sports Select 1 FHD
-https://a1xs.vip/8000011
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://live.fanmingming.cn/tv/Star Sports Select 2 FHD.png",Star Sports Select 2 FHD
-https://a1xs.vip/8000012
 
 
 
