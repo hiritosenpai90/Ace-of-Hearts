@@ -18,42 +18,36 @@ https://cdn12.fkfiles.cfd/live/cdn12/playlist.m3u8?expires=1769284820&token=87e6
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aeda97e42ed90a312b463e8c42a57080-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",6AM UFC 324: Gaethje vs. Pimblett
-https://strm.poocloud.in/secure/iahOGfXCaYSCeYxoeIdXQngXpugylaCa/1769200200/1769243400/zuffaboxing/index.m3u8
+https://strm.poocloud.in/secure/qAMHZaFobKJGRQxJHpxxLBjugWTwmZNa/1769284800/1769328000/ufc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3982ca1ee4c7ccaf1933d261ac4bc62-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",9AM Raymond Muratalla vs. Andy Cruz
-https://strm.poocloud.in/secure/AutehXChshWlcYOfdMWRNcdHRPCLSnrs/1769295600/1769331600/daznboxing/index.m3u8
+https://strm.poocloud.in/secure/hrBnqNUOLOaKkCYanQEmlbhbVRbnnMpX/1769295600/1769331600/daznboxing/index.m3u8
  
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bd2f66767d050fd3ee9377f5b23974bc-thumbnail.jpg" group-title="NBA Live (Source 1)",4AM Knicks vs. 76ers
-https://strm.poocloud.in/secure/cWLxFMgVOHqqyhjDbFpNaLcpVEGxNtXZ/1769277600/1769302080/philadelphia76ers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 1)",6:30AM Warriors vs. Timberwolves
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 1)",(POSTPONED) Warriors vs. Timberwolves
 https://strm.poocloud.in/secure/BVxTsaqZKMdZbCrcbwaODoecDlZbonjl/1769286600/1769311080/minnesotatimberwolves/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Cavaliers vs. Magic
-https://strm.poocloud.in/secure/qQMtpdBgsPIXKFgWmfkrDPTwKwZpehra/1769292000/1769316480/orlandomagic/index.m3u8
+https://strm.poocloud.in/secure/kMqxWUfUXENvklXFlXrxGYVjfdlumhsk/1769292000/1769316480/orlandomagic/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3a8d4942a4ec828290c7d7d93759ff09-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Celtics vs. Bulls
-https://strm.poocloud.in/secure/KNNhbjCsEDilvMRXbvSsHtXOyrBpwHVb/1769295600/1769320080/chicagobulls/index.m3u8
+https://strm.poocloud.in/secure/bcYAABVxfXlaKgioxVfWlwknLcIToUia/1769295600/1769320080/chicagobulls/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dc87eb7e50d6e1940f97fc96978e1daa-thumbnail.jpg" group-title="NBA Live (Source 1)",9:30AM Lakers vs. Mavericks
-https://strm.poocloud.in/secure/kowqjusYKqlrmTtKBGyGKCLvwStOQhwn/1769297400/1769321880/dallasmavericks/index.m3u8
+https://strm.poocloud.in/secure/MxODlqGFeCeqSdKYrpXOJCXYxGaTTkDv/1769297400/1769321880/dallasmavericks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d3f95755d14cf2df8cdb47a4dc712f4c-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Heat vs. Jazz
-https://strm.poocloud.in/secure/valNOjSeaCAJamhatpsJwmnguMGdJpfQ/1769301000/1769325480/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/YsodwXOoxAqOnkuHGsEdAfnupNCFTLkk/1769301000/1769325480/utahjazz/index.m3u8
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bd2f66767d050fd3ee9377f5b23974bc-thumbnail.jpg" group-title="NBA Live (Source 2)",4AM Knicks vs. 76ers
-https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769284658&token=72d550eabc3c847da640c337c5b1fb559259b830bdbe51d13558074ad2abecea
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 2)",6:30AM Warriors vs. Timberwolves
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 2)",(POSTPONED) Warriors vs. Timberwolves
 https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769284676&token=f9bedbb2e79afc84d8bd3411491c708bbbc12b59e23a24af41d2b03a148a24e3
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumbnail.jpg" group-title="NBA Live (Source 2)",8AM Cavaliers vs. Magic
@@ -9230,8 +9224,10 @@ https://drive.usercontent.google.com/download?id=1RI_UpjwCMsJFtqN0VvCONjihG1ag0W
 
 
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES 2022",Deleted
-https://www.googleapis.com/drive/v3/files/1TMKJ-R9a3LtlXf4SZDUmHdT3HCx9Y0MH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIES 2022",Pamasahe
+https://www.googleapis.com/drive/v3/files/1W-DrGnKVgwDONFT10vlNXqZe8v2l87l8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="MOVIES 2022",Selinas Gold
+https://www.googleapis.com/drive/v3/files/1L7msG44eqvW1tiDOSE-996nltCJmeJM6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Bones and All
 https://www.googleapis.com/drive/v3/files/1S0kcJVo4KuoooG9nSJmNaqoANmKj9-68?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Shadyantra
@@ -9240,8 +9236,6 @@ https://www.googleapis.com/drive/v3/files/1GnjlSwqy1vlMiTMh0PLrYE6Jeb6_r6eu?alt=
 https://www.googleapis.com/drive/v3/files/1COBzbQfwljPuSngRCzp9cp98MI_Onlt9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",About Fate
 https://www.googleapis.com/drive/v3/files/1LaeIbLiUGF1IYkUdjYRG_0TT0ThvjM3v?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="MOVIES 2022",Pamasahe
-https://www.googleapis.com/drive/v3/files/1W-DrGnKVgwDONFT10vlNXqZe8v2l87l8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Ram Setu
 https://www.googleapis.com/drive/v3/files/1dincUgEpq8x9-dnYAo6eTzF-OFzc0YPB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",The Independent
@@ -9250,8 +9244,6 @@ https://www.googleapis.com/drive/v3/files/1aN1DsrkOxGXobFp5SKUTCOGsWzmRcVB4?alt=
 https://www.googleapis.com/drive/v3/files/19elQgapy3JV0wffDrdosxxfTfwn1ybWR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",The Harbinger
 https://www.googleapis.com/drive/v3/files/1Oqr3BwZswUl9owwoBxfKT4I53dezAv8-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="MOVIES 2022",Confidential Assignment 2: International
-https://www.googleapis.com/drive/v3/files/1Yk8YjrRo0ql5R1w_IJfePlIw-gA8GKM8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Poker Face
 https://www.googleapis.com/drive/v3/files/1fPMzdLKs7b0c9BAx-5dJMJRjPa3Ut61Z?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Bros
@@ -9272,16 +9264,12 @@ https://www.googleapis.com/drive/v3/files/1b9s3bbVbEadYTzDx_wj9wYCwbcYdlpCv?alt=
 https://www.googleapis.com/drive/v3/files/191xbUlXd2_i74V1BaB38RYHRSBmngfdt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",The System
 https://www.googleapis.com/drive/v3/files/1C6CqZsu7RQJSF4lKxMGrNN95bhTL3MUi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="MOVIES 2022",Dangerous Game: The Legacy Murders
-https://www.googleapis.com/drive/v3/files/1EX0QtTwtsRERmyqacOs5uB3JNv1RaQAo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",R.I.P.D. 2: Rise of the Damned
 https://www.googleapis.com/drive/v3/files/1E3QkexnOpNGQS6wMLa7e8VqijXl11oKe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Leio
 https://www.googleapis.com/drive/v3/files/13zpcD8NGjTsffBqL-WUoKkUsdQeidKFk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",The Lair
 https://www.googleapis.com/drive/v3/files/1a3pE9Z9X338cVc-nqGGKPfrydmAmqy0s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="MOVIES 2022",Selinaâ€™s Gold
-https://www.googleapis.com/drive/v3/files/1L7msG44eqvW1tiDOSE-996nltCJmeJM6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",To Kill the Beast
 https://www.googleapis.com/drive/v3/files/19dTq3Hp1HgOorMDwlTf1Uj9AJywxMHp6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="MOVIES 2022",Terrifier 2
