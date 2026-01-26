@@ -18,6 +18,29 @@ https://strm.poocloud.in/secure/agYMuvocghmmFDkPMZUkpZOBzUnNvkHk/1769464800/1769
 
 
 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Charlotte Hornets (JAN 27 @ 04:00 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FPtCBXHSaAaoileonAAcYoOOGKoHbQzvS%2F1769450400%2F1769474880%2Fcharlottehornets%2Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Cleveland Cavaliers (JAN 27 @ 08:00 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FuHkBdXulkguHYVNmfTVmZNSRWxxKcnvS%2F1769464800%2F1769489280%2Fclevelandcavaliers%2Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6cd6d94bb7bd8db6a434d263b640b452-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Boston Celtics (JAN 27 @ 09:00 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FasunVhoCKnAsgbRkkukLIrjwchUKcjrs%2F1769468400%2F1769492880%2Fbostonceltics%2Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3240baba79f6687b2c7d4dc622997494-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Chicago Bulls (JAN 27 @ 09:00 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FuTDbCjCmnbAVhXOPETbftbFSZcqHjfSG%2F1769468400%2F1769492880%2Fchicagobulls%2Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fd8b222b0f1634bb01cfb5a64a4bef1-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Houston Rockets (JAN 27 @ 09:00 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FSoOeAhxNyARRqUulSajyfsKEaSKeRzpm%2F1769468400%2F1769492880%2Fhoustonrockets%2Findex.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Minnesota Timberwolves (JAN 27 @ 10:30 AM PHT)
+http://138.68.41.37:4123/?url=https%3A%2F%2Fstrm.poocloud.in%2Fsecure%2FItzlkaMwRheTtMISNoFiQznTizAOeKPE%2F1769473800%2F1769498280%2Fminnesotatimberwolves%2Findex.m3u8
+
+
+
+
 
 
 #EXTM3U
