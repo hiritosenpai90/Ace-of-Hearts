@@ -8,29 +8,24 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4a36dfe0c3670098b2491081c530ca88-thumbnail.jpg" group-title="NBA Live Feb6(S1)",8AM Wizards vs Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1af4541a0834cb2308dd4f5bcf686df9-thumbnail.jpg" group-title="NBA Live Feb7(S1)",8:30AM Heat vs Celtics
 https://cdn2.bnfiles.cfd/live/cdn2/playlist.m3u8?expires=1770339582&token=db77ebafda4df7462d4febbb31af0ea23810f65ad31fd810f5ab58957f2cba3a
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/273fd494eb697bbb1dec1769845331b0-thumbnail.jpg" group-title="NBA Live Feb6(S1)",8AM Nets vs Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/50f00efa94728aa76194bd90564b58b9-thumbnail.jpg" group-title="NBA Live Feb7(S1)",8:30AM Knicks vs Pistons
 https://cdn1.bnfiles.cfd/live/cdn1/playlist.m3u8?expires=1770339949&token=52beb3c6a911b4529ef57154d22cc8907aaefa29402fc548125568bc1404cb3d
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/10faa1b4399964c9543dd2feeb6c8f0a-thumbnail.jpg" group-title="NBA Live Feb6(S1)",8:30AM Jazz vs Hawks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0a6073ea5f4fe126ced8ae65f53711f0-thumbnail.jpg" group-title="NBA Live Feb7(S1)",9AM Pacers vs Bucks
 https://cdn3.bnfiles.cfd/live/cdn3/playlist.m3u8?expires=1770340058&token=75fded98edbc34b803c43550e9101c3b84dabdd36027e2f7640129bb11ecf44b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f69b7bf9e1aaa98b530ecf77d35d3af-thumbnail.jpg" group-title="NBA Live Feb6(S1)",8:30AM Bulls vs Raptors
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4bdc41e4c528ef4019765ff1c0f10d16-thumbnail.jpg" group-title="NBA Live Feb7(S1)",9AM Pelicans vs Timberwolves
 https://cdn4.bnfiles.cfd/live/cdn4/playlist.m3u8?expires=1770339243&token=29cb622def23d7b16657a6decdf76c488a3d1272041fb7d91c711a0c72ef3187
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b1eb94c37f11c9e046ab331588936a9c-thumbnail.jpg" group-title="NBA Live Feb6(S1)",9AM Hornets vs Rockets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b413e88d3b770a44dcc582be0b63a9fb-thumbnail.jpg" group-title="NBA Live Feb7(S1)",11AM Grizzlies vs Blazers
 https://cdn5.bnfiles.cfd/live/cdn5/playlist.m3u8?expires=1770339973&token=fc113f3b11e4b90ca6c668dd4456e8f92a8d9cedffe1221b7ae755ac0ab1296f
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cfdcda251cb8d9336a066fc5e2caff33-thumbnail.jpg" group-title="NBA Live Feb6(S1)",9:30AM Spurs vs Mavericks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/248e254336123aed5d6c8e44f60c9e0c-thumbnail.jpg" group-title="NBA Live Feb7(S1)",11AM Clippers vs Kings
 https://cdn6.bnfiles.cfd/live/cdn6/playlist.m3u8?expires=1770340029&token=7fb65a492d7408e291a123d45548e59dd18a401af4912570068eedcbcff57b3a
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c10412be3f69194e8a155958809d62f3-thumbnail.jpg" group-title="NBA Live Feb6(S1)",11AM Warriors vs Suns
-https://cdn8.bnfiles.cfd/live/cdn8/playlist.m3u8?expires=1770341359&token=a84de2270dd2c10382015b71665e3bfd35d7d20344a357967ec79fda2f62f93d
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c7ef663fc7efcc8e913a582369b7086-thumbnail.jpg" group-title="NBA Live Feb6(S1)",11AM 76ers vs Lakers
-https://cdn7.bnfiles.cfd/live/cdn7/playlist.m3u8?expires=1770339884&token=b79a3a42125c03db4a83f2dc7f23dcbcce659397a1be73ea83a2537b9c49c289
 
 
 
@@ -38,32 +33,28 @@ https://cdn7.bnfiles.cfd/live/cdn7/playlist.m3u8?expires=1770339884&token=b79a3a
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb6(S2)",(REUPDATE at 10AM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb7(S2)",(REUPDATE at 10AM)
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4a36dfe0c3670098b2491081c530ca88-thumbnail.jpg" group-title="NBA Live Feb6(S2)",8AM Wizards vs Pistons
-https://kolkata.poocloud.in/secure/zbZXZIUYnKoqXynVLFVNOWAITnhSJNfQ/1770325200/1770353280/detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1af4541a0834cb2308dd4f5bcf686df9-thumbnail.jpg" group-title="NBA Live Feb7(S2)",8:30AM Heat vs Celtics
+https://kolkata.poocloud.in/secure/hkhRgQQhxEKaNIYYmStbxeXnbtwhFzGW/1770413400/1770441480/bostonceltics/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/273fd494eb697bbb1dec1769845331b0-thumbnail.jpg" group-title="NBA Live Feb6(S2)",8AM Nets vs Magic
-https://kolkata.poocloud.in/secure/HDfXJEWkSoyBPbRKvZHgSzlDrAwSTyiV/1770325200/1770353280/orlandomagic/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/50f00efa94728aa76194bd90564b58b9-thumbnail.jpg" group-title="NBA Live Feb7(S2)",8:30AM Knicks vs Pistons
+https://kolkata.poocloud.in/secure/OjHYNxtTvpHLsqLsyStpHvidwwZerQFR/1770413400/1770441480/detroitpistons/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/10faa1b4399964c9543dd2feeb6c8f0a-thumbnail.jpg" group-title="NBA Live Feb6(S2)",8:30AM Jazz vs Hawks
-https://kolkata.poocloud.in/secure/fWGivfBHAdUDYSpUVLSpXLvIqNGxSHwj/1770327000/1770355080/atlantahawks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0a6073ea5f4fe126ced8ae65f53711f0-thumbnail.jpg" group-title="NBA Live Feb7(S2)",9AM Pacers vs Bucks
+https://kolkata.poocloud.in/secure/iqRsBaLuhJRysRwuopXiBFAUdgeaQLIp/1770415200/1770443280/milwaukeebucks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f69b7bf9e1aaa98b530ecf77d35d3af-thumbnail.jpg" group-title="NBA Live Feb6(S2)",8:30AM Bulls vs Raptors
-https://kolkata.poocloud.in/secure/DVRIKCozFYXrYqEzZlisdWGPGogabjxD/1770327000/1770355080/torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4bdc41e4c528ef4019765ff1c0f10d16-thumbnail.jpg" group-title="NBA Live Feb7(S2)",9AM Pelicans vs Timberwolves
+https://kolkata.poocloud.in/secure/qBNaTcevqNqDOcDKyJJMDfOYaIUhTiYd/1770415200/1770443280/minnesotatimberwolves/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b1eb94c37f11c9e046ab331588936a9c-thumbnail.jpg" group-title="NBA Live Feb6(S2)",9AM Hornets vs Rockets
-https://kolkata.poocloud.in/secure/VfIQaGpvLaOATGAllQMTLlsUwNifVYCk/1770328800/1770356880/houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b413e88d3b770a44dcc582be0b63a9fb-thumbnail.jpg" group-title="NBA Live Feb7(S2)",11AM Grizzlies vs Blazers
+https://kolkata.poocloud.in/secure/XOmHfhPwmaMsNbvhNcMEsnAPrcLnyQnL/1770422400/1770450480/portlandtrailblazers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cfdcda251cb8d9336a066fc5e2caff33-thumbnail.jpg" group-title="NBA Live Feb6(S2)",9:30AM Spurs vs Mavericks
-https://kolkata.poocloud.in/secure/meqwrFjaOTwHRYBLAupsRdRQNOSmbEFn/1770330600/1770358680/dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/248e254336123aed5d6c8e44f60c9e0c-thumbnail.jpg" group-title="NBA Live Feb7(S2)",11AM Clippers vs Kings
+https://kolkata.poocloud.in/secure/cVoHYpZzCmUfogoypBSqcZnLQpVOScAh/1770422400/1770450480/sacramentokings/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c10412be3f69194e8a155958809d62f3-thumbnail.jpg" group-title="NBA Live Feb6(S2)",11AM Warriors vs Suns
-https://kolkata.poocloud.in/secure/YQiPflWgRLjLdckjftJKbZOCDGUhQSlt/1770336000/1770364080/phoenixsuns/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5c7ef663fc7efcc8e913a582369b7086-thumbnail.jpg" group-title="NBA Live Feb6(S2)",11AM 76ers vs Lakers
-https://kolkata.poocloud.in/secure/JAhbbxVouySPRFvwOMvOiAPIOaHIcnBb/1770336000/1770364080/losangeleslakers/index.m3u8
 
 
 
@@ -9161,6 +9152,108 @@ https://drive.usercontent.google.com/download?id=1uIliZPkhcmjuLl2-HHZlZ55OeuYE-Q
 https://drive.usercontent.google.com/download?id=1eADcgpik_L2lHCj0DAcjAmOyeIMJGEiI&export=download&authuser=N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TAYONG DALAWA - Rey Valera
 https://drive.usercontent.google.com/download?id=1RI_UpjwCMsJFtqN0VvCONjihG1ag0W-X&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TELL ME - Joey Albert
+https://drive.usercontent.google.com/download?id=1e8BjtnY7iktWkZcAqAFhTBGPmhPq0ZVX&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TERMINAL - Rupert Holmes
+https://drive.usercontent.google.com/download?id=1VUzRMO5Ag33FJGSg3hgYUr3Lw14uLmh2&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TERRIFIED - Katharine McPhee ft. Zachary Levi
+https://drive.usercontent.google.com/download?id=1bkaARMcnT1gNWsJM9gT4fwTPvxRcYONm&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THANK YOU FOR LOVING ME - Bon Jovi
+https://drive.usercontent.google.com/download?id=1opfyF2jn-xtiDGfrLeixaaxoju99GsjS&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THANKS TO YOU - Tyler Collins
+https://drive.usercontent.google.com/download?id=1N8GvCpU5rFcni5xG2Mv2YG8nnHYmtkjw&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THAT WONDERFUL SOUND - Tom Jones
+https://drive.usercontent.google.com/download?id=1mXgCGYXJbm8ZJTBdAI6D3Z04oM2lj9le&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THAT_S THE WAY IT IS - Celine Dion
+https://drive.usercontent.google.com/download?id=1qbFCaRY3lILF6Uy2n4PqUiGvEPcf2aMK&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THAT_S WHAT FRIENDS ARE FOR - Dionne Warwick
+https://drive.usercontent.google.com/download?id=1LElteCrqjFB5tp-StITK9hvrE4bKEjb-&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THAT_S WHY YOU GO AWAY - Michael Learns To Rock
+https://drive.usercontent.google.com/download?id=1xJSh0b2DscOhU5Wco6CAnvDY-vEQTfY5&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE DAY YOU SAID GOODNIGHT - Hale
+https://drive.usercontent.google.com/download?id=1PXxzFcUWdkRd0gl7ScZHfhsJG9X2hnrN&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE FLAME - Cheap Trick
+https://drive.usercontent.google.com/download?id=1fhjhkVhTNOFyK0pQAAzSMgUl6N835MdE&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE GIFT - Jim Brickman ft. Susan Ashton _ Collin Raye
+https://drive.usercontent.google.com/download?id=1Y2P5asHOzMItn6T1AjglQzqtapd7-XAf&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE GREATEST LOVE OF ALL - Whitney Houston
+https://drive.usercontent.google.com/download?id=1o0UUkne6WkPJlinPm5sKe4MIYng3BUUR&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE GUITAR MAN - Bread
+https://drive.usercontent.google.com/download?id=1Zywt6t_XxcPx52mrc9D-wMY_rGYCSaih&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE JOURNEY - Lea Salonga
+https://drive.usercontent.google.com/download?id=1vYo_LptWlyZ7zkjNWI436l2NEbvtNIlk&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE LADY IN RED - Chris De Burgh
+https://drive.usercontent.google.com/download?id=1jUv23LqUYPAkk101FaFq_jf4xxYm4bSP&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE LAST WALTZ - Engelbert Humperdinck
+https://drive.usercontent.google.com/download?id=1zrwiCCf019ypNVEHVFLk6gcCrm8k58HE&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE ONE I LOVE - REM
+https://drive.usercontent.google.com/download?id=1guwC1or6bWIePwPPZIDN7EJPmCekS5CF&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE ONE THAT YOU LOVE - Air Supply
+https://drive.usercontent.google.com/download?id=1Lrxxgb4sP7QtCRi5r2vdfj8VZcpEzyX4&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE ONE YOU LOVE - Glenn Frey
+https://drive.usercontent.google.com/download?id=1kkImFcAE6auk9KMgZHjiCJFkZnpwcEPM&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE PAST - Ray Parker
+https://drive.usercontent.google.com/download?id=1hxEJWAMYTbV3niLNrl-8WSuje4__a5mX&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE POWER OF LOVE - Celine Dion
+https://drive.usercontent.google.com/download?id=1zvGOAwk5eLNcxd1XBcNOIJb-gubGfR7C&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE SEARCH IS OVER - Survivor
+https://drive.usercontent.google.com/download?id=1RhSzkgnbH_txN0I9Gnj0ymGADkKFSWuq&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THE WAY IT USED TO BE - Engelbert Humperdinck
+https://drive.usercontent.google.com/download?id=1GMm7Wsp6diagzk0bE8Qhc-4d1zi1gtnp&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THERE_S A KIND OF HUSH - Carpenters
+https://drive.usercontent.google.com/download?id=17OIjGh2iyWSRpCIrsAWIFz4Fm_pDlCIC&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THERE_S NO EASY WAY - James Ingram
+https://drive.usercontent.google.com/download?id=1RZKf52EvNzd2NMa_BouTgEKSlUImY-Kq&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THINK I_M IN LOVE AGAIN - Paul Anka
+https://drive.usercontent.google.com/download?id=170Es9x7UA_0ZzwJMV1bMHOXW_AF8xD1d&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THIS I PROMISE YOU - NSYNC
+https://drive.usercontent.google.com/download?id=17pgWfaP75l8cm6F125xT93iEAp3mMIoJ&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THROUGH THE FIRE - Chaka Khan
+https://drive.usercontent.google.com/download?id=1dd_rdQfeoB-U7VONXX_JG8PiLzN4jJ5E&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",THROUGH THE YEARS - Kenny Rogers
+https://drive.usercontent.google.com/download?id=1U7ub3h-bIn_3qOZOMQ0hCUz400wAwjj_&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TIL THEY TAKE MY HEART AWAY - Clair Marlo
+https://drive.usercontent.google.com/download?id=1KpYFtO6WFqXgxiJbQX61U3A__hWg-Y_T&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TILL DEATH DO US PART - White Lion
+https://drive.usercontent.google.com/download?id=1efdTJz900WAjQGrMc21uVDCxjaymYiDr&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TILL I MET YOU - Kuh Ledesma
+https://drive.usercontent.google.com/download?id=1oQHBs_U-q5VT3w8G4XQZ_2tg9jKR8elz&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TILL MY HEARTACHES END - Ella Mae Saison
+https://drive.usercontent.google.com/download?id=1yor0s9RHXwBAu4mCBTS3rlcBmNb65roh&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TIME AFTER TIME - Cyndi Lauper
+https://drive.usercontent.google.com/download?id=1s_dduwkCO-cgus3Uq7CBAnBMsmsUTYrL&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TIMES OF YOUR LIFE - Paul Anka
+https://drive.usercontent.google.com/download?id=1h42QgTnii-KxdrnrEm6vR7U5RcIf_FmU&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOGETHER FOREVER (You and I) - Rico J Puno
+https://drive.usercontent.google.com/download?id=1t9dF44wiFgZxmqKgCjrOj3CSaW9WDxsq&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOO MUCH HEAVEN - Bee Gees
+https://drive.usercontent.google.com/download?id=1YX6boVKgwggFRJWDUNd98UdfBWnU1emX&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOO MUCH LOVE WILL KILL YOU - Queen
+https://drive.usercontent.google.com/download?id=19IwArAA5x7j8wuHQNeCB8Y_ax5--FDkv&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOP OF THE WORLD - Carpenters
+https://drive.usercontent.google.com/download?id=1mzaq2dQ4XjBMr8HG34i6SQywfUHAOR-s&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TORETE - Moonstar88
+https://drive.usercontent.google.com/download?id=165ftv2azpu5p6BT-bGUOqu4wNUsEWqw6&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TORN - Natalie Imbruglia
+https://drive.usercontent.google.com/download?id=1T-Y0LoIwYlgwA_YdkewteNEOu4nqhvnz&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TORN BETWEEN TWO LOVERS - Mary MacGregor
+https://drive.usercontent.google.com/download?id=1PMQdkoLikLM4Gw_pG_7uXt1xAYNPEIpe&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOTAL ECLIPSE OF THE HEART - Bonnie Tyler
+https://drive.usercontent.google.com/download?id=1DyDJqe2ECJ9mVL7ZC-HTaPLkwY3P8Zx6&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOUCH BY TOUCH - Joy
+https://drive.usercontent.google.com/download?id=1QYipVqU55bY53Nmf2Jdzxtui6N2yd9WP&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TOYANG - Eraserheads
+https://drive.usercontent.google.com/download?id=1fKOQErS8qU8MNLDKOTnNFj39EANhgytP&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TRUE COLORS - Cyndi Lauper
+https://drive.usercontent.google.com/download?id=1atKM_V1HT0Mr6cl_s2J46veawdWrhFKJ&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TRULY - Lionel Richie
+https://drive.usercontent.google.com/download?id=1OjDoWui8PSy7qk2BCUbrFUZ-pN5QmWeP&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TRY IT ON MY OWN - Whitney Houston
+https://drive.usercontent.google.com/download?id=1TJWEB2TcEUuA3o5LF8h0PvIl_gqquEH-&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TUKSO - Eva Eugenio
+https://drive.usercontent.google.com/download?id=1mLV43-yI0SRMpRTfgrwCfSen9MGjBCK1&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TULOY PA RIN - Neocolours
+https://drive.usercontent.google.com/download?id=1RNZfShjtlia3A1WcFiZRWYQTAJYwUXek&export=download&authuser=N
 
 
 
