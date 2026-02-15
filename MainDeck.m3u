@@ -8,19 +8,26 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="NBA Live Feb15(S1)",5PM ET NBA All-Star Saturday Night
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771107229&token=61e759515bd64d51f5c37d8ba36a2813115019974b678d6bd774a6fa2b04ce78
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="NBA Live Feb16(S1)",6AM 75th NBA All-Star Game
+https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771192408&token=7731b2103cc56be0805f6632d0cd4184b4844a9471e3046d9cd05283dfce64c5
 
-
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg" group-title="COMBAT SPORTS Live Feb16(S1)",6:30AM Zuffa Boxing 03
+https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1771194820&token=099886cd27ca3e959c9efb9b32d99a0651da31ff52cc4ede8346baeff9c27fff
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb15(S2)",(REUPDATE at 10AM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb16(S2)",(REUPDATE at 10AM)
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="NBA Live Feb15(S2)",5PM ET NBA All-Star Saturday Night
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/eqWzICuLiHVupEinLQXPLPLpjSFpLgoF/1771095600/1771135200/allstar/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="NBA Live Feb16(S2)",6AM 75th NBA All-Star Game
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/GwYeXAnxqjveohcSLsQpVvbdFWhMMvKR/1771182000/1771214400/allstar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg" group-title="COMBAT SPORTS Live Feb16(S2)",6:30AM Zuffa Boxing 03
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/IKOSEmMsZdwYqyPyjtqeJJzmhhblaJjR/1771183800/1771223400/zuffa/index.m3u8
+
+
+
 
 
 
@@ -136,6 +143,7 @@ http://103.244.145.15/live/anita123/anita123/151006.m3u8?token=ShJcU0BbQQNHWwZaV
 #EXTINF:-1 tvg-id="phcathenatv/buko" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/2f/BuKo_Logo_2021.png" group-title="PH HayabusaTV",Buko Channel(test)
 http://103.244.145.15/live/anita123/anita123/151004.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
+
 #EXTINF:-1 tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="PH HayabusaTV", Jeepney TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -163,6 +171,12 @@ http://103.244.145.15/live/anita123/anita123/151012.m3u8?token=ShJcU0BbQQNHWwZaV
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",&Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV",SINEMANILA
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV",RAGETV
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
 
 #EXTINF:-1 ch-number="18" tvg-chno="18" group-title="PH HayabusaTV" tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.pinimg.com/736x/50/79/f8/5079f831761f38544fe7e3d8b941cc42.jpg", HFC
 https://ln.run/4x0dD
