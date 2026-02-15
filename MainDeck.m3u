@@ -66,6 +66,14 @@ http://103.244.145.15/live/anita123/anita123/150972.m3u8?token=ShJcU0BbQQNHWwZaV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="PH HayabusaTV",RPTV
 http://103.244.145.15/live/anita123/anita123/151070.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/500px-Heart_of_Asia_logo.svg.png" group-title="PH HayabusaTV", Heart of Asia
+https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NzAzMTQzNTk0MTksIm0zdSI6Imh0dHBzOi8vY29tYmlicmVhay52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.8c76db54aad0e670694cebfcccd4e8f4788c73c5e10a13d99cde5c706c6bda3e&url=aHR0cHM6Ly9nbWEueHlhZHgud29ya2Vycy5kZXYvc3RyZWFtL0hPQS5tM3U4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="PH HayabusaTV", I HEART MOVIES
+https://m3uiptv.kkt01.workers.dev/stream?t=eyJ1c2VyIjoiYWRtaW4iLCJleHAiOjE3NzAzMTQzNTk0MTksIm0zdSI6Imh0dHBzOi8vY29tYmlicmVhay52ZXJjZWwuYXBwL2NvbWJpbmVkX3BsYXlsaXN0Lm0zdSJ9.8c76db54aad0e670694cebfcccd4e8f4788c73c5e10a13d99cde5c706c6bda3e&url=aHR0cHM6Ly9nbWEueHlhZHgud29ya2Vycy5kZXYvc3RyZWFtL0lITS5tM3U4
+
+
+
 #EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/a2z-ph.png" group-title="PH HayabusaTV",A2Z
 http://103.244.145.15/live/anita123/anita123/151010.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA
 
@@ -172,10 +180,10 @@ http://103.244.145.15/live/anita123/anita123/151012.m3u8?token=ShJcU0BbQQNHWwZaV
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",&Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV",SINEMANILA
+#EXTINF:-1 tvg-logo="http://go.rappler.com/images/cinemanila_20121209_story.jpg" group-title="PH HayabusaTV",SINEMANILA
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV",RAGETV
+#EXTINF:-1 tvg-logo="https://www.pedestrian.tv/wp-content/uploads/2012/04/rage-abc-642-380.jpg?quality=80&resize=1280,720" group-title="PH HayabusaTV",RAGETV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
 
 #EXTINF:-1 ch-number="18" tvg-chno="18" group-title="PH HayabusaTV" tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.pinimg.com/736x/50/79/f8/5079f831761f38544fe7e3d8b941cc42.jpg", HFC
