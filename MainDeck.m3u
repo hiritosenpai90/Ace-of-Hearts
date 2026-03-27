@@ -8,65 +8,57 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",7AM Atlanta Hawks vs Detroit Pistons
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",7AM Los Angeles Clippers vs Indiana Pacers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn6.tkfiles.cfd/live/cdn6/chunks.m3u8
+https://cdn1.tkfiles.cfd/live/cdn1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",7AM Los Angeles Lakers vs Indiana Pacers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",7:30AM Atlanta Hawks vs Boston Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.tkfiles.cfd/live/cdn7/chunks.m3u8
+https://cdn3.tkfiles.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",7AM Chicago Bulls vs Philadelphia 76ers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",7:30AM Miami Heat vs Cleveland Cavaliers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn2.tkfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",8AM Houston Rockets vs Memphis Grizzlies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn4.tkfiles.cfd/live/cdn4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",8AM Chicago Bulls vs Oklahoma City Thunder
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn5.tkfiles.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",7:30AM Oklahoma City Thunder vs Boston Celtics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn9.tkfiles.cfd/live/cdn9/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",7:30AM Miami Heat vs Cleveland Cavaliers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.tkfiles.cfd/live/cdn8/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",8AM San Antonio Spurs vs Memphis Grizzlies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn10.tkfiles.cfd/live/cdn10/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",9AM Washington Wizards vs Utah Jazz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn11.tkfiles.cfd/live/cdn11/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",9:30AM Houston Rockets vs Minnesota Timberwolves
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn14.tkfiles.cfd/live/cdn14/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",10AM Dallas Mavericks vs Denver Nuggets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.tkfiles.cfd/live/cdn7/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",10AM Brooklyn Nets vs Golden State Warriors
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",8:30AM New Orleans Pelicans vs Toronto Raptors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://cdn6.tkfiles.cfd/live/cdn6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",10AM Milwaukee Bucks vs Portland Trail Blazers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",9AM Utah Jazz vs Denver Nuggets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.tkfiles.cfd/live/cdn5/chunks.m3u8
+https://cdn7.tkfiles.cfd/live/cdn7/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR26(S1)",10:30AM Toronto Raptors vs Los Angeles Clippers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",10AM Washington Wizards vs Golden State Warriors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn15.tkfiles.cfd/live/cdn15/chunks.m3u8
+https://cdn2.tkfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",10AM Dallas Mavericks vs Portland Trail Blazers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tkfiles.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR28(S1)",10:30AM Brooklyn Nets vs Los Angeles Lakers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn12.tkfiles.cfd/live/cdn12/chunks.m3u8
 
 
 
@@ -78,42 +70,38 @@ https://cdn15.tkfiles.cfd/live/cdn15/chunks.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",7AM Atlanta Hawks vs Detroit Pistons
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",7AM Los Angeles Clippers vs Indiana Pacers
+https://daffodil.premiumjh.shop/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",7:30AM Atlanta Hawks vs Boston Celtics
+https://daffodil.premiumjh.shop/nba2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",7:30AM Miami Heat vs Cleveland Cavaliers
+https://daffodil.premiumjh.shop/nba3.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",8AM Houston Rockets vs Memphis Grizzlies
+https://daffodil.premiumjh.shop/nba4.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",8AM Chicago Bulls vs Oklahoma City Thunder
+https://daffodil.premiumjh.shop/nba5.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",8:30AM New Orleans Pelicans vs Toronto Raptors
+https://daffodil.premiumjh.shop/nba6.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",9AM Utah Jazz vs Denver Nuggets
+https://daffodil.premiumjh.shop/nba7.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",10AM Washington Wizards vs Golden State Warriors
 https://601.simplyataide.boutique/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",7AM Los Angeles Lakers vs Indiana Pacers
-https://601.simplyataide.boutique/nba2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",10AM Dallas Mavericks vs Portland Trail Blazers
+https://daffodil.premiumjh.shop/nba9.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",7AM Chicago Bulls vs Philadelphia 76ers
-https://601.simplyataide.boutique/nba3.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",7:30AM Oklahoma City Thunder vs Boston Celtics
-https://601.simplyataide.boutique/nba4.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",7:30AM Miami Heat vs Cleveland Cavaliers
-https://601.simplyataide.boutique/nba5.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",8AM San Antonio Spurs vs Memphis Grizzlies
-https://601.simplyataide.boutique/nba6.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",9AM Washington Wizards vs Utah Jazz
-https://601.simplyataide.boutique/nba7.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",9:30AM Houston Rockets vs Minnesota Timberwolves
-https://601.simplyataide.boutique/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",10AM Dallas Mavericks vs Denver Nuggets
-https://601.simplyataide.boutique/nba9.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",10AM Brooklyn Nets vs Golden State Warriors
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR28(S2)",10:30AM Brooklyn Nets vs Los Angeles Lakers
 https://601.simplyataide.boutique/nba10.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",10AM Milwaukee Bucks vs Portland Trail Blazers
-https://601.simplyataide.boutique/nba11.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR26(S2)",11AM Toronto Raptors vs Los Angeles Clippers
-https://601.simplyataide.boutique/nba12.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
 
 
 
@@ -125,53 +113,48 @@ https://601.simplyataide.boutique/nba12.m3u8|referer=https://roxiestreams.info/&
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Atlanta Hawks vs Detroit Pistons
-https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=LfV3xAJY2zl4WK9D9DdLSg&expires=1774499405&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",7AM Los Angeles Clippers vs Indiana Pacers
+https://v14.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=mnc5uJqxAlDtUU4_X2vEJw&expires=1774666327&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/bFqUYhiAauHWrQtylxqpQSHmaLKaNDnu/1773691200/1773719280/atlantahawks/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Los Angeles Lakers vs Indiana Pacers
-https://v4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=gs6gFyMoXO8VVZq0nJGZ1w&expires=1774499695&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",7:30AM Atlanta Hawks vs Boston Celtics
+https://v12.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=9MU3VSw-wimwM3YhimDYSA&expires=1774666426&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/TOhAfiYABEvPfVeZBmwJzlHlbDHpEAnM/1773592200/1773620280/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Chicago Bulls vs Philadelphia 76ers
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=0WWxVKRbBiLQxP7SpOFfnQ&expires=1774499594&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",7:30AM Miami Heat vs Cleveland Cavaliers
+https://v13.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=pPUXs4DOd-eklRTMMjA6aw&expires=1774666477&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/KfkLVkMShFICVvnSFQgIIEzdrSNhRicv/1773592200/1773620280/torontoraptors/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7:30AM Oklahoma City Thunder vs Boston Celtics
-https://e2.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=6BYPy81JKGz-PaDawC8cxQ&expires=1774499857&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",8AM Houston Rockets vs Memphis Grizzlies
+https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=fTPoHJ43sYw5udvUzrd4GA&expires=1774666686&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/kBrPriGTMMMRQNmWLNbEJDxNBRnjoUrT/1773592200/1773620280/milwaukeebucks/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7:30AM Miami Heat vs Cleveland Cavaliers
-https://v18.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=aaCQxaWKU4CQYvWFVKa4jw&expires=1774499906&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",8AM Chicago Bulls vs Oklahoma City Thunder
+https://v8.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=uiW7Pbh4geJj4Zyc1ZbLMQ&expires=1774666752&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/bFqUYhiAauHWrQtylxqpQSHmaLKaNDnu/1773691200/1773719280/atlantahawks/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",8AM San Antonio Spurs vs Memphis Grizzlies
-https://v12.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=QpSa8sXQUiYEM7phnHATIg&expires=1774500006&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",8:30AM New Orleans Pelicans vs Toronto Raptors
+https://v13.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=Abh9XXsrgePWSiuCl8KwnA&expires=1774666967&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/TOhAfiYABEvPfVeZBmwJzlHlbDHpEAnM/1773592200/1773620280/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",9AM Washington Wizards vs Utah Jazz
-https://e1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=6v9ec49PF8O_VqUXwmea_Q&expires=1774500055&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",9AM Utah Jazz vs Denver Nuggets
+https://v12.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=jYqx0jtJ7pQPBgMzaqANkA&expires=1774672770&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/KfkLVkMShFICVvnSFQgIIEzdrSNhRicv/1773592200/1773620280/torontoraptors/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",9:30AM Houston Rockets vs Minnesota Timberwolves
-https://e2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=uJ4wcoR2jV06pmtEJdvJSg&expires=1774500138&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",10AM Washington Wizards vs Golden State Warriors
+https://v1.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=5SuuUz6zxM0QZg0JLYzmGQ&expires=1774672858&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/kBrPriGTMMMRQNmWLNbEJDxNBRnjoUrT/1773592200/1773620280/milwaukeebucks/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Dallas Mavericks vs Denver Nuggets
-https://v5.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=CQYqKNZC1g2NJdf588aLEQ&expires=1774500321&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",10AM Dallas Mavericks vs Portland Trail Blazers
+https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=wDyh8udjs-pX2aLiu0KuJA&expires=1774673019&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/bFqUYhiAauHWrQtylxqpQSHmaLKaNDnu/1773691200/1773719280/atlantahawks/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Brooklyn Nets vs Golden State Warriors
-https://v4.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=LfImWqQHU0nqazAvv-d8Qw&expires=1774500189&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR28(S3)",10:30AM Brooklyn Nets vs Los Angeles Lakers
+https://v1.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=rOIEuT565CphNBtlRS4MdQ&expires=1774673153&user_id=aktrR3c0aFUyNXdhUnlOV2R6anFmMlVLRXFSV0lLQ0lJY1Z2RDk4Mw==
 https://lb2.modifiles.fans/secure/TOhAfiYABEvPfVeZBmwJzlHlbDHpEAnM/1773592200/1773620280/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Milwaukee Bucks vs Portland Trail Blazers
-https://v14.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=EknHCHYxLBekGlLVQnMiGQ&expires=1774500522&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-https://lb2.modifiles.fans/secure/KfkLVkMShFICVvnSFQgIIEzdrSNhRicv/1773592200/1773620280/torontoraptors/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",11AM Toronto Raptors vs Los Angeles Clippers
-https://v16.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=jVBGfWv0svA7y3fQYPwvYQ&expires=1774500601&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-https://lb2.modifiles.fans/secure/kBrPriGTMMMRQNmWLNbEJDxNBRnjoUrT/1773592200/1773620280/milwaukeebucks/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
 
 
@@ -179,27 +162,103 @@ https://lb2.modifiles.fans/secure/kBrPriGTMMMRQNmWLNbEJDxNBRnjoUrT/1773592200/17
 
 
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR26",7:30AM Boston Bruins vs Buffalo Sabres
-https://601.simplyataide.boutique/nhl.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR26",7:30AM New York Rangers vs Toronto Maple Leafs
-https://601.simplyataide.boutique/nhl2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
+#EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",1AM Austria vs Ghana
+https://daffodil.premiumjh.shop/africa.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",1AM Montenegro vs Andorra
+https://daffodil.premiumjh.shop/fsp.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",1AM South Africa vs Panama
+https://daffodil.simplyataide.boutique/fubo.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",3AM Greece vs Paraguay
+https://daffodil.premiumjh.shop/para.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",3:30AM Algeria vs Guatemala
+https://daffodil.simplyataide.boutique/foxd.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",3:45AM Switzerland vs Germany
+https://daffodil.premiumjh.shop/fubo.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",3:45AM Netherlands vs Norway
+https://daffodil.simplyataide.boutique/fsp.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",3:45AM England vs Uruguay
+https://601.simplyataide.boutique/itv.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",4AM Spain vs Serbia
+https://601.premiumjh.shop/la.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",4:15AM Morocco vs Ecuador
+https://daffodil.premiumjh.shop/dep.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",7:15AM Argentina vs Mauritania
+https://601.simplyataide.boutique/ukraine.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0124%2Ffan_2026_fantasy_baseball_draft_kit_5x2.jpg&w=1320&h=528&scale=crop&cquality=40&location=center&format=jpg" group-title="BASEBALL MAR26",8:05AM New York Yankees vs. San Francisco Giants
-https://601.simplyataide.boutique/tnt.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+
+
+#EXTINF:-1 group-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg"
+
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR28",7AM Detroit Red Wings vs Buffalo Sabres
+https://601.premiumjh.shop/nhl.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR28",7AM Chicago Blackhawks vs New York Rangers
+https://601.premiumjh.shop/nhl2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="WRESTLING MAR26",8AM AEW
-https://601.simplyataide.boutique/aew.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
+
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR28",9:40AM Detroit Tigers vs San Diego Padres
+https://601.premiumjh.shop/mlb6.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR28",9:45AM Cleveland Guardians vs Seattle Mariners
+https://601.premiumjh.shop/mlb7.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR28",10:10AM Arizona Diamondbacks vs Los Angeles Dodgers
+https://601.premiumjh.shop/mlb8.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701"
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701" group-title="MOTORSPORTS MAR28",4AM MotoGP - Free Practice 2
+https://daffodil.simplyataide.boutique/motogp.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701" group-title="MOTORSPORTS MAR28",7AM Interstate High Limit Racing - Race
+https://601.premiumjh.shop/flo.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701" group-title="MOTORSPORTS MAR28",10:30AM Formula 1 - Free Practice 3
+https://601.premiumjh.shop/main.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701" group-title="MOTORSPORTS MAR28",2PM Formula 1 - Qualifying
+https://601.premiumjh.shop/main.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://www.pngmart.com/files/23/Wwe-Logo-Transparent-PNG.png"
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="WRESTLING MAR28",8AM WWE Smackdown
+https://601.simplyataide.boutique/wwe.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
 
@@ -461,6 +520,10 @@ http://103.244.145.15/live/anita123/anita123/151036.m3u8?token=ShJcU0BbQQNHWwZaV
 http://103.244.145.15/live/anita123/anita123/151038.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cna-int.png" group-title="PH HayabusaTV",CNA(test)
 http://103.244.145.15/live/anita123/anita123/151045.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cna-int.png" group-title="PH HayabusaTV",CNA IWANT
+https://dai4s4shjeg0o.cloudfront.net/iWantTVPh82ba2069c285/9c5127dd7652483785dece590f60b299/master.m3u8
+
 #EXTINF:-1 tvg-id="discoveryph1" tvg-name="DISCOVERY CHANNEL (CON)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="PH HayabusaTV",DISCOVERY CHANNEL(test)
 http://103.244.145.15/live/anita123/anita123/151048.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="PH HayabusaTV",HITS(test)
@@ -3560,6 +3623,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="NEWS CHANNELS",Euronews World
 https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="NEWS CHANNELS",Euronews World IWANT
+https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abante_masthead.svg/500px-Abante_masthead.svg.png" group-title="NEWS CHANNELS",Abante Radyo
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
@@ -3576,11 +3642,8 @@ https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
 https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CA CNN
-http://nocable.cc:8080/live/5AGbfz/324331/47213.m3u8
-
-#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",US CNN
-http://nocable.cc:8080/live/5AGbfz/324331/104884.m3u8
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CNN
+http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="US: CNN" tvg-name="USA CNN UHD" tvg-logo="https://www.dropbox.com/s/21h2cx29fnmi2ty/cnn-international-us.png?dl=1" group-title="NEWS CHANNELS",USA CNN UHD
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21764.ts
@@ -3589,35 +3652,20 @@ http://supersonictv.live:8080/live/Calvin123/Calvin123/21764.ts
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS CHANNELS",Al Jazeera
-http://nocable.cc:8080/live/5AGbfz/324331/160711.m3u8
+http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bbcnewsph1" tvg-name="BBC NEWS (CON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="NEWS CHANNELS",BBC NEWS
-http://nocable.cc:8080/live/5AGbfz/324331/53757.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/bbc-world-news-int.png" tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" group-title="NEWS CHANNELS" streamId="6" channel-number="6",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-
-#EXTINF:-1 group-title="NEWS CHANNELS",BBC WORLD NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 group-title="NEWS CHANNELS",BLOOMBERG
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Bloomberg-Emblema.png" group-title="NEWS CHANNELS",BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 group-title="NEWS CHANNELS",BLOOMBERG TV ASIA
+#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2024/03/bloomberg_logo-freelogovectors.net_.png" group-title="NEWS CHANNELS",BLOOMBERG TV
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="NEWS CHANNELS",CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC
-http://nocable.cc:8080/live/5AGbfz/324331/9815.m3u8
 
 #EXTINF:-1 tvg-id="US: CNBC" tvg-name="USA CNBC" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="NEWS CHANNELS",USA CNBC
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21762.ts
@@ -3629,7 +3677,6 @@ http://nocable.cc:8080/live/5AGbfz/324331/20860.m3u8
 
 #EXTINF:-1 tvg-id="US: CNBC WORLD" tvg-name="USA CNBC World LHD" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="NEWS CHANNELS",USA CNBC World LHD
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21763.m3u8
-
 
 #EXTINF:-1 tvg-id="US: ESPNEWS" tvg-name="USA ESPN News UHD" tvg-logo="" group-title="NEWS CHANNELS",USA ESPN News UHD
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21767.m3u8
@@ -3646,10 +3693,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US: FOX NEWS EAST" tvg-name="USA Fox News UHD" tvg-logo="http://apk.eternaltv.net/icons/foxnews.png" group-title="NEWS CHANNELS",USA Fox News UHD
 http://supersonictv.live:8080/live/Calvin123/Calvin123/21768.m3u8
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NEWS CHANNELS",Fox News Channel (720p)
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/wion-int.png" group-title="NEWS CHANNELS",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -4213,6 +4256,18 @@ https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="SPORTS CHANNELS",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2022/12/MTRSPT1-logo.png" group-title="SPORTS CHANNELS",MTRSPT1
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc-800x800.png" group-title="SPORTS CHANNELS",RallyTV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nascar.com/wp-content/uploads/sites/7/2025/02/04/NASCAR_Channel_How_To_Watch.jpg" group-title="SPORTS CHANNELS",Nascar Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00115-nascar-nascar-nascarnorthamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="SPORTS CHANNELS",Motorvision +
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
 
