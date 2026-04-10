@@ -40,47 +40,35 @@ https://tt3.ttfiles.cfd/live/laker/stream.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7AM Miami Heat vs Toronto Raptors(1)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7AM Miami Heat vs Toronto Raptors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.premiumjh.shop/nba.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7AM Miami Heat vs Toronto Raptors(2)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.premiumjh.shop/nba.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7AM Chicago Bulls vs Washington Wizards
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.premiumjh.shop/nba2.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7:30AM Indiana Pacers vs Brooklyn Nets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.premiumjh.shop/nba3.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",7:30AM Boston Celtics vs New York Knicks
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.premiumjh.shop/nba4.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",8AM Philadelphia 76ers vs Houston Rockets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.premiumjh.shop/nba.m3u8
+https://weathered-math-55e2.carljerome90.workers.dev/proxy/https://daffodil.premiumjh.shop/nba5.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live HD APRIL 10(S2 OPT3)",10AM Los Angeles Lakers vs Golden State Warriors
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.premiumjh.shop/nba6.m3u8
+https://weathered-math-55e2.carljerome90.workers.dev/proxy/https://daffodil.premiumjh.shop/nba6.m3u8
 
 
 
@@ -91,7 +79,7 @@ https://daffodil.premiumjh.shop/nba6.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-7lh6zhu9hyp7eh84.jpg"
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-7lh6zhu9hyp7eh84.jpg" group-title="NBA Live HD APRIL 10(S3)",7AM Miami Heat vs Toronto Raptors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -336,8 +324,6 @@ https://602.premiumjh.shop/mlb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="WRESTLING APRIL 10",9AM AEW
 https://netanyahu.modifiles.fans/secure/uhStRSfcTGdrWQBmxVksQLcnNHHKZbFd/1775772000/1775800800/AMC/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
-
-
 
 
 
