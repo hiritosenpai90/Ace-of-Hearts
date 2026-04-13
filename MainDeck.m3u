@@ -18,6 +18,40 @@ https://to1.tofiles.cfd/live/knicks/stream.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/5b93b5290c6ef5912ec0129f02d17fd9-thumbnail.jpg",Houston Astros vs Seattle Mariners (APR 14 @ 4:10AM)
+https://mb1.tofiles.cfd/live/hous/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/5cde762fe5a69ac3132e087b4949355a-thumbnail.jpg",Arizona Diamondbacks vs Baltimore Orioles (APR 14 @ 6:35AMT)
+https://mb1.tofiles.cfd/live/arizo/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/5586ffcb0c9a1da05cedb6da29522533-thumbnail.jpg",Washington Nationals vs Pittsburgh Pirates (APR 14 @ 6:40AM)
+https://mb1.tofiles.cfd/live/washingt/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/06876c1b9d87a407b4e4772ba2eafddb-thumbnail.jpg",Chicago Cubs vs Philadelphia Phillies (APR 14 @ 6:40AM)
+https://mb2.tofiles.cfd/live/chicubs/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/c54a81f2b25eed9e34819fc891500abe-thumbnail.jpg",Los Angeles Angels vs New York Yankees (APR 14 @ 7:05AMT)
+https://mb2.tofiles.cfd/live/angels/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/d62af8de6a6fe9ebcfc3fc921fd3ee71-thumbnail.jpg",Miami Marlins vs Atlanta Braves (APR 14 @ 7:15AM)
+https://mb2.tofiles.cfd/live/atlanta/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/40513cb623d82eb57fa960daff7d807d-thumbnail.jpg",Boston Red Sox vs Minnesota Twins (APR 14 @ 7:40AM)
+https://mb3.tofiles.cfd/live/bostons/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/2b1bd2f8f779e56b280690cf5ac98ba7-thumbnail.jpg",Cleveland Guardians vs St. Louis Cardinals (APR 14 @ 7:45AM)
+https://mb3.tofiles.cfd/live/cardinals/stream.m3u8
+#EXTINF:-1 group-title="WWE" tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",WWE Monday Night RAW (APR 14 @ 05:00 PM PST)
+https://to1.tofiles.cfd/live/raw/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/b9d883f7282acb88b2c6f875c6023ef4-thumbnail.jpg",Texas Rangers vs Athletics (APR 14 @ 9:40AM)
+https://mb3.tofiles.cfd/live/athletics/stream.m3u8
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/247de09245649600a612326e76e2b77c-thumbnail.jpg",New York Mets vs Los Angeles Dodgers (APR 14 @ 10:10AM)
+https://mb4.tofiles.cfd/live/metss/stream.m3u8
+
+
+#EXTINF:-1 group-logo="https://img.freepik.com/vecteurs-premium/logo-du-club-combat_25327-177.jpg"
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 13",8AM WWE RAW
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.vizoflix.online/wwe.m3u8
+
+
 
 
 
