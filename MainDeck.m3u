@@ -9,18 +9,17 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM 76ers vs Celtics
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:27 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Raptors vs Cavaliers
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:28 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Suns vs Thunder
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:28 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8AM Hawks vs Knicks
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:28 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",6:30AM Magic vs Pistons
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:28 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",10:30AM Timberwolves vs Nuggets
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:29 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",9AM Blazers vs Spurs
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
-
+#EXTINF:29 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 4
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
 
 
@@ -29,27 +28,25 @@ https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=01dcab77
 
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 20(S1)",1AM 76ers vs Celtics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb1.tmfiles.cfd/live/boston/stream.m3u8
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 group-logo="https://content.sportslogos.net/logos/6/981/full/9087__nba_playoffs-primary_on_dark-2007.png"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 20(S1)",3:30AM Suns vs Thunder
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb2.tmfiles.cfd/live/thunder/stream.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Orlando Magic" tvg-logo="https://content.sportslogos.net/logos/6/981/full/9087__nba_playoffs-primary_on_dark-2007.png" group-title="NBA Live SD APRIL 21",7AM Raptors vs Cavaliers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+https://v5.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=FkDgJvHn0Gvhpf8ZZwFIUA&expires=1776747138&user_id=TnBrZ005OHppSkk5Wm9adTVxeWZ3NDl5VFdYSlBXSjc5MVhVNGJmWA==
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 20(S1)",6:30AM Magic vs Pistons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb3.tmfiles.cfd/live/pistons/stream.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Orlando Magic" tvg-logo="https://content.sportslogos.net/logos/6/981/full/9087__nba_playoffs-primary_on_dark-2007.png" group-title="NBA Live SD APRIL 21",8AM Hawks vs Knicks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+https://v16.thetvapp.to/hls/nba02/tracks-v1a1/mono.m3u8?token=h9Sxn8L5m5o5P4Sn6EyTkw&expires=1776747182&user_id=TnBrZ005OHppSkk5Wm9adTVxeWZ3NDl5VFdYSlBXSjc5MVhVNGJmWA==
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 20(S1)",9AM Blazers vs Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb4.tmfiles.cfd/live/spurs/stream.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Orlando Magic" tvg-logo="https://content.sportslogos.net/logos/6/981/full/9087__nba_playoffs-primary_on_dark-2007.png" group-title="NBA Live SD APRIL 21",10:30AM Timberwolves vs Nuggets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+https://v5.thetvapp.to/hls/nba03/tracks-v1a1/mono.m3u8?token=ab7lUJvApxAczkRHzEyLVA&expires=1776747313&user_id=TnBrZ005OHppSkk5Wm9adTVxeWZ3NDl5VFdYSlBXSjc5MVhVNGJmWA==
 
 
 
@@ -60,29 +57,73 @@ https://nb4.tmfiles.cfd/live/spurs/stream.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 20(S2)",1AM 76ers vs Celtics
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 21",7AM Raptors vs Cavaliers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 https://daffodil.underupturnip.net/nba.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 20(S2)",3:30AM Suns vs Thunder
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 21",8AM Hawks vs Knicks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 https://daffodil.underupturnip.net/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 20(S2)",6:30AM Magic vs Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 21",10:30AM Timberwolves vs Nuggets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 https://daffodil.underupturnip.net/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 20(S2)",9AM Blazers vs Spurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg"
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 21",7AM Philadelphia Flyers vs Pittsburgh Penguins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.underupturnip.net/nba4.m3u8
+https://daffodil.appmissao.com.br/nhl.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 21",7:30AM Ottawa Senators vs Carolina Hurricanes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.underupturnip.net/nhl2.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 21",9:30AM Minnesota Wild vs Dallas Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.underupturnip.net/nhl.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 21",10AM Anaheim Ducks vs Edmonton Oilers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.appmissao.com.br/nhl2.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -92,27 +133,86 @@ https://daffodil.underupturnip.net/nba4.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://data2.nssmag.com/images/galleries/13912/170915-NIKE-ALT-TBS-122-original.jpg"
+#EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://data2.nssmag.com/images/galleries/13912/170915-NIKE-ALT-TBS-122-original.jpg" group-title="NBA Live HD APRIL 20(S3)",1AM 76ers vs Celtics
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 21",2:45AM Lecce vs Fiorentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.intelsystech.com.br/tyc.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://data2.nssmag.com/images/galleries/13912/170915-NIKE-ALT-TBS-122-original.jpg" group-title="NBA Live HD APRIL 20(S3)",3:30AM Suns vs Thunder
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 21",3AM Crystal Palace vs West Ham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.intelsystech.com.br/fana4.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://data2.nssmag.com/images/galleries/13912/170915-NIKE-ALT-TBS-122-original.jpg" group-title="NBA Live HD APRIL 20(S3)",6:30AM Magic vs Pistons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://data2.nssmag.com/images/galleries/13912/170915-NIKE-ALT-TBS-122-original.jpg" group-title="NBA Live HD APRIL 20(S3)",9AM Blazers vs Spurs
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 21",7:40AM Baltimore Orioles vs Kansas City Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/
-https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/cf464ac4daf41050862bb378df16822a/manifest/video.m3u8
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.underupturnip.net/mlb6.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 21",7:40AM Philadelphia Phillies vs Chicago Cubs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.underupturnip.net/mlb7.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 21",8:40AM Los Angeles Dodgers vs Colorado Rockies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.underupturnip.net/mlb8.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 21",9:38AM Toronto Blue Jays vs Los Angeles Angels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.underupturnip.net/mlb9.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 21",9:40AM Athletics vs Seattle Mariners
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.underupturnip.net/mlb10.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://img.freepik.com/vecteurs-premium/logo-du-club-combat_25327-177.jpg"
+
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://www.mostvaluablepromotions.com/wp-content/uploads/2026/03/baumgardners-vs-shin-poster-960x1200-1.webp" group-title="COMBAT SPORTS APRIL 21",8AM WWE RAW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.marllonferreira.space/wwe.m3u8
+
+
 
 
 
@@ -13777,57 +13877,6 @@ ________________________________________________________________________________
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz"
 
-# -------------- Local TV --------------
-#EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
-https://jmp2.uk/stvp-CA2900005KG
-
-# https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
-# -------------- Local TV --------------
-
-#EXTINF:-1 group-title="Local TV" tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KTVO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KTVO) MO
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-
-#EXTINF:-1 group-title="Local TV" tvg-id="WKRG-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KRCG) MO
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KSMO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KSMO)MO
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KTVO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KTVO) MO
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-
-#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WPIX) NY
-http://cord-cutter.net:8080/bn80NG/909467/120897
-#EXTINF:-1 tvg-id="WCCB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WCCB) NC
-http://cord-cutter.net:8080/bn80NG/909467/120890
-#EXTINF:-1 tvg-id="KCWE-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (KCWE) MO
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT4.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KOMU) MO
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KYOU) IA
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-
-
-#EXTINF:-1 group-title="Local TV" tvg-id="WTXF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) PA
-http://cord-cutter.net:8080/bn80NG/909467/120775
-#EXTINF:-1 group-title="Local TV" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
-http://cord-cutter.net:8080/bn80NG/909467/120750
-#EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
-https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="WDAF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WDAF) MO
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KQFX-LD.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX(KQFX) MO
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-
-#EXTINF:-1 group-title="Local TV" tvg-id="WCAU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
-http://cord-cutter.net:8080/bn80NG/909467/120776
-#EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT2.u" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KYOU) IA
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="KSHB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KSHB) MO
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-
 # ------------------ MoveOnJoy+ ---------------------------
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MOVEONJOY+ ]
 https://jmp2.uk/stvp-CA2900005KG
@@ -14595,52 +14644,11 @@ https://fl1.moveonjoy.com/YES_NETWORK/mpegts
 https://jmp2.uk/stvp-CA2900005KG
 # ------------NEWS-------------------
 
-#EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
-
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true" group-title="News Other",24/7 WPVI ABC 6 NEWS PA
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="News Other",24/7 WABC ABC 7 NY
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
 #EXTINF:-1 tvg-id="99991247" tvg-name="NBC News NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/168x168.png?type=color_onBlack" group-title="News Other",NBC NEWS 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.csid=xumo_web_NBCNewsNOW_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=6403c770-77b5-4510-bf44-41002f569ba4&ads._fw_vcid2=512116:6403c770-77b5-4510-bf44-41002f569ba4&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99991247&ads._fw_ifa_type=
-#EXTINF:-1 tvg-id="99991377" tvg-name="ABC News Live" tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/168x168.png?type=color_onBlack" group-title="News Other",ABC NEWS 24/7
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=abcnews_live&ad.vast3=1&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.networkID=21783347309&ad.adUnit=/abc-news/xumo/web&ad.ppid=2332019a-3b25-4058-865a-b37e1a0b9336&ad.correlator=1753764127860&ad.scor=1753764127860&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=2332019a-3b25-4058-865a-b37e1a0b9336&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=&ad.cust_params=vdm%3Dlive%26chan%3Dabcnews%26plt%3Dctv%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%26vps%3D640x480%26ppid%3D2332019a-3b25-4058-865a-b37e1a0b9336%26beacTyp%3Dssai%26sp%3Dvdms%26ait%3Dssai%26var%3D16x9
+
 #EXTINF:-1 tvg-id="99991158" tvg-name="CBS News 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="News Other",CBS NEWS 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
-#EXTINF:-1 tvg-id="99991635" tvg-name="LiveNOW from FOX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/168x168.png?type=color_onBlack" group-title="News Other",LIVENOW FOX 24/7
-https://dbrb49pjoymg4.cloudfront.net/10001/99991635/hls/playlist.m3u8?ads.xumo_channelId=99991635&ads._fw_ifa_type=&ads._fw_did=32652745-79f2-4b2d-8283-9bc213b2a310&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FoxNewsNow&ads.csid=xumo_web_FoxNewsNow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=2662&ads.xumo_contentName=FoxNewsNow&ads.xumo_providerId=2662&ads.xumo_providerName=FoxNewsNow&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991635&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (New York NY)
-https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Brooklyn NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Hudson Valley" West Nyack NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 
 #EXTINF:-1 group-title="News Other" tvg-id="Blaze.TV.us2" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png", BLAZE (LIVE)
 https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
@@ -14663,27 +14671,11 @@ https://jmp2.uk/stvp-CA2900005KG
 #EXTINF:-1 group-title="Sport Outdoors" channel-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-chno="206" tvg-name="BASSMASTER" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png",BASSMASTER
 https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8
 
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="24.7.Dummy.us" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E8E1D8F4-58AF-488E-A79B-9A87C2003666/3-1x1.png" tvg-name="CARBON TV", CARBON TV
-https://s3host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/v1/fast/localnowcarbontv/72f454a2-757e-4228-b453-7beb56acc467.m3u8?ads.cdnhost=s3host5.localnow.api.cms.amdvids.com&ads.playbackid=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n4=content_name&ads.v4=EPG%20%7C%20Carbon%20TV&ads.n21=network_name&ads.v21=carbon-tv&ads.n22=content_type&ads.v22=channel&ads.n23=channel_language&ads.v23=en&ads.n24=content_custom_3_param&ads.v24=channel&ads.n25=device_make&ads.v25=&ads.n26=channel_id&ads.v26=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n27=content_custom_2_param&ads.v27=AMDB012795&ads.n28=ifa_type&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=channel_company_id&ads.v30=AMDP500407&ads.n31=app_bundle&ads.v31=&ads.n32=h&ads.v32=1080&ads.n33=channel_title&ads.v33=EPG%20%20Carbon%20TV&ads.n34=gpp&ads.v34=&ads.n35=channel_brand_id&ads.v35=AMDB012795&ads.n36=pos&ads.v36=midroll&ads.n37=gpp_sid&ads.v37=&ads.n38=device_type&ads.v38=&ads.n39=content_provider&ads.v39=carbon-tv&ads.n40=ip&ads.v40=195.179.200.80&ads.n41=cust_devicename&ads.v41=desktop_web&ads.n42=w&ads.v42=1920&ads.n43=app_version&ads.v43=0.0.0&ads.n44=did&ads.v44=&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=channel_name&ads.v46=EPG%20%20Carbon%20TV&ads.n47=channel_ext_id&ads.v47=624b63c312b59736e60ca7e4&ads.n48=content_custom_1_param&ads.v48=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=device_model&ads.v50=&ads.n51=content_livestream&ads.v51=1&ads.n52=content_producer_name&ads.v52=Carbon%20TV%20LLC&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=channel_genre&ads.v54=Documentary&ads.n55=app_store_url&ads.v55=&ads.n56=app_name&ads.v56=&ads.n57=channel_corp&ads.v57=Carbon%20TV%20LLC&ads.n58=dnt&ads.v58=
-
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
 https://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 group-title="Sport Outdoors" channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png", GAME AND FISH TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
-
-# (STIRR)
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png", HUNT FISH TV
-https://jmp2.uk/str-5747.m3u8
-
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel", OUTDOOR CHANNEL
-https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/mpegts
-
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="Pursuit.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
 https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/205/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n4=content_name&ads.v4=EPG%20%7C%20Pursuit%20Up%20Channel&ads.n21=device_type&ads.v21=&ads.n22=channel_corp&ads.v22=Pursuit%20Media%20TV%20LLC&ads.n23=channel_brand_id&ads.v23=AMDB012510&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=network_name&ads.v25=pursuit-up&ads.n26=content_custom_2_param&ads.v26=AMDB012510&ads.n27=gpp_sid&ads.v27=&ads.n28=device_make&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=channel_genre&ads.v30=Sports&ads.n31=ip&ads.v31=195.179.200.80&ads.n32=ifa_type&ads.v32=&ads.n33=content_custom_1_param&ads.v33=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n34=channel_name&ads.v34=EPG%20%20Pursuit%20Up%20Channel&ads.n35=h&ads.v35=1080&ads.n36=app_version&ads.v36=0.0.0&ads.n37=content_provider&ads.v37=pursuit-up&ads.n38=dnt&ads.v38=&ads.n39=w&ads.v39=1920&ads.n40=app_name&ads.v40=&ads.n41=content_type&ads.v41=channel&ads.n42=content_livestream&ads.v42=1&ads.n43=app_store_url&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_company_id&ads.v45=AMDP500223&ads.n46=device_model&ads.v46=&ads.n47=channel_ext_id&ads.v47=6196ecb58cb60e0f204e2041&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=channel_title&ads.v49=EPG%20%20Pursuit%20Up%20Channel&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=channel_language&ads.v53=en&ads.n54=app_bundle&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=did&ads.v56=&ads.n57=content_producer_name&ads.v57=Pursuit%20Media%20TV%20LLC&ads.n58=channel_id&ads.v58=02C8D91A-6765-48BC-BC15-8BC069E88062
-
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel", SPORTSMAN CHANNEL
-https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/mpegts
 
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" tvg-name="WAYPOINT TV", WAYPOINT TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991358/hls/playlist.m3u8?ads.xumo_channelId=99991358&ads._fw_ifa_type=&ads._fw_did=8434fb1a-c2e7-4816-9895-ed3159581beb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WaypointTV&ads.csid=xumo_web_WaypointTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=908&ads.xumo_contentName=WaypointTV&ads.xumo_providerId=908&ads.xumo_providerName=WaypointTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991358&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -14691,8 +14683,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991358/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="plex.tv.Wired2Fish.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" tvg-name="WIRED2FISH", WIRED2FISH
 https://s4host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/dist/localnow/80/hls/master/playlist.m3u8?ads.cdnhost=s4host2.localnow.api.cms.amdvids.com&ads.playbackid=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n4=content_name&ads.v4=EPG%20%7C%20Wired2Fish&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=dnt&ads.v22=&ads.n23=channel_ext_id&ads.v23=605839d6d7944934b119e762&ads.n24=w&ads.v24=1920&ads.n25=device_make&ads.v25=&ads.n26=ip&ads.v26=195.179.200.80&ads.n27=device_model&ads.v27=&ads.n28=channel_id&ads.v28=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n29=content_type&ads.v29=channel&ads.n30=h&ads.v30=1080&ads.n31=gpp_sid&ads.v31=&ads.n32=channel_name&ads.v32=EPG%20%20Wired2Fish&ads.n33=channel_language&ads.v33=en&ads.n34=content_custom_1_param&ads.v34=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=content_provider&ads.v36=wired2fish&ads.n37=device_type&ads.v37=&ads.n38=pos&ads.v38=midroll&ads.n39=channel_brand_id&ads.v39=AMDB012132&ads.n40=app_version&ads.v40=0.0.0&ads.n41=ifa_type&ads.v41=&ads.n42=channel_title&ads.v42=EPG%20%20Wired2Fish&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=content_livestream&ads.v44=1&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=app_store_url&ads.v46=&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=content_custom_2_param&ads.v48=AMDB012132&ads.n49=did&ads.v49=&ads.n50=gpp&ads.v50=&ads.n51=network_name&ads.v51=wired2fish&ads.n52=channel_company_id&ads.v52=AMDP500136&ads.n53=channel_genre&ads.v53=Sports&ads.n54=app_name&ads.v54=&ads.n55=channel_rating&ads.v55=TV-PG&ads.n56=channel_corp&ads.v56=Frequency%20Networks%20INC&ads.n57=app_bundle&ads.v57=&ads.n58=content_producer_name&ads.v58=Frequency%20Networks%20INC
 
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK
-https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/mpegts
 
 
 # -----------Sports Temp 1----------------
@@ -16265,7 +16255,7 @@ https://fl1.moveonjoy.com/PPV_4/mpegts
 #EXTVLCOPT:origin=https://www.moveonjoy.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-https://fl1.moveonjoy.com.mpegts
+https://fl1.moveonjoy.com/mpegts
 
 
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6a", PPV 6
