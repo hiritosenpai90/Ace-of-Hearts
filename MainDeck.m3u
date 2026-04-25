@@ -9,17 +9,17 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 25" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Celtics vs 76ers
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=930991567dcba63f4e0853756ea4a086408ba53ef511646c736aacdd552bab27
+#EXTINF:27 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM Pistons vs Magic
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
 
-#EXTINF:28 group-title="NBA LIVE APRIL 25" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8AM Lakers vs Rockets
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=930991567dcba63f4e0853756ea4a086408ba53ef511646c736aacdd552bab27
+#EXTINF:28 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Thunder vs Suns
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
 
-#EXTINF:28 group-title="NBA LIVE APRIL 25" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",10:30AM Spurs vs Trail Blazers
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=930991567dcba63f4e0853756ea4a086408ba53ef511646c736aacdd552bab27
+#EXTINF:28 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",6AM Knicks vs Hawks
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
 
-#EXTINF:29 group-title="NBA LIVE APRIL 25" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=930991567dcba63f4e0853756ea4a086408ba53ef511646c736aacdd552bab27
+#EXTINF:29 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8:30AM Nuggets vs Timberwolves
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
 
 
 
@@ -28,23 +28,29 @@ https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=93099156
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 25",7AM Celtics vs 76ers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",1AM Pistons vs Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.underupturnip.net/nba.m3u8
+https://602.simpleabigal.xyz/sn.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 25"8AM Lakers vs Rockets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",3:30AM Thunder vs Suns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/nba2.m3u8
+https://daffodil.simpleabigal.xyz/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 25",10:30AM Spurs vs Trail Blazers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",6AM Knicks vs Hawks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.marllonferreira.space/nba.m3u8
+https://daffodil.simpleabigal.xyz/nba2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",8:30AM Nuggets vs Timberwolves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.simpleabigal.xyz/nba2.m3u8
 
 
 
@@ -59,48 +65,80 @@ https://daffodil.marllonferreira.space/nba.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",2:30AM RB Leipzig vs Union Berlin
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",5:30AM Bahia vs Santos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.underupturnip.net/dgo.m3u8
+https://602.simpleabigal.xyz/fana.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",2:45AM Napoli vs Cremonese
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",5:30AM Botafogo vs Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.marllonferreira.space/dep.m3u8
+https://602.simpleabigal.xyz/fana2.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",2:45AM Brest vs Lens
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7AM Pachuca vs Pumas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.marllonferreira.space/espnu.m3u8
+https://602.simpleabigal.xyz/tudn.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",3AM Sunderland vs Nottingham Forest
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7AM Tigres UANL vs Mazatlan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.marllonferreira.space/plp.m3u8
+https://602.simpleabigal.xyz/universo.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",3AM Real Betis vs Real Madrid
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7:30AM Inter Miami vs New England
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.marllonferreira.space/golazo.m3u8
+https://602.simpleabigal.xyz/mls2.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",3AM Leicester City vs Millwall
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",8AM São Paulo vs Mirassol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/sportv.m3u8
+https://602.simpleabigal.xyz/fana5.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 25",11AM Puebka vs Querétaro
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",9AM Toluca vs Leon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/fana.m3u8
+https://602.simpleabigal.xyz/tudn.m3u8
 
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",9:07AM Chivas vs Tijuana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/universo.m3u8
+
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",11AM América vs Atlas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/tudn.m3u8
+
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",11AM Juárez vs San Luis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/universo.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png"
+
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png" group-title="AMERICAN FOOTBALL APRIL 26",12:30AM NFL Draft - Day 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/nfl.m3u8
 
 
 
@@ -112,40 +150,24 @@ https://602.underupturnip.net/fana.m3u8
 
 #EXTINF:-1 group-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif"
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 25",7AM Tampa Bay Lightning vs Montreal Canadiens
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",3AM Carolina Hurricanes vs Ottawa Senators
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.underupturnip.net/nhl.m3u8
+https://daffodil.simpleabigal.xyz/nhl.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 25",9:30AM Vegas Golden Knights vs Utah Mammoth
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",5:30AM Dallas Stars vs Minnesota Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/nhl.m3u8
+https://daffodil.simpleabigal.xyz/nhl.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 25",10AM Edmonton Oilers vs Anaheim Ducks
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",8AM Pittsburgh Penguins vs Philadelphia Flyers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.appmissao.com.br/nhl.m3u8
+https://daffodil.simpleabigal.xyz/nhl.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png"
-
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png" group-title="FOOTBALL APRIL 25",8AM NFL Draft - Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/nfl.m3u8
 
 
 
@@ -158,89 +180,54 @@ https://602.underupturnip.net/nfl.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",6:40AM Detroit Tigers vs Cincinnati Reds
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",6:05AM San Diego Padres vs. Arizona Diamondbacks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb.m3u8
+https://602.simpleabigal.xyz/mlb8.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:05AM Boston Red Sox vs Baltimore Orioles
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:05AM Athletics vs. Texas Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.marllonferreira.space/mlb2.m3u8
+https://602.simpleabigal.xyz/mlb9.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:07AM Cleveland Guardians vs Toronto Blue Jays
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM Los Angeles Angels vs. Kansas City Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb3.m3u8
+https://602.simpleabigal.xyz/mlb10.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:10AM Colorado Rockies vs New York Mets
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM New York Yankees vs. Houston Astros
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.marllonferreira.space/mlb4.m3u8
+https://602.simpleabigal.xyz/mlb11.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:10AM Minnesota Twins vs Tampa Bay Rays
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM Pittsburgh Pirates vs. Milwaukee Brewers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb5.m3u8
+https://602.simpleabigal.xyz/mlb12.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:15AM Philadelphia Phillies vs Atlanta Braves
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Detroit Tigers vs. Cincinnati Reds
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb6.m3u8
+https://602.simpleabigal.xyz/mlb13.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:40AM Los Angeles Angels vs Kansas City Royals
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Philadelphia Phillies vs. Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb7.m3u8
+https://602.simpleabigal.xyz/mlb14.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:40AM Washington Nationals vs Chicago White Sox
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Chicago Cubs vs. Los Angeles Dodgers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb8.m3u8
+https://602.simpleabigal.xyz/mlb14.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",7:40AM Pittsburgh Pirates vs Milwaukee Brewers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb9.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",8:05AM Athletics vs Texas Rangers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb10.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",8:10AM New York Yankees vs Houston Astros
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb11.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",8:15AM Seattle Mariners vs St. Louis Cardinals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb12.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",10:15AM Chicago Cubs vs Los Angeles Dodgers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb13.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 25",10:15AM Miami Marlins vs San Francisco Giants
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.underupturnip.net/mlb14.m3u8
 
 
 
@@ -253,11 +240,42 @@ https://602.underupturnip.net/mlb14.m3u8
 
 #EXTINF:-1 group-logo="https://img.freepik.com/vecteurs-premium/logo-du-club-combat_25327-177.jpg"
 
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 25",8AM WWE Smackdown
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 26",5AM UFC Fight Night: Sterling vs. Zalal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.underupturnip.net/wwe.m3u8
+https://602.simpleabigal.xyz/sn.m3u8
+
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/20376611130956c6ffafc045be83d906-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 26",8AM Miller vs Pero
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/ppv2.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg"
+
+#EXTINF:-1 tvg-id="Motorsport.tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg" group-title="MOTORSPORTS APRIL 26",4AM NASCAR O'Reilly Auto Parts - Race
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/nascar.m3u8
+
+#EXTINF:-1 tvg-id="Motorsport.tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg" group-title="MOTORSPORTS APRIL 26",7AM AMA Supercross - Heats & Races
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://602.simpleabigal.xyz/sx.m3u8
 
 
 
@@ -26443,182 +26461,184 @@ https://drive.usercontent.google.com/download?id=1q9SfwUSgvGBLNFR914XwEb2hnpp4LH
 https://drive.usercontent.google.com/download?id=1llsVw3exEk8PvG7texTHKJhuTVW4oTYA&export=download&authuser=6&confirm=t&uuid=a77ba7a7-42cf-4605-a09d-7313a37b48d9&at=APvzH3pDnjzI-RRHseRsSH12EtjL:1735260203107
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=1gp4ZbDBsb1yX8HTtNZ1Ln1xvWFB29ycX&export=download&authuser=0" group-title="PETER PAN",PETER PAN 39
 https://drive.usercontent.google.com/download?id=18UuKbwxWxsCFVcfXQxUlbtDS6z8aQ3ul&export=download&authuser=6&confirm=t&uuid=a77ba7a7-42cf-4605-a09d-7313a37b48d9&at=APvzH3pDnjzI-RRHseRsSH12EtjL:1735260203107
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 1
 https://drive.usercontent.google.com/download?id=1z__oY8m0xi4AjyCRUdvl6vJ7nU-GisaU&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 2
 https://drive.usercontent.google.com/download?id=1xPmOAljsyI0TliFYo4VM2YGqeuhfJ_VB&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 3
 https://drive.usercontent.google.com/download?id=1YLx2m2NYaOH1Dor0evIvFGlh0SMnFopd&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 4
 https://drive.usercontent.google.com/download?id=19Rfvho7bi-rHu5xWgfthydbaz34tmGUu&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 5
 https://drive.usercontent.google.com/download?id=12KxSPuLOXTZnlQMxjpnJU5OS1oddWDAL&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 6
 https://drive.usercontent.google.com/download?id=1fFsQ-mFNQ0z3fJMqvuIykEz3ZyVPmsP0&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 7
 https://drive.usercontent.google.com/download?id=1kG1iPp37xFzUpfCSxyUF4BfJLCTp4aeX&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 8
 https://drive.usercontent.google.com/download?id=1hvIeTRF7tAHW8dLD_f1Pw63fpclglBg3&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 9
 https://drive.usercontent.google.com/download?id=11mydJJaxGfq3-3NHvix3t9AgfM-FQWJO&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 10
 https://drive.usercontent.google.com/download?id=1a1XQYSKgCUKFeAAqehdiGk_bntBCAjrm&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 11
 https://drive.usercontent.google.com/download?id=1zrNQ7lVzzc99g11b-5vqpEqOmrM1vTRF&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 12
 https://drive.usercontent.google.com/download?id=1riFxnWQNNQXrRDTGDOVc8qhS1rOM_Aw5&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 13
 https://drive.usercontent.google.com/download?id=1VK37Vf1hpoYfz-j1TO8t7blxnOV3mT02&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 14
 https://drive.usercontent.google.com/download?id=1oeTap0uJ_t-K7fAE6Bm4dYZLiK2SpgIF&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 15
 https://drive.usercontent.google.com/download?id=1J5QSdmC293ldg_XbwyPHmH-zkJXRZ-Po&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 16
 https://drive.usercontent.google.com/download?id=1Qaz21acZ_US63vjKSu44X-YKjtXXBGgW&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 17
 https://drive.usercontent.google.com/download?id=1JDyCXyapPCfdxXfvLpeELLzqtVA7alQS&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 18
 https://drive.usercontent.google.com/download?id=1OU9enQovRkg_epoUHaVIDTZKOf5i0gb7&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 19
 https://drive.usercontent.google.com/download?id=13K_-URnMsJygAxiFEnV3jjjmnSWvgTno&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 20
 https://drive.usercontent.google.com/download?id=15Cz5SjVRy-M9owun8t0h5hiSpRDvZRGx&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 21
 https://drive.usercontent.google.com/download?id=1SAc2WkWQcq3XPXe_fTG36QMYuTZT5k2m&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 22
 https://drive.usercontent.google.com/download?id=19XvHhaEOcxuOiDocxKVeaQQiPFo8KYUN&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 23
 https://drive.usercontent.google.com/download?id=1HfegB_7hKzOKqczJgVmLDwR2DXa4AmlU&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 24
 https://drive.usercontent.google.com/download?id=10vpW8XZoAf8wdOczORE85oxHC40b0-C7&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 25
 https://drive.usercontent.google.com/download?id=10QUub1cMyqPDm5vysWMB8KUxGr7s3DnW&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 26
 https://drive.usercontent.google.com/download?id=1T7KlOn5wcL_0YcKrjUIJ3d7z9B_Q4nsi&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 27
 https://drive.usercontent.google.com/download?id=19VYsJOGLHvvM90a4g8BF2W2tWRwLDjpb&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 28
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 28
 https://drive.usercontent.google.com/download?id=1wrRIdDzwklCsY2SoQjJwtHSt90RFcucA&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 29
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 29
 https://drive.usercontent.google.com/download?id=1d1S2kyMK4LRGSzVWaeC_uxP2IJM5NHLq&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 30
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 30
 https://drive.usercontent.google.com/download?id=1k4HRB9UBDtTRlp8G8cU4qpfyXOBIwxCl&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 31
 https://drive.usercontent.google.com/download?id=1xosyLhKg0WaV40HjLezloToNcxbiPtEC&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 32
 https://drive.usercontent.google.com/download?id=1UD41cfHPxrB9AEF4tgMmNkW2ApXTJOjk&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 33
 https://drive.usercontent.google.com/download?id=1Yp2spT1Nt7oz-2DsjFjkJOBtKSAv09qA&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 34
 https://drive.usercontent.google.com/download?id=1wDSPfWv937jk9J7mfx3pFi7CbnI5u36k&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 35
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 35
 https://drive.usercontent.google.com/download?id=1Z7KfaYkWwC2Lf9g932v0yVRdYnSp1buM&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 36
 https://drive.usercontent.google.com/download?id=1wXFZz-thsQsoHD9THEy6vDXYu_CVEzrY&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 37
 https://drive.usercontent.google.com/download?id=18buPMEov5BVQTqUaRf6D8iAUR3WG3qF6&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 38
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 38
 https://drive.usercontent.google.com/download?id=1IBY09ryhyl1EZPO5QXqhYC5uwDNzReqY&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 39
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 39
 https://drive.usercontent.google.com/download?id=1HgIzuS-fAEmGChu3bPjJPduuDU3dEnaE&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 40
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 40
 https://drive.usercontent.google.com/download?id=1TiYE7m4Hoj9Ex37RFH-LZuPWSqx8BPSX&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 41
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 41
 https://drive.usercontent.google.com/download?id=1oIIhZE72Wm22DVbYJqq3fjj3g4CiwBrf&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 42
 https://drive.usercontent.google.com/download?id=1JgsikyGLZa8y4p0za1GXzajIFExyJ_v9&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 43
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 43
 https://drive.usercontent.google.com/download?id=1civA_ikZab8OXxT-bCsFnU2kRLGHlLtd&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 44
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 44
 https://drive.usercontent.google.com/download?id=16lNyRL5JhOscRPSX6AixcLS-QLNQjSK8&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 45
 https://drive.usercontent.google.com/download?id=13jlpuyV8BWFQWS2ae9YVHuTWkaGRDfaP&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 46
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 46
 https://drive.usercontent.google.com/download?id=1QSraqmezoNuwP0jMk345aL9zwS1wvt4W&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 47
 https://drive.usercontent.google.com/download?id=1YatvW2e3mHceJGFu34QW41cQbvj4kG6H&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 48
 https://drive.usercontent.google.com/download?id=1f58d4TDBqZ68A2FLSEb8ZIBQ6B66hVfT&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU GOH ARC V",YU GOH ARC V 49
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/YGHArcV1vol.jpg/220px-YGHArcV1vol.jpg" group-title="YU-GI-OH ARC V",YU-GI-OH ARC V 49
 https://drive.usercontent.google.com/download?id=1R8dokDYfsXQh1gdNL4sHysSXN4Et9-6q&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA1
 https://drive.usercontent.google.com/download?id=1JxtmMlzQPV8bd5qvQP6dXhTTkenIAfhU&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA2
 https://drive.usercontent.google.com/download?id=1z7xg8NEUiEOhqAVNhBINeognP0rVzBTz&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA3
 https://drive.usercontent.google.com/download?id=1okbXjchbapddOrxKhPCfUFkAXDyoJDvo&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA4
 https://drive.usercontent.google.com/download?id=1UJdHvNsZ9v5UC6O6V_iwxFkYsCICjoEm&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA5
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA5
 https://drive.usercontent.google.com/download?id=1JiwAc_DK05qCW4_hN_n2QCr1Y9_WFz4C&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA6
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA6
 https://drive.usercontent.google.com/download?id=1z3fC-OKvFzEhBrTS35IKct6ZQxCkY9wn&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA7
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA7
 https://drive.usercontent.google.com/download?id=1ty1hqXY70OA5efsdLykXJxDoqrx4iXUs&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA8
 https://drive.usercontent.google.com/download?id=19ho9Jl5TPt-x-8tzIgazIWO8naG-NpcR&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA9
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA9
 https://drive.usercontent.google.com/download?id=1cwdAHNJZJwLInF-E5pEDQHJTxWDNGW79&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA10
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA10
 https://drive.usercontent.google.com/download?id=17BQzGq81qTa6K0mJlz9ilMI8Me-u7NWv&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA11
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA11
 https://drive.usercontent.google.com/download?id=1jo1Mlxc3ONKuIetUp2WG63EmC9q9ceq0&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA12
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA12
 https://drive.usercontent.google.com/download?id=1x-dLLkNKReUmVB3L_EuAz2n3m8hS26z2&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA13
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA13
 https://drive.usercontent.google.com/download?id=16nFTE6rCa3kqHnoQL73Ib9W3YHgVgx7v&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA14
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA14
 https://drive.usercontent.google.com/download?id=1zLjr56m9RUGaH-acesO0zwR-0BPTjA81&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA15
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA15
 https://drive.usercontent.google.com/download?id=1ewefEW93JTDJsoqOZdPUypSh1pXukHAN&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA16
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA16
 https://drive.usercontent.google.com/download?id=1D_aeTRutX4P1qjIgzQYPv19qdRdrt9aH&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA17
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA17
 https://drive.usercontent.google.com/download?id=1C0Ke5PMxr5-lq6BgWjQAflw7VTR7e83d&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA18
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA18
 https://drive.usercontent.google.com/download?id=1-odsXmFl9tbf6_syZagbHjWs7rF_XnNF&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA19
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA19
 https://drive.usercontent.google.com/download?id=1wRlGLEdjNtBdFCFziA9BkVEnpvLawOiQ&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA20
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA20
 https://drive.usercontent.google.com/download?id=18fcT7HPwnbSq8X0CxVrYQSc-av6fE5qA&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA21
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA21
 https://drive.usercontent.google.com/download?id=1x71XM3xdJSWoE-Uv862lLOF523SxftTI&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA22
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA22
 https://drive.usercontent.google.com/download?id=1tjwhTui1ZjUWxYTj7wZ-gmm2QIKbNTz3&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA23
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA23
 https://drive.usercontent.google.com/download?id=1jQxz0TRquOk4t4yz8c--xvoq_C1vHoTQ&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA24
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA24
 https://drive.usercontent.google.com/download?id=1OCKeZIS7v-2hvNRYll314kJh5AZ3O_mD&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA25
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA25
 https://drive.usercontent.google.com/download?id=1nMI3I3kbMb9_Lq4B1-mb_rhajLEMtMeP&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA26
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA26
 https://drive.usercontent.google.com/download?id=1QL3GylDGLcWtMa9DtCSh5UgN9dwSid0F&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA27
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA27
 https://drive.usercontent.google.com/download?id=1OWMXZne9RC5JVaeeHr7rg07WutbHfuQA&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA28
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA28
 https://drive.usercontent.google.com/download?id=1IBHZIRoxIvWY1a-lmlLKH52Td2Mc20pQ&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA29
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA29
 https://drive.usercontent.google.com/download?id=1_7jvon6wl9affPtezDMaw7d5fEB6qEtS&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA30
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA30
 https://drive.usercontent.google.com/download?id=1S9Pg_6Rw8PEKuCAApjtGylvgHEWx2atf&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA31
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA31
 https://drive.usercontent.google.com/download?id=1uaG9Dm3I8T7robAZsexx1pG5pJ0AVZmK&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA32
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA32
 https://drive.usercontent.google.com/download?id=1gwqD6ZX-FSerbs4fBMmxkDA65HrG7Xg4&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA33
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA33
 https://drive.usercontent.google.com/download?id=1fv92qNTrV3uhvMHvzcPuFahbzORybbmu&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA34
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA34
 https://drive.usercontent.google.com/download?id=1sHS2e3GVoKdc0oRiB_mHKXH78hVhUr0q&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA35
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA35
 https://drive.usercontent.google.com/download?id=1cffa8mF9cHJSijLU36KJsfS_k4fRtbTI&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA36
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA36
 https://drive.usercontent.google.com/download?id=1MkNSojsPGEQ544WEY6zZRau6y5tuBs6E&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA37
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA37
 https://drive.usercontent.google.com/download?id=1_OL7kvOUQZjonLTFMatt50NrEaaNaRra&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA38
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA38
 https://drive.usercontent.google.com/download?id=1UmZY5NqFx4Rltc2I57fB1JCWP5ObgOjB&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU GOH ZEXAL",YU GOH ZEXA39
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9159XNY+dIL._AC_UF1000,1000_QL80_.jpg" group-title="YU-GI-OH ZEXAL",YU-GI-OH ZEXA39
 https://drive.usercontent.google.com/download?id=1CmYBO0-ZEhMSFwqgPsz8EOZdEQwdfykw&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2NTU1YzctZDBmMy00MDMzLTlmOTctOWY1ZGVjMzg2N2JiXkEyXkFqcGc@._V1_.jpg" group-title="YU-GI-OH! 5D",YU-GI-OH! 5D 1
 https://drive.usercontent.google.com/download?id=1pTayBxcOrL41DZNn3M86FPeYm1WqZfLg&export=download&authuser=1&confirm=t&uuid=ce18f2b2-cb20-458a-9373-078e513c3aba&at=APvzH3o_Iw4yfPO1LhGVAYzjXkKC:1735489752632
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2NTU1YzctZDBmMy00MDMzLTlmOTctOWY1ZGVjMzg2N2JiXkEyXkFqcGc@._V1_.jpg" group-title="YU-GI-OH! 5D",YU-GI-OH! 5D 2
@@ -26792,38 +26812,40 @@ https://drive.usercontent.google.com/download?id=1PEHp9ectF_25f0KMbVHp9spOe6O3gz
 https://drive.usercontent.google.com/download?id=1eDQWFl1S8TDs_Zr4mIjm4kEH_bvCT8AP&export=download&authuser=0&confirm=t&uuid=15de57f9-a0cd-4fb0-99f9-3bd54c9b8ee1&at=AN_67v2hCx_uaDXcZlf3yMJSXh2V%3A1728783897584
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjEQ2d22v4beXbPeMX7yHIlniM3IO0PzIBCwyYDp0_InWNYlkNDvYnm7h0ZOH_xDgAzPEXs_tEfzW0byEOF6he5g6JCoPL3dB5ycmUO_dqvmL2QN-yORfF3f7W31CIjJySKVl1MyC_fZMXl-5IifQQWBN90L0Gf70pUI_zeuvmlLbupvALVI9JF3WSM=w600" group-title="WITCHBLADE",EPISODE 23
 https://drive.usercontent.google.com/download?id=1EJjJnseLDbI8DuJEYvWCYnsPhDQipTV3&export=download&authuser=0&confirm=t&uuid=4b8502b9-00df-4d56-8fff-374bacb6f5a2&at=AN_67v3SJf4neKfG9ITTz-LRFGIG%3A1728783872399
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 1
+
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 1
 https://drive.usercontent.google.com/download?id=1gJX2Osp1scLzPmXnbx4AmAaKefd5UF54&export=download&authuser=0&confirm=t&uuid=b6e7f507-585b-444b-8de1-79276786dcae&at=AO7h07eb3z3fiFz-O8KLaX47bofN:1724523751870
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 2
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 2
 https://drive.usercontent.google.com/download?id=1pbSnJmTo2qPnOu0U7sLW3VW2QH9lN5Y7&export=download&authuser=0&confirm=t&uuid=2ed5b6e7-c48d-4aa5-ba1b-0d18c2a1c7bb&at=AO7h07en-BM5aUxeM3s1MgoFyPBd:1724523748742
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 3
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 3
 https://drive.usercontent.google.com/download?id=1Xwd2x_3g9_wjQQsVe8EJesI9wkDxJgcO&export=download&authuser=0&confirm=t&uuid=42fe66a4-64cb-43ab-8599-a520bb4b98c7&at=AO7h07ezyNrSPm5Xsc-V1Wh2F76B:1724523746533
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 4
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 4
 https://drive.usercontent.google.com/download?id=1gI84ZwCjsV48wwAule84v9Mn11qkrafK&export=download&authuser=0&confirm=t&uuid=bf767fca-115a-4cd3-9aa8-dde22d0be99f&at=AO7h07faHusLmfs2Ucoov3hpVIta:1724523743050
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 5
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 5
 https://drive.usercontent.google.com/download?id=1VZZNSpDw1qz1EKYO6El3oOLxC8WgKywc&export=download&authuser=0&confirm=t&uuid=a4cd1dd5-fd51-4e92-90ec-d24f48a7b088&at=AO7h07cW2Zr56sSllaCs1kjO3tBA:1724523729660
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 6
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 6
 https://drive.usercontent.google.com/download?id=1pdkdU-pRDRrxH4bb0eUPz64gQBKf3wXh&export=download&authuser=0&confirm=t&uuid=c7d7ed1e-c246-45eb-97d3-0b69256a2aee&at=AO7h07dlNqTpsOsp5Ck6yoQJ1vnT:1724523725288
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 7
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 7
 https://drive.usercontent.google.com/download?id=1k5CeOEARf7O3d-z7NmNIK4ktpbaXaAdj&export=download&authuser=0&confirm=t&uuid=2b33c64c-ce3f-4b87-96b4-897381273eaf&at=AO7h07fiatNb-cDZyrSKsUIKFIpO:1724523722644
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 8
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 8
 https://drive.usercontent.google.com/download?id=1Xi79ojHPmXgk_haQCDB0CYt8EcHWfaBL&export=download&authuser=0&confirm=t&uuid=d0eccea0-2394-44a5-8550-45d46a397e5f&at=AO7h07c_2LAWHDcttOB7efvfqjPG:1724523720213
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 9
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 9
 https://drive.usercontent.google.com/download?id=173SLpXL2sEdgm2HaJFbl-1d0x-s5rFDT&export=download&authuser=0&confirm=t&uuid=325af868-6ef5-4e6c-9dbf-9bb0f00837f0&at=AO7h07eHL6j1GJAzPmwPDQww7k7Y:1724523705889
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 10
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 10
 https://drive.usercontent.google.com/download?id=1PtEU8e0ZGqHiywiGbF07ipbcC6KrzsVQ&export=download&authuser=0&confirm=t&uuid=83c3777b-54ec-489f-9261-c4a7841539c6&at=AO7h07dVkIHnKlYLRWuQmVWgGCjC:1724523703174
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 11
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 11
 https://drive.usercontent.google.com/download?id=1eDZ2ZDHVGn40UQyqlqWGwVUmoCdPt7Hz&export=download&authuser=0&confirm=t&uuid=8a2afc07-56cc-45f8-972e-eabb77904e9d&at=AO7h07c_zK8zHN3QI_-vIupdnumf:1724523699803
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 12
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 12
 https://drive.usercontent.google.com/download?id=1xutEAGTulOJJaRQj0dcNowCojsYqx5Ts&export=download&authuser=0&confirm=t&uuid=d30cf9a8-affa-424e-8bc0-07d569dbcd2f&at=AO7h07dKthEiQ81A904fUs6BqzZ1:1724523687454
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 13
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 13
 https://drive.usercontent.google.com/download?id=1DMNwL1vfIJy2diT-hfNqGF5M_UUHs9lc&export=download&authuser=0&confirm=t&uuid=5f41fe78-63f6-43c0-97d0-b982e136e8ab&at=AO7h07fWPvUg6cL3y36Y3eomPzDN:1724523682696
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 14
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 14
 https://drive.usercontent.google.com/download?id=1ULlLavod1A7qK9PNnuhvq89VxYkne616&export=download&authuser=0&confirm=t&uuid=55f2795e-c025-4412-bc36-1e9699773a81&at=AO7h07cs0tKLJ0EJyKtNy-HHEKJO:1724523671244
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER",EPISODE 15
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER",EPISODE 15
 https://drive.usercontent.google.com/download?id=1xqh3aeb7mSciBMFdLX7ja5nnonU1y63L&export=download&authuser=0&confirm=t&uuid=22248a48-a576-4fe4-a006-5a38dfe836be&at=AO7h07eOqjSIh1FEZUz9J87a6IMr:1724523651591
-#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOSAWYER"ON GOING
+#EXTINF: -1 tvg-logo="https://drive.usercontent.google.com/download?id=1_TcOCxPAsOZHtlaPk94413-Shl60Pm6m&export=download&authuser=0&confirm=t&uuid=0ed2f588-5f14-43ab-9fd6-81b545a21859&at=AO7h07dnTNJA937pUExPSZ656Hfj:1724524044315" group-title="THE ADVENTURES OF TOMSAWYER"ON GOING
 https://basti.clan.su/updatewait.mp3
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqmGZe1GvZ6tdBYW9FGQksZ95kN5HVIL7sVGs8ZsZ_WmUnUEEGgvjh_7B4DoETGUlahyfWVxgwBK923iPjtJ8ECLqEtAIGGzMFqpzIovKywMm-vkJeaBhDcru_Zp127iisO2j6jocEHEDIvAeqm34_Wuo7hk2nsu2R7VWtqlkrnz6aCMlQp2DKaw08/w600/japan.jpg" group-title="YAKITATE JAPAN",EPISODE 1
 https://ia600202.us.archive.org/1/items/yaitate-jap-n-29_202403/%CA%B8%E2%93%90%D0%BA%F0%9D%90%A2%F0%9D%93%BD%F0%9D%94%9E%F0%9D%94%B1%F0%9D%93%94%20%F0%9D%90%89%F0%9D%93%90%F0%9D%94%AD%CE%94%F0%9D%90%A71.mp4
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqmGZe1GvZ6tdBYW9FGQksZ95kN5HVIL7sVGs8ZsZ_WmUnUEEGgvjh_7B4DoETGUlahyfWVxgwBK923iPjtJ8ECLqEtAIGGzMFqpzIovKywMm-vkJeaBhDcru_Zp127iisO2j6jocEHEDIvAeqm34_Wuo7hk2nsu2R7VWtqlkrnz6aCMlQp2DKaw08/w600/japan.jpg" group-title="YAKITATE JAPAN",EPISODE 2
