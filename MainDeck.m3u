@@ -9,30 +9,12 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U x-tvg-url=""
-
-#EXTINF:27 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 1
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-#EXTINF:28 group-title="NBALP" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 2
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-#EXTINF:28 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 3
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-#EXTINF:29 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-
-
-
-
-#EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/cgxACBB.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Cavaliers vs Pistons
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
+#EXTINF:27 group-title="NBA LIVE MAY 9" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/bp1jIbc.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Knicks vs 76ers
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
 
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/xsJrijA.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Lakers vs Thunder
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
+#EXTINF:27 group-title="NBA LIVE MAY 9" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/p8LvYPM.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Spurs vs Timberwolves
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
 
 
 
@@ -41,13 +23,13 @@ https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=35cb8fed
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/1MJOmag.png" group-title="NBA Live HD MAY 8",7AM Cavaliers vs Pistons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e244cd7c443b43a59c888679542d6835-thumbnail.jpg" group-title="NBA Live HD MAY 9",7AM Knicks vs 76ers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.sraspers.org/nba.m3u8
+https://601.denishdhakal.com.np/nba.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/HxsMCVc.png" group-title="NBA Live HD MAY 8",9:30AM Lakers vs Thunder
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f143f3b9a6e9ce5e0ccedf3398cc075-thumbnail.jpg" group-title="NBA Live HD MAY 9",9:30AM Spurs vs Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
@@ -60,15 +42,38 @@ https://daffodil.denishdhakal.com.np/nba.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/WUktlLu.png" group-title="NBA Live HD MAY 8(S2)",7AM Cavaliers vs Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/iA6ITev.png" group-title="NBA Live HD MAY 9(S2)",7AM Knicks vs 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb1.bpfiles.cfd/live/pistons/stream.m3u8
+https://nb1.bpfiles.cfd/live/76ers/stream.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/HxsMCVc.png" group-title="NBA Live HD MAY 8(S2)",9:30AM Lakers vs Thunder
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/p8LvYPM.png" group-title="NBA Live HD MAY 9(S2)",9:30AM Spurs vs Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb2.bpfiles.cfd/live/thunder/stream.m3u8
+https://nb2.bpfiles.cfd/live/timber/stream.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 9",10:10AM Atlanta Braves vs Los Angeles Dodgers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/mlb14.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 9",10:15AM Pittsburgh Pirates vs San Francisco Giants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/mlb11.m3u8
 
 
 
@@ -82,11 +87,33 @@ https://nb2.bpfiles.cfd/live/thunder/stream.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/MFedyaJ.png"
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 8",8AM Carolina Hurricanes vs Philadelphia Flyers
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 9",7AM Montreal Canadiens vs Buffalo Sabres
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.sraspers.org/nhl.m3u8
+https://daffodil.denishdhakal.com.np/nhl.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 9",9:30AM Vegas Golden Knights vs Anaheim Ducks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/nhl.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
+
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="COMBAT SPORTS MAY 9",8AM WWE Smackdown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.sraspers.org/wwe.m3u8
 
 
 
@@ -140,21 +167,25 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIF.Bw5SAQF%2fL5JihEHFuHPL6Q&pid=Api&h=220&P=0" group-title="PH HayabusaTV",LIVE Duterte (Republic of the Philippines) Confirmation of charges
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25cc-f099-3850f3429fb9/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tX5134VKA.jpg" group-title="PH HayabusaTV",PBB COLLAB 2.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
-
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/ccd312c8-e528-40ec-902c-e4205750ed11/index.mpd
 
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",iKapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="PH HayabusaTV",DZMM Teleradyo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/48fc2f9d-055e-4c0c-adab-a81b6956a20b/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="PH HayabusaTV",MOR Entertainment
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
+https://abslive.akamaized.net/dash/live/2027618/mor/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBOSEaSl.png" group-title="PH HayabusaTV",SINE PLUS
 https://sineplus_hd.vonnhost.workers.dev/mono.ts.m3u8
@@ -192,6 +223,9 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
 https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV",MAX Reels Indonesia
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tap-silog-ph.png" group-title="PH HayabusaTV",Tap silog Channel
 https://tapsilog.honor-tv.42web.io/live/index.m3u8
