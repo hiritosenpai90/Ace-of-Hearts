@@ -16,7 +16,6 @@ https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf
 
 
 
-#EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c841822044463218d97b8a59ff0941e8-thumbnail.jpg" group-title="NBA Live HD MAY 18",7AM Pistons vs Cavaliers
@@ -31,7 +30,6 @@ https://601.shopacchgia.xyz/nba.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/1MJOmag.png" group-title="NBA Live HD MAY 18(S2)",7AM Pistons vs Cavaliers
@@ -46,7 +44,6 @@ https://bo1.bofiles.cfd/live/detroit/stream.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
 
 #EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 18",7:20AM San Diego Padres vs Seattle Mariners
@@ -57,8 +54,14 @@ https://mb3.bofiles.cfd/live/15/stream.m3u8
 
 
 
+############################# CIGNAL CHANNELS ############################
 
 
+
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
+
+#EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="CIGNAL CHANNELS", ONE PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -610,6 +613,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 
 
 
+#EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="CONVERGE CHANNELS",KAPAMILYA CHANNEL HD
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -1293,6 +1298,37 @@ http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="PINOY FM STATION",106.7 ENERGY FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+
+
+
+######################### Rage Media Network Radio Stations #####################
+
+
+
+
+#EXTINF:-1 group-logo="https://www.pngitem.com/pimgs/m/112-1120356_rock-rage-radio-logo-hd-png-download.png"
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a3iXI35.png" group-title="Rage Media Network Radio Stations",Rage Music Philippines
+https://stream.zeno.fm/q1n2wyfs7x8uv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mtxns7R.png" group-title="Rage Media Network Radio Stations",Clubmix
+https://stream.zeno.fm/d42hdvx96zhvv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nOBT9dU.png" group-title="Rage Media Network Radio Stations",Emotions
+https://stream.zeno.fm/03v7z8edgphvv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WhCxsNJ.png" group-title="Rage Media Network Radio Stations",Scream Radio
+https://stream.zeno.fm/c3z135w8zxhvv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JbkwiBQ.png" group-title="Rage Media Network Radio Stations",Vibe Radio
+https://stream.zeno.fm/4k8qf4raqy8uv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nfFWyYR.png" group-title="Rage Media Network Radio Stations",Hot Hiphop N RnB
+https://stream.zeno.fm/qrhuqbnm208uv.mp3
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CLD1X1t.png" group-title="Rage Media Network Radio Stations",iMix Radio
+https://stream.zeno.fm/iiigesdzikuvv.mp3
 
 
 
