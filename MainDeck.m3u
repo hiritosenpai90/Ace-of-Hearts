@@ -4,6 +4,12 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Fox League" group-title="Test",Fox League
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX League" group-title="Sports",FOX League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 7.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.0 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://netanyahu.indianservers.st/secure/lmFEHWNKBRapOwqsdFoDEzajezOfgzMc/1781920800/1781947800/foxleague/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTM3U
