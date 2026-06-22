@@ -13,38 +13,14 @@ https://vip.dytt-network.com/20260611/35782_b948738d/3000k/hls/mixed.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 group-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png"
-
-#EXTINF:-1  tvg-id="udptv/m6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6
-https://box.djdoolky76.net/stream/udptv/m6/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/m64k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6 4K
-https://box.djdoolky76.net/stream/udptv/m64k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
 #EXTINF:-1  tvg-id="udptv/tsn1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN1
 https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
-https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptvus/telemundoboston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TELEMUNDO | BOSTON
-https://box.djdoolky76.net/stream/udptvus/telemundoboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptvus/telemundobayarea" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TELEMUNDO | BAY AREA
-https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 #EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
 https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1  tvg-id="udptvus/fox4k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX 4K
-https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
 #EXTINF:-1  tvg-id="udptvus/fs1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FS1
 https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptvus/fs2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FS2
-https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 
 
